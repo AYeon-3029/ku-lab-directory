@@ -6,6 +6,21 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20viewBox=%220%200%2040%2040%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Crect%20x=%222%22%20y=%223%22%20width=%2236%22%20height=%2234%22%20rx=%229%22%20fill=%22%23A6192E%22/%3E%3Cpath%20d=%22M10%2014L18%2021L10%2028%22%20stroke=%22%23fff%22%20stroke-width=%224%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20fill=%22none%22/%3E%3Crect%20x=%2220%22%20y=%2225%22%20width=%2211%22%20height=%224.5%22%20rx=%221.5%22%20fill=%22%23fff%22/%3E%3C/svg%3E">
 <title>KU Computer Science Directory — 고려대 컴퓨터 분야 연구실</title>
 <meta name="description" content="고려대학교 정보대학·공과대학 연구실을 연구 분야(대분류·중분류·세부), 학회 등급(T1/T2), 학부 인턴 지표로 정리한 디렉토리">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="KU Computer Science Directory">
+<meta property="og:url" content="https://ku-lab-directory.vercel.app/">
+<meta property="og:title" content="KU Computer Science Directory — 고려대 컴퓨터 분야 연구실">
+<meta property="og:description" content="고려대 컴퓨터학과·인공지능학과·데이터과학과·전기전자공학부·기계공학부 연구실 132곳을 연구 분야, 2024–26 논문 실적(T1/T2), 학부 인턴, 졸업생 진로로 한눈에 비교해 보세요.">
+<meta property="og:image" content="https://ku-lab-directory.vercel.app/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="KU Computer Science Directory — 고려대 컴퓨터 분야 연구실 132곳">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="KU Computer Science Directory">
+<meta name="twitter:description" content="고려대 컴퓨터학과·인공지능학과·데이터과학과·전기전자공학부·기계공학부 연구실 132곳을 연구 분야, 2024–26 논문 실적(T1/T2), 학부 인턴, 졸업생 진로로 한눈에 비교해 보세요.">
+<meta name="twitter:image" content="https://ku-lab-directory.vercel.app/og.png">
+<meta name="theme-color" content="#A6192E">
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"></noscript>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -49,7 +64,6 @@ header.top{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);bac
 .brand span{display:block;font-size:10.5px;letter-spacing:.14em;color:var(--ink-3);font-weight:600}
 nav.tabs{margin-left:auto;display:flex;gap:4px}
 nav.tabs a{text-decoration:none;font-size:14px;font-weight:600;color:var(--ink-2);padding:8px 12px;border-radius:999px}
-nav.tabs a:hover{background:var(--bg-2);color:var(--ink)}
 
 .eyebrow{font-size:12px;font-weight:800;letter-spacing:.16em;color:var(--crimson);text-transform:uppercase;margin:0 0 10px}
 .hero{padding:44px 0 8px}
@@ -74,7 +88,6 @@ p.sub{margin:0 0 18px;color:var(--ink-3);font-size:14px}
 /* taxonomy browser */
 .bigs{display:grid;grid-template-columns:repeat(6,1fr);gap:10px}
 .big{border:1px solid var(--line);border-radius:var(--radius);background:#fff;padding:14px 14px 12px;text-align:left;transition:border-color .15s, background .15s}
-.big:hover{border-color:#cfd3da}
 .big.on{border-color:var(--crimson);background:var(--crimson-soft)}
 .big .bn{font-size:15px;font-weight:700;letter-spacing:-.01em}
 .big.on .bn{color:var(--crimson-ink)}
@@ -85,7 +98,6 @@ p.sub{margin:0 0 18px;color:var(--ink-3);font-size:14px}
 .level .lab{font-size:10.5px;font-weight:800;letter-spacing:.14em;color:var(--ink-3);text-transform:uppercase;margin:0 0 6px}
 .chips{display:flex;flex-wrap:wrap;gap:6px}
 .chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:600;color:var(--ink-2);white-space:nowrap}
-.chip:hover{border-color:#cfd3da}
 .chip.on{background:var(--crimson);border-color:var(--crimson);color:#fff}
 .chip .n{font-weight:500;opacity:.7;margin-left:3px}
 .chip.sm{padding:4px 10px;font-size:12.5px;font-weight:550}
@@ -113,7 +125,6 @@ p.sub{margin:0 0 18px;color:var(--ink-3);font-size:14px}
 .grp-h span{font-size:12.5px;color:var(--ink-3)}
 .tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
 .tile{display:flex;justify-content:space-between;align-items:center;gap:10px;border:1px solid var(--line);border-radius:14px;padding:12px 14px;background:#fff;text-align:left}
-.tile:hover{border-color:var(--crimson-line);background:var(--crimson-soft)}
 .tile.on{border-color:var(--crimson);background:var(--crimson-soft)}
 .tile .tk{font-size:14.5px;font-weight:700}
 .tile .te{font-size:11.5px;color:var(--ink-3);margin-top:1px}
@@ -133,7 +144,6 @@ p.sub{margin:0 0 18px;color:var(--ink-3);font-size:14px}
 .tile .tk{color:var(--ink)}
 .tile.on{background:var(--crimson);border-color:var(--crimson)}
 .tile.on .tk,.tile.on .te,.tile.on .tn,.tile.on .tn b{color:#fff}
-.tile.on:hover{background:var(--crimson-ink)}
 .selbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
 .selbar .x{display:inline-flex;align-items:center;gap:6px;border:0;background:var(--crimson);color:#fff;border-radius:999px;padding:5px 12px;font-size:13px;font-weight:650}
 .panel > p.hint{display:none}
@@ -161,7 +171,6 @@ details.tiers p{margin:8px 0 0}
 /* cards */
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}
 a.card{display:flex;flex-direction:column;gap:11px;text-decoration:none;border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px 16px;background:#fff;transition:border-color .15s, box-shadow .15s, transform .15s}
-a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);transform:translateY(-1px)}
 .card .head{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
 .card h3{margin:0;font-size:17px;letter-spacing:-.015em;font-weight:700}
 .card .kname{font-size:13px;color:var(--ink-3);margin-top:2px}
@@ -191,9 +200,7 @@ a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);trans
 /* detail */
 .crumb{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:24px 0 0;font-size:13px;color:var(--ink-3)}
 .crumb a{text-decoration:none;color:var(--ink-2);font-weight:600}
-.crumb a:hover{color:var(--crimson)}
 .back{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:13px;font-weight:650;color:var(--ink-2);text-decoration:none;background:#fff}
-.back:hover{border-color:#cfd3da}
 .dhead{padding:22px 0 0}
 .dhead .path{font-size:13px}
 .dhead h1{font-size:36px;letter-spacing:-.03em;margin:6px 0 0;font-weight:750}
@@ -204,7 +211,6 @@ a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);trans
 .btns{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
 .btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:9px 16px;font-size:13.5px;font-weight:650;text-decoration:none;color:var(--ink-2);background:#fff}
 .btn.pri{background:var(--crimson);border-color:var(--crimson);color:#fff}
-.btn:hover{filter:brightness(.97)}
 .summary{margin:22px 0 0;padding:16px 18px;border-radius:var(--radius);background:var(--bg-2);color:var(--ink-2);font-size:14.5px}
 .dgrid{display:grid;grid-template-columns:1.35fr 1fr;gap:14px;margin-top:14px}
 .panel{border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;background:#fff}
@@ -250,7 +256,6 @@ a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);trans
 .paper .meta{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--ink-3);font-weight:600}
 .paper .t{font-size:14.5px;font-weight:650;margin:5px 0 3px;line-height:1.45}
 .paper .t a{text-decoration:none}
-.paper .t a:hover{color:var(--crimson)}
 .paper .au{font-size:12.5px;color:var(--ink-3)}
 .paper .au mark{background:var(--crimson-soft);color:var(--crimson-ink);border-radius:4px;padding:0 3px;font-weight:650}
 .ibig{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
@@ -319,6 +324,21 @@ footer{margin:56px 0 0;border-top:1px solid var(--line);padding:22px 0 40px;colo
 #boot .spin .arc{stroke:var(--crimson);stroke-dasharray:0 100;transform:rotate(-90deg);transform-origin:center;animation:arc 1.8s cubic-bezier(.6,0,.4,1) infinite}
 @keyframes arc{0%{stroke-dasharray:0 100;stroke-dashoffset:0}50%{stroke-dasharray:100 0;stroke-dashoffset:0}100%{stroke-dasharray:0 100;stroke-dashoffset:-100}}
 @media (prefers-reduced-motion:reduce){#boot .spin .arc{animation:none;stroke-dasharray:30 70}}
+
+html{-webkit-tap-highlight-color:transparent}
+@media (hover:hover) and (pointer:fine){
+nav.tabs a:hover{background:var(--bg-2);color:var(--ink)}
+.big:hover{border-color:#cfd3da}
+.chip:hover{border-color:#cfd3da}
+.tile:hover{border-color:var(--crimson-line);background:var(--crimson-soft)}
+.tile.on:hover{background:var(--crimson-ink)}
+a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);transform:translateY(-1px)}
+.crumb a:hover{color:var(--crimson)}
+.back:hover{border-color:#cfd3da}
+.btn:hover{filter:brightness(.97)}
+.paper .t a:hover{color:var(--crimson)}
+}
+@media (hover:none){a.card:active{border-color:#d5d8de;background:var(--bg-2)}.tile:active,.big:active,.chip:active,.back:active{border-color:var(--crimson-line)}}
 </style>
 </head>
 <body>
