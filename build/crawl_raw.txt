@@ -1,0 +1,138 @@
+IDEA	F=# N3 M.S.–Ph.D. M.S.–Ph.D.×1p B.S.–M.S. B.S.–M.S. B.S.–M.S.×1p Industry Researchers Ph.D. (NAVER) Undergraduate Research N11 Alumni Visiting Scholar×1p Ph.D. @ UIUC # N3 ...	n=44	yc=24:10,25:12,26:22	w=7	tk=CIKM:7,SIGIR:7,EMNLP:5,WWW:5,KDD:4,COLM:3
+PIXEL	F=- Affiliated Researche×1p - Postdoctoral Researc B.S. N2 Ph.D. Ph.D.×1p Integrated M.S./Ph.D.×1p M.S. M.S.×4p Undergraduate Student×1p N2	n=22	yc=24:5,25:8,26:9	w=2	tk=CVPR:7,NeurIPS:2
+Physical	F=	n=8	yc=24:2,25:3,26:3	w=0	tk=IEEE:5,Transactions on Electrom:1
+MMW	F=	n=20	yc=24:6,25:8,26:6	w=0	tk=IEEE:14,GeMiC:3,European Microwave Conf:1
+AILAB	F=PhD×2 Integrated×8 MS×4 Undergrad Intern×3 Postdoc×2	n=33	yc=24:14,25:5,26:14	w=0	tk=ICTC:8,NeurIPS:4,ICLR:2,ICML:2,TBME:2
+DRILab	F=M.S. N2	n=0	yc=	w=0	tk=
+HUI	F=PhD(석박통합)×6 PhD×1 MS×4 Researchers×3	n=40	yc=24:18,25:13,26:9	w=3	tk=ICEIC:5,UbiComp:3,ISWC:3,ICASSP:2,PerCom:2
+RIL	F=Ph.D. Students×1p N3 Intern Alumni×1p N9	n=27	yc=24:8,25:7,26:12	w=1	tk=IROS:6,ICRA:5,CoRL:3,EMBC:2,TPAMI:1,T-RO:1
+POL	F=Researchers N2; MS/PHD COURSE×5	n=10	yc=24:4,25:3,26:3	w=0	tk=ACS:5,IEEE:2
+DCLab	F=Ph.D. course; M.S/Ph.D. integrated×1p N12; M.S. course N15; B.S. course N2	n=0	yc=	w=0	tk=
+ICQ	F=Ph.D./Master joint×2 Ph.D×1 Master×7 Interns Intern Intern	n=35	yc=24:9,25:9,26:17	w=0	tk=ICEIC:19,ITC-CSCC:5,TIP:1
+DeepIP	F=Researchers PhD Students Integrated MS/PhD Stud MS Students Research Interns N3 # Undergraduate N2	n=32	yc=24:11,25:8,26:13	w=0	tk=ECCV:3,ICIP:3,ICEIC:2,AAAI:2,ICCV:2
+SigLearn	F=Postdoc×1 Master N4 Undergraduate Intern Ph.D. Master N3 Ph.D. N2 Master N14	n=13	yc=24:6,25:3,26:4	w=0	tk=CVF:4,ACCV:2,WACV:1
+SMR	F=PhD student ~8 Master student ~6 (with KIST/KITECH)	n=8	yc=24:4,25:2,26:2	w=0	tk=IEEE:7,TMECH:1
+PELab	F=Ph.D. Students; Visiting PhD; Integrated M.S./Ph.D. N12; M.S. Students N10; Undergraduate Students N7	n=26	yc=24:5,25:11,26:10	w=0	tk=ECCE:8,IEEE:19
+CDAL	F=Research assistants; Ph.D. Students; Undergraduate Research ×1p ; many B.S./M.S. education lines	n=5	yc=24:3,25:1,26:1	w=0	tk=TNNLS:1
+CSL	F=Ph.D. student×4 M.S. student×3 Undergraduate I(ntern) N3 Alumni N5 Undergraduate Research N7	n=12	yc=24:2,25:7,26:3	w=1	tk=CAL:4,VLDB:2,ICCD:2,TOCS:1
+MNC	F=Research Prof./Post Doc×1 Ph.D Student N11 Master Student N7 Undergraduate Research N8 Alumni	n=104	yc=24:40,25:33,26:31	w=5	tk=JCCI:11,ICTC:8,ICOIN,INFOCOM,TNSM:3,TMC:3,SIGCOMM:3
+ShinLab	F=Postdoc×2 PhD×~4 MS/Integrated×~2 B.S. Student (Since 2025/2026)×~6	n=97	yc=24:23,25:32,26:42	w=5	tk=GLOBECOM:12,VTC:7,ICC:5,ICTC:5
+Chua	F=	n=3	yc=24:2,25:1	w=0	tk=
+AIM	F=PhD×9 MS×4 FullTimeResearcher×1 UndergradIntern×1	n=171	yc=24:41,25:62,26:68	w=25	tk=ICTC:34,TMC:8,CIKM:6,QCE:6,TVT:5
+DMIS	F=P4 I15 M10 D0 U3	n=38	yc=24:10,25:16,26:12	w=5	tk=EMNLP:5,ICLR:4,ISMB:3,EACL:3,NAACL:3,KDD:2,ACL:2,CIKM:2
+IIIXR	F=P1 I0 M1 D0 U1	n=19	yc=24:2,25:6,26:11	w=0	tk=SIGGRAPH:4,NeurIPS:2
+ICNL	F=P0 I4 M1 D0 U5	n=15	yc=24:5,25:4,26:6	w=1	tk=TCOM:3,LEO:3
+CSArch	F=P12 I0 M28 D0 U4	n=33	yc=24:8,25:15,26:10	w=7	tk=ICS:3,JSA:3
+SERA	F=P1 I0 M4 D0 U2	n=14	yc=24:7,26:7	w=2	tk=TMC:1
+CASL	F=P0 I2 M27 D3 U11	n=33	yc=24:11,25:11,26:11	w=5	tk=NeurIPS:6,MLSys:3,EMNLP:2,CAL:2,DATE:2
+DXP	F=P1 I0 M6 D0 U0	n=29	yc=24:13,25:5,26:11	w=11	tk=VR:24,CHI:6,TVCG:2,ISMAR:2
+VisionAI	F=P0 I0 M0 D0 U8	n=51	yc=24:21,25:14,26:16	w=8	tk=CVPR:6,ECCV:5,NeurIPS:4,ICML:4,ICPR:4,WACV:4,EMNLP:3,RSS:2,AAMAS:2
+INI	F=SPA(no data)	n=0
+WiDeN	F=SPA(no data)	n=0
+VCAI	F=P0 I6 M0 D0 U4	n=3	yc=24:3
+GI	F=P0 I0 M0 D0 U2	n=8	yc=24:4,25:1,26:3	w=1	tk=ICML:4,NeurIPS:2,TPAMI:1
+DBS	F=P0 I2 M3 D0 U0	n=12	yc=24:5,25:4,26:3	w=0	tk=KCC:5,KDBC:2
+PLRG	F=P1 I0 M4 D0 U6	n=18	yc=24:3,25:6,26:9	w=5	tk=ASE:4,TOSEM:2
+AXIS	F=P0 I2 M0 D0 U6	n=25	yc=24:3,25:5,26:17	w=4	tk=ISMAR:6,VR:5,CHI:3,WHC:3,ToH:2
+SING	F=P0 I0 M0 D0 U0	n=18	yc=24:9,25:4,26:5	w=2	tk=WACV:2,AAAI:2
+ESCA	F=(no data)	n=0
+MIIL	F=P0 I0 M0 D0 U7	n=21	yc=24:5,25:8,26:8	w=4	tk=CVPR:5,EMNLP:4,NeurIPS:3,ECCV:2,ACL:2
+SELENE	F=P0 I0 M0 D0 U8	n=4	yc=24:1,25:3
+SSL	F=(no data)	n=0
+PRL	F=P0 I0 M0 D0 U0	n=15	yc=24:5,25:2,26:8	w=3	tk=OOPSLA:4,ASE:3,ISSTA:2,ICSE:2
+SSP	F=P1 I0 M6 D0 U7	n=23	yc=24:2,25:9,26:12	w=0	tk=ICSE:3,ASE:3,FSE:3
+DCC	F=P9 I0 M15 D0 U9	n=62	yc=24:23,25:22,26:17	w=0	tk=CLOUD:6
+AI-Yook	F=P4 I0 M19 D5 U7	n=1
+DAIS	F=P3 I2 M13 D0 U2	n=0
+CCS	F=P37 I0 M7 D0 U0	n=9	yc=24:3,25:3,26:3	tk=DSN:2,ESORICS:2
+IBEL	F=P16 I19 M3 D3 U0	n=26	yc=24:6,25:7,26:13	w=2
+NLP&AI	F=(no data)	n=0
+LI	F=P0 I3 M11 D0 U5	n=14	yc=24:3,25:6,26:5	w=2
+S2	F=(no data)	n=0
+SMRL	F=P3 I9 M0 D0 U1	n=1
+IELab	F=(no data)	n=1
+DataX	F=P2 I0 M0 D0 U0	n=16	yc=24:5,25:1,26:10	w=2	tk=KCC:4
+HVCL	F=(no data)	n=0
+PRISM	F=P3 I0 M2 D0 U0	n=0
+RAIN	F=P0 I0 M3 D1 U2	n=19	yc=24:6,25:3,26:10	w=1	tk=NeurIPS:2,ToN:2
+Media	F=P0 I0 M0 D2 U0	n=13	yc=24:4,25:5,26:4	w=2	tk=VRST:2
+ISSL	F=P1 I0 M8 D0 U5	n=36	yc=24:10,25:12,26:14	w=0	tk=JCCI:5,ICWS:2
+SDML	F=P0 I1 M5 D0 U0	n=9	yc=25:4,26:5	w=0	tk=IJCAI:1
+DMLab	F=P2 I18 M6 D0 U4	n=30	yc=24:6,25:12,26:12	w=12	tk=NeurIPS:6,ICML:4,ACL:3,ECML-PKDD:2
+SLPL	F=P0 I34 M19 D0 U5	n=19	yc=24:2,25:4,26:13	w=2	tk=INTERSPEECH:5,ICASSP:4,EMNLP:2,BioCAS:2
+CogSys	F=P3 I0 M0 D5 U5	n=22	yc=24:8,25:7,26:7	w=0	tk=TVCG:2,ToH:1
+UTL	F=P1 I5 M8 D0 U5	n=40	yc=24:9,25:14,26:17	w=8	tk=ICCV:6,ECCV:5,CVPR:5,NeurIPS:4,EMNLP:4,IROS:3
+VGI	F=(no data)	n=0
+MILab	F=P0 I15 M5 D0 U9	n=37	yc=24:14,25:7,26:16	w=0	tk=BCI:4
+TAIL	F=P2 I0 M9 D0 U8	n=27	yc=24:4,25:9,26:14	w=2	tk=ICML:2,AAAI:2,ICLR:2,IJCAI:1,TMLR:1
+BREIN	F=P6 I0 M6 D0 U0	n=19	yc=24:5,25:10,26:4	w=0
+DILab	F=(no member data)	n=33	yc=24:15,25:11,26:7	w=10	tk=EMNLP:16,ACL:11
+CVLAB	F=P1 I15 M11 D0 U0	n=52	yc=24:17,25:20,26:15	w=3	tk=CVPR:16,NeurIPS:9,ECCV:7,AAAI:4,ICCV:4,ICLR:3
+EIL	F=(no member data)	n=10	yc=24:3,25:3,26:4	w=0	tk=ICML:5,ICLR:2
+PRML	F=(no data)	n=0
+AIImg	F=P0 I0 M2 D0 U1	n=1	yc=26:1	tk=ECCV:1
+AGI	F=P5 I8 M5 D0 U4	n=26	yc=24:11,25:6,26:9	w=9	tk=NeurIPS:5,ICML:4,EMNLP:3
+MAILab	F=P9 I45 M11 D0 U6	n=0
+SPL	F=P0 I0 M1 D0 U0	n=5	yc=24:3,25:2	w=0	tk=TASLP:1
+NDL	F=P0 I0 M1 D0 U4	n=5	yc=24:3,25:2
+Nanotronics	F=(no data)	n=0
+ASL	F=P7 I0 M2 D0 U0	n=45	yc=25:1,26:44	w=8
+LIME	F=(no data)	n=0
+ShimGrp	F=P1 I11 M10 D0 U1	n=11	yc=26:11
+ANOL	F=(no member data)	n=26	yc=24:8,25:11,26:7	w=0
+FlexLab	F=(no data)	n=0
+DIANA	F=(site 404)
+MCL	F=(no member data)	n=7	yc=24:2,25:1,26:4
+IPA	F=(no member data)	n=30	yc=24:7,25:9,26:14	w=3	tk=CVPR:6,ECCV:5,ICCV:4,ICML:2
+ACSL	F=(no data)	n=0
+Adaptive	F=(no data)	n=0
+CML	F=(no data)	n=0
+CTBR	F=P2 I0 M1 D0 U0	n=7	yc=24:3,25:3,26:1	tk=IJRR:1,ACC:1
+MIRO	F=P0 I0 M0 D0 U6	n=2	yc=24:2
+SPECS	F=(no member data)	n=11	yc=24:4,26:7	tk=APEC:2,ITEC:2
+PEL	F=(no data)	n=0
+PowerIT	F=P10 I0 M6 D2 U0	n=11	yc=24:1,25:6,26:4
+uGrid	F=P18 I0 M12 D4 U6	n=48	yc=24:19,25:19,26:10	w=2	tk=KIEE:24,CIRED:3
+QIIL	F=(no data)	n=0
+CompilerLab	F=(no data)	n=0
+HPIC	F=P8 I0 M7 D0 U0	n=17	yc=24:3,25:8,26:6
+WINE	F=P3 I7 M5 D0 U2	n=114	yc=24:69,25:7,26:38
+ComSys	F=P0 I0 M4 D0 U0	n=25	yc=24:4,25:15,26:6	w=1	tk=MICRO:3,IISWC:2,CAL:2,LCTES:2
+S2ML	F=(no data)	n=0
+EMI	F=(no member data)	n=18	yc=24:7,25:6,26:5	w=1	tk=CVPR:3,ECCV:3,DATE:2
+IPLab	F=(no data)	n=0
+MIL	F=(no data)	n=0
+WISE	F=(no data)	n=0
+CommSys	F=P3 I1 M3 D0 U0	n=0
+LICS	F=(no member data)	n=17	yc=24:11,25:5,26:1	w=1	tk=TMC:1
+CISWireless	F=P1 I0 M3 D11 U0	n=0
+ARFSL	F=P3 I0 M2 D0 U8	n=19	yc=24:6,25:8,26:5	tk=RFIC:4
+CISLab	F=(no data)	n=3	yc=24:1,25:2
+IDSLab	F=P3 I6 M11 D0 U0	n=63	yc=24:17,25:16,26:30	w=2	tk=ISLPED:5,TVLSI:4,DATE:3
+OASIS	F=P0 I0 M1 D0 U0	n=12	yc=24:4,25:6,26:2	tk=TVLSI:1,TIM:2
+Kilby	F=P47 I0 M35 D0 U12 (doubled?)	n=32	yc=24:14,25:6,26:12	tk=JSSC:7,TCAS:4
+VLSISP	F=(no member data)	n=45	yc=24:9,25:21,26:15	w=1	tk=DAC:5,ISLPED:4,DATE:4,AICAS:3,ISCAS:3
+HSISL	F=P12 I0 M1 D0 U2	n=2	yc=24:1,25:1
+BASIC	F=P6 I16 M5 D0 U2	n=0
+MINT	F=(manual) P1 I15 M11 D2 U5 past1	n=9	yc=24:1,25:3,26:5	tk=ECCV:1,TNSRE:1,TII:1
+BIRC	F=(no data)	n=0
+ISR	F=P1 I0 M2 D0 U0	n=13	yc=24:12,25:1	tk=KRoC:6,ICCAS:5,JFR:1
+HongLab	F=(no member data)	n=6	yc=24:3,25:2,26:1	tk=IJRR:2
+JunLab	F=P0 I0 M0 D0 U2	n=33	yc=24:9,25:13,26:11
+EIF	F=P9 I11 M4 D0 U4	n=28	yc=24:6,25:10,26:12
+ESCA	F=P0 I0 M0 D1 U0	n=17	yc=24:4,25:7,26:6	tk=DAC:2
+SSL	F=P1 I4 M7 D0 U9	n=74	yc=24:23,25:26,26:25	tk=KSC:12,KCC:9
+NLP&AI	F=(none)	n=88	yc=24:22,25:30,26:36	tk=EMNLP:26,ACL:22,NAACL:11,EACL:4,ICLR:3,NeurIPS:3,COLING:3
+S2	F=P11 I0 M0 D0 U3	n=10	yc=24:3,25:4,26:3	tk=CCS:3,NDSS:2
+HVCL	F=P1 I3 M6 D4 U1	n=21	yc=24:6,25:6,26:9	tk=MICCAI:6,VIS:5
+PRISM	F=(none)	n=23	yc=24:4,25:8,26:11	tk=NeurIPS:5,ICLR:4,ECCV:3,CVPR:3,ICCV:3
+PRML	F=(none)	n=30	yc=24:7,25:10,26:13
+BIRC	F=P0 I0 M0 D0 U0	n=24	yc=24:13,25:5,26:6	tk=RA-L:3,IROS:3
+LIME	F=(none)	n=7	yc=24:4,25:1,26:2
+FlexLab	F=(none)	n=14	yc=24:3,25:9,26:2
+CompilerLab	F=P4 M2	n=18	yc=24:4,25:7,26:7	tk=DAC:3,ICTC:2
+Nanotronics	F=(none)	n=9	yc=24:1,25:5,26:3
+MIL	F=(none)	n=7	yc=24:6,25:1
+CommSys	F=P3 I1 M3 D0 U0	n=32	yc=24:13,25:9,26:10	tk=TCOMM:2,TVT:2
+CISWireless	F=(none)	n=16	yc=25:3,26:13
+BASIC	F=P6 I15 M5 D0 U0	n=33	yc=24:7,25:18,26:8	tk=DAC:2

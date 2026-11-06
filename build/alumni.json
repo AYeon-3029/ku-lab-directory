@@ -1,0 +1,346 @@
+{
+"PRML": {
+"n": 258,
+"acaPct": 46,
+"indPct": 54,
+"ind": [
+"Samsung",
+"SK",
+"LG",
+"Hyundai",
+"Kakao",
+"Mithril",
+"Korean Intellectual Property Office",
+"Naver",
+"TU Berlin",
+"Neurowiztek",
+"LINE",
+"Hanwha"
+],
+"aca": [
+"Korea University",
+"ETRI",
+"Kyungpook Nat'l",
+"KIST",
+"Andong National University",
+"U of Waterloo",
+"Chonnam Nat'l",
+"Gachon University",
+"Chosun University",
+"Khulna University of Engineering and Technology",
+"NIH",
+"Nazarbayev University"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"AILAB": {
+"n": 6,
+"acaPct": 20,
+"indPct": 80,
+"ind": [
+"VUNO",
+"AVIS",
+"DEEPNOID"
+],
+"aca": [
+"ETRI"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"DMLab": {
+"n": 6,
+"acaPct": 17,
+"indPct": 83,
+"ind": [
+"CMES Robotics",
+"LG",
+"SK",
+"Hyundai",
+"RippleAI"
+],
+"aca": [
+"CMU"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"AGI": {
+"n": 7,
+"acaPct": 0,
+"indPct": 100,
+"ind": [
+"LG",
+"NeuroFusion",
+"Kakao"
+],
+"aca": [],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"BREIN": {
+"n": 19,
+"acaPct": 40,
+"indPct": 60,
+"ind": [
+"Korea Testing Laboratory",
+"SK"
+],
+"aca": [
+"NYU",
+"Kyoto University"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"SPL": {
+"n": 20,
+"acaPct": 0,
+"indPct": 100,
+"ind": [
+"Samsung",
+"KAI",
+"AICT",
+"Hanwha",
+"ADD",
+"VESTELLALAB",
+"LG",
+"TmaxSoft",
+"Imagoworks",
+"FANUC",
+"MementoAI",
+"Saltlux"
+],
+"aca": [],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"CVLAB": {
+"n": 8,
+"acaPct": 38,
+"indPct": 62,
+"ind": [
+"CNAPS.AI",
+"LG",
+"KT",
+"CLOAI",
+"Complexion"
+],
+"aca": [
+"KETI",
+"UMich",
+"KAIST"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"VGI": {
+"n": 7,
+"acaPct": 17,
+"indPct": 83,
+"ind": [
+"NC AI",
+"Hyundai",
+"Samsung",
+"KU VGI Lab",
+"Upstage"
+],
+"aca": [
+"SNU"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"UTL": {
+"n": 1,
+"acaPct": 100,
+"indPct": 0,
+"ind": [],
+"aca": [
+"UT Austin"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"NLP&AI": {
+"n": 41,
+"acaPct": 44,
+"indPct": 56,
+"ind": [
+"Naver",
+"NCsoft",
+"LG",
+"PT. Mitra Prodin",
+"Nexon",
+"Hyundai",
+"42Maru",
+"Atommerce",
+"Hana Financial Group",
+"Samsung",
+"Krafton",
+"42dot"
+],
+"aca": [
+"Human Inspired AI Center",
+"Jeju National University",
+"Copenhagen University",
+"Kangwon Nat'l",
+"Hanyang",
+"Kyungpook Nat'l",
+"Soongsil",
+"Konkuk",
+"Yonsei",
+"Sookmyung"
+],
+"extra": "교수 10명 배출",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"Jung-W": {
+"n": 13,
+"acaPct": 36,
+"indPct": 64,
+"ind": [
+"LIG D&A",
+"SK",
+"노리스페이스",
+"iPactory",
+"모티프 테크놀로지스",
+"KT",
+"INEEJI"
+],
+"aca": [
+"Hanyang",
+"Korea University",
+"안산미래연구원"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"RIL": {
+"n": 7,
+"acaPct": 29,
+"indPct": 71,
+"ind": [
+"LG",
+"Upstage",
+"RLWRLD",
+"URobotics",
+"Rebellions"
+],
+"aca": [
+"ETH Zurich",
+"Georgia Tech"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"MAILab": {
+"n": 8,
+"acaPct": 60,
+"indPct": 40,
+"ind": [
+"Samsung",
+"Deloitte"
+],
+"aca": [
+"Yonsei",
+"KAIST",
+"Korea University"
+],
+"extra": "교수 1명 배출",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"MILab": {
+"n": 24,
+"acaPct": 30,
+"indPct": 70,
+"ind": [
+"Samsung",
+"DEEPNOID",
+"Basgenbio",
+"BioMed X GmbH",
+"SK",
+"LG",
+"Neurophet",
+"VUNO",
+"KT"
+],
+"aca": [
+"Sejong",
+"Kangwon Nat'l",
+"Sungshin Women's University",
+"Konyang University",
+"Korea Environment Institute",
+"KIST"
+],
+"extra": "교수 4명 배출",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"Seo-H": {
+"n": 9,
+"acaPct": 44,
+"indPct": 56,
+"ind": [
+"Samsung",
+"Public Home Shopping",
+"KT",
+"Hyundai"
+],
+"aca": [
+"UT Austin",
+"ETRI",
+"Cornell",
+"UCSD"
+],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"SLPL": {
+"n": 2,
+"acaPct": null,
+"indPct": null,
+"ind": [],
+"aca": [],
+"extra": "",
+"src": "https://korea-ai-labs.vercel.app/universities/korea",
+"srcName": "Korea AI Labs (연구실 홈페이지 기반)"
+},
+"AIM": {
+"n": 14,
+"ind": [
+"LG Electronics",
+"Naver",
+"Naver Webtoon",
+"Hanwha Aerospace",
+"Hyundai Marine & Fire Insurance",
+"RealtimeVisual",
+"Korea Meteorological Administration"
+],
+"aca": [
+"Sookmyung W. University (교수)",
+"ETRI",
+"KAIST",
+"University of Chicago",
+"Korea University"
+],
+"extra": "박사·석사 졸업생 기준 (포닥·연구원 제외)",
+"src": "https://sites.google.com/view/aimlab-kuee/members",
+"srcName": "연구실 홈페이지 Alumni"
+}
+}

@@ -1,0 +1,365 @@
+강성구	2026	j:tkde		BPL: Bias-Adaptive Preference Distillation Learning For Recommender System	SeongKu Kang, Jianxun Lian, Dongha Lee 외 6명		journals/tkde/KangLLKJLWXY26
+강성구	2026	c:acl	F	Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths	Sangam Lee, Ryang Heo, SeongKu Kang 외 3명		conf/acl/LeeHKYYL26
+강성구	2026	c:iclr		Continual Low-Rank Adapters for LLM-based Generative Recommender Systems	Hyunsik Yoo, Ting-Wei Li, SeongKu Kang 외 4명		conf/iclr/YooLKLXQT26
+강성구	2026	c:kdd		CREAM: Continual Retrieval on Dynamic Streaming Corpora with Adaptive Soft Memory	HuiJeong Son, Hyeongu Kang, Sunho Kim 외 4명		conf/kdd/SonKKHKLY26
+강성구	2026	c:kdd		CoRank: LLM-Based Compact Reranking with Document Features for Scientific Retrieval	Runchu Tian, Xueqiang Xu, Bowen Jin 외 2명		conf/kdd/TianXJKH26
+강재우	2026	c:acl	F	CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents	Taeyun Roh, Wonjune Jang, Junha Jung, Jaewoo Kang	Wonjune Jang	conf/acl/RohJJK26
+강재우	2026	c:acl	F	ToxReason: A Benchmark for Mechanistic Chemical Toxicity Reasoning via Adverse Outcome Pathway	Jueon Park, Wonjune Jang, Chanhwi Kim 외 2명	Wonjune Jang	conf/acl/ParkJKPK26
+강재우	2026	j:access		ASH: A Systematic Automated Evaluation Framework for Creative Text Generation in Cuisine Transfer Tasks	Hoonick Lee, Mogan Gim, Donghyeon Park 외 2명		journals/access/LeeGPCK26
+강재우	2026	j:isci		Subgraph-level universal prompt tuning	Junhyun Lee, Wooseong Yang, Jaewoo Kang		journals/isci/LeeYK26
+강재우	2026	c:aaai		The Curious Case of Analogies: Investigating Analogical Reasoning in Large Language Models	Taewhoo Lee, Minju Song, Chanwoong Yoon 외 2명		conf/aaai/LeeSYPK26
+강형엽	2026	c:iclr		Event-T2M: Event-level Conditioning for Complex Text-to-Motion Synthesis	Seong-Eun Hong, JaeYoung Seon, Juyeong Hwang 외 2명	JongHwan Shin	conf/iclr/HongSHSK26
+강형엽	2026	c:siggraph		CAdam: Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation	SeungJeh Chung, Geonho Park, Misong Kim, HyeongYeop Kang	Geonho Park	conf/siggraph/ChungPKK26
+강형엽	2026	c:cvpr		Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing	SeongRae Noh, Seungwon Seo, Gyeong-Moon Park, HyeongYeop Kang		conf/cvpr/NohSPK26
+강형엽	2026	c:iclr		From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents	Seungwon Seo, Soobin Lim, SeongRae Noh 외 2명		conf/iclr/SeoLNKK26
+강형엽	2026	c:wacv		BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis	Seong-Eun Hong, Soobin Lim, Juyeong Hwang 외 2명		conf/wacv/HongLHCK26
+곽정호	2026	j:comsur		Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and Computation: A Comprehensive Survey	Hyun Jong Yang, Howon Lee, Kyuhong Shim 외 10명		journals/comsur/YangLSKKKNRCKMRS26
+곽정호	2026	j:tcom		Joint Security-Energy-Latency Optimization for Code Offloading in LEO Satellite Networks With Mixed Security Requirements	Jeongsoo Kim, Suhyeon Jeon, Jeongho Kwak, Song Chong		journals/tcom/KimJKC26
+곽정호	2026	j:tcom		Importance-Based Base Station Activation for CoMP-Enabled Ultra-Dense Networks	Chanwon Park, Sudarshan Mukherjee, Hewon Cho 외 2명		journals/tcom/ParkMCKL26
+곽정호	2026	j:tsc		Optimal Computation Load Balancing for Integrated Service Caching and Offloading Systems in Hierarchical Cloud Architecture	Dongho Ham, Yeongjin Kim, Jeongho Kwak		journals/tsc/HamKK26
+곽정호	2026	c:icaiic		Resource Allocation Leveraging Dual Traffic and Channel Predictions in Open-RAN Architecture	Yeonghun Jeong, Dongho Ham, Minhyun Kim 외 2명		conf/icaiic/JeongHKMK26
+구건재	2026	c:ics		SumcheckPIM: An Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs	Sunchae Kim, Taewoon Kang, Sangwon Shin 외 3명	Sunchae Kim	conf/ics/KimKSSYK26
+구건재	2026	j:access		BiKD: Bidirectional Kernel Decomposition for Large-Scale GCNs on GPU	Inje Kim, Jihun Lee, Jong-Hyun Jeong 외 4명		journals/access/KimLJCYOK26
+구건재	2026	j:cal		SoftmaxPIM: An HBM-Based PIM Architecture for Accelerating GeMV-Softmax Execution Pipeline	Taewoon Kang, Namhun Kim, Jihun Lee 외 2명		journals/cal/KangKLAK26
+구건재	2026	j:micro		LogFlex: Flexible-Bit Log Arithmetic Accelerator for Language Models on Edge	Yujin Kim, Faraz Tahmasebi, Gunjae Koo, Hyoukjun Kwon		journals/micro/KimTKK26
+구건재	2026	c:europar		Performance Characterization and Optimization of LLM Inference on Tenstorrent AI Accelerators	Jangho Lim, Dongin Shin, Uichan Kim 외 6명		conf/europar/LimSKCKSPKS26
+김동선	2025	j:tosem		Improving Fault Localization with External Oracle by Using Counterfactual Execution	Jongchan Park, Tae Eun Kim, Dongsun Kim, Kihong Heo		journals/tosem/ParkKKH25
+김동선	2025	j:tosem		How Are We Detecting Inconsistent Method Names? An Empirical Study from Code Review Perspective	Kisub Kim, Xin Zhou, Dongsun Kim 외 6명		journals/tosem/KimZKLLBKLL25
+김동선	2025	j:tosem		Finding Safety Violations of AI-Enabled Control Systems through the Lens of Synthesized Proxy Programs	Jieke Shi, Zhou Yang, Junda He 외 4명		journals/tosem/ShiYHXKHL25
+김동선	2025	j:tse		Proactive Debugging of Memory Leakage Bugs in Single Page Web Applications	Arooba Shahoor, Satbek Abdyldayev, Hyeongi Hong 외 2명		journals/tse/ShahoorAHYK25
+김동선	2024	j:csur		Big Code Search: A Bibliography	Kisub Kim, Sankalp Ghatpande, Dongsun Kim 외 5명		journals/csur/KimGKZLBKT24
+김세연	2026	c:infocom		PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks	Goodsol Lee, Seyeon Kim, Juheon Yi 외 4명		conf/infocom/LeeKYMHLB26
+김세연	2026	c:nsdi		QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity	Goodsol Lee, Junhong Min, Seyeon Kim 외 6명		conf/nsdi/LeeMKYKCHLB26
+김세연	2026	c:nsdi		eXpressSFU: Toward Super-Scalable Video Conferencing with SmartNICs	Tuan Tran, S. M. H. Hosseini, Seyeon Kim 외 4명		conf/nsdi/TranHKLBGH26
+김세연	2026	c:secon		DualEngine: A Thermal-Aware Vision Inference Framework via Mobile and Cloud Co-Execution	Pyeongjun Choi, Jeongsoo Kim, Seyeon Kim, Jeongho Kwak		conf/secon/ChoiKKK26
+김세연	2026	c:sigcomm		DeepSFU: Scalable Deepfake Detection for Video Conferencing	Tuan Tran, Shirin Ebadi, S. M. H. Hosseini 외 8명		conf/sigcomm/TranEHSRSKBLKH26
+김영근	2026	j:cal		Characterizing Carbon Cost of Federated Learning	Yonglak Son, Chanwoo Cho, Seongbin Park 외 2명		journals/cal/SonCPLK26
+김영근	2026	j:esl		ReAx: Resource-Efficient Asynchronous Execution for Accelerating LLM Fine-Tuning at the Edge	Hyukju Na, Daeseon Choi, Young-Ho Gong, Young Geun Kim		journals/esl/NaCGK26
+김영근	2025	j:iotj		GreenScale: Carbon Optimization for Edge Computing	Yonglak Son, Udit Gupta, Andrew McCrabb 외 4명		journals/iotj/SonGMKBBW25
+김영근	2025	j:tc		Energy-Efficient, Delay-Constrained Edge Computing of a Network of DNNs	Mehdi Ghasemi, Soroush Heidari, Young Geun Kim 외 2명		journals/tc/GhasemiHKWV25
+김영근	2025	c:naacl		Not All Adapters Matter: Selective Adapter Freezing for Memory-Efficient Fine-Tuning of Language Models	Hyegang Son, Yonglak Son, Changhoon Kim, Young Geun Kim		conf/naacl/SonSKK25
+김정현	2026	j:ijhci		Effects of Mini-Map Usage and Spatial Ability on Cybersickness in Virtual Reality Navigation	Yechan Yang, Junseo Park, Gerard Jounghyun Kim, Hanseob Kim		journals/ijhci/YangPKK26
+김정현	2026	j:tvcg		Predicting Cybersickness Trend and Extent Based on FMS Labeled Dataset	Jun Ryu, Gerard J. Kim		journals/tvcg/RyuK26
+김정현	2026	c:chi		JourneyVR: Designing for Continuous Workflow Experience in Virtual Reality	Minchae Kim, Jun Ryu, Yechan Yang, Gerard Jounghyun Kim		conf/chi/KimRYK26
+김정현	2026	c:chi		Quantifying Low-Level Motor Effects of Emotion: Validating Fitts' Law in Affective Contexts	Dongyun Joo, Yunseo Chang, Jongchan Park 외 3명		conf/chi/JooCPJKK26
+김정현	2026	c:vr	W	Reducing Heat Dissipation Requirements by Content Brightness Modulation for Lighter Headset	Kyungseo Jung, Gerard Jounghyun Kim		conf/vr/JungK26
+김진규	2026	c:cvpr		Focus, Don't Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding	Mincheol Kwon, Minseung Lee, Seonga Choi 외 7명		conf/cvpr/KwonLCCOLPSPK26
+김진규	2026	c:eccv		SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning	Chan Yeong Hwang, Miso Choi, Sunghyun On 외 2명		conf/eccv/HwangCOKL26
+김진규	2026	c:eccv		Streaming Dense Voxel Representations for 3D Occupancy Prediction	Seokha Moon, Janghyun Baek, Yujin Jeong 외 5명		conf/eccv/MoonBJCKLKC26
+김진규	2026	c:icpr		HyperUn: Controlling Uncertainty in Hyperbolic Space for Machine Unlearning	Inseo Jung, Dabin Seo, Sukyung Baek 외 3명		conf/icpr/JungSBJLK26
+김진규	2026	c:ifaamas		Towards Failure-Resilient Lifelong Learning Agents through Scene Graph-Guided Proactive Replanning	Che Rin Yu, Daewon Chae, Dabin Seo 외 3명		conf/ifaamas/YuCSLIK26
+김현철	2026	c:aaai		KTCF: Actionable Recourse in Knowledge Tracing via Counterfactual Explanations for Education	Woojin Kim, Changkwon Lee, Hyeoncheol Kim		conf/aaai/KimLK26a
+김현철	2026	c:aaai		Evaluating LLMs for Police Decision-Making: A Framework Based on Police Action Scenarios	Sangyub Lee, Heedou Kim, Hyeoncheol Kim		conf/aaai/LeeKK26
+김현철	2025	j:access		Acoustic Anomaly Detection for Propeller Crack Defects: A Drone-Based Surrogate Dataset for UAM	Juho Lee, Donghyun Yoon, Gu Moon Jeong, Hyeoncheol Kim		journals/access/LeeYJK25
+김현철	2025	j:access		Explainable Machine Learning for Predicting Computational Thinking Proficiency in K-12 Students Using National-Level Data	Hyuna Noh, Hansung Kim, Hyeoncheol Kim		journals/access/NohKK25
+김현철	2025	j:aiedu		Can we Use GPT-4 as a Mathematics Evaluator in Education?: Exploring the Efficacy and Limitation of LLM-based Automatic Assessment System for Open-ended Mathematics Question	Unggi Lee, Youngin Kim, Sangyun Lee 외 6명		journals/aiedu/LeeKLPMLKLY25
+김효곤	2026	c:ccnc		Smartphones to the Rescue? Recovering Autonomous Vehicles Without Wheels or Pedals	Hyunseok Kim, Hyogon Kim		conf/ccnc/KimK26
+김효곤	2026	c:ccnc		Boosting CUBIC for Bandwidth-Dynamic LEO Satellite Communication Environments	Woochan Yoon, Hyogon Kim		conf/ccnc/YoonK26
+김효곤	2025	j:access		Multiplexing Remote Driving Video Over Dual V2N Paths With Quality-of-Experience and Data Efficiency	Songmu Heo, Hyogon Kim		journals/access/HeoK25
+김효곤	2025	j:iotj		UWB-Based Watermelon Sweetness Assessment With Smartphones for Everyday Shoppers	Hyeokjae Lee, Inyeop Choi, Minjae Kim, Hyogon Kim		journals/iotj/LeeCKK25
+문경식	2026	c:cvpr		Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator	Gyeongsik Moon		conf/cvpr/Moon26
+문경식	2026	c:cvpr		Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image	JooHyun Kwon, Geonhee Sim, Gyeongsik Moon		conf/cvpr/KwonSM26
+문경식	2026	c:eccv		SIGNER: Temporally Grounded Sign Language Generation via Time-Resolved Conditioning	Taeryung Lee, Hyeongjin Nam, Gyeongsik Moon, Kyoung Mu Lee		conf/eccv/LeeNML26
+문경식	2025	c:iccv		PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image	Hyeongjin Nam, Donghwan Kim, Gyeongsik Moon, Kyoung Mu Lee		conf/iccv/NamKML25
+문경식	2025	c:iccv		PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image	Geonhee Sim, Gyeongsik Moon		conf/iccv/SimM25
+민성기	2024	j:access		A SDN-Based Vehicular Mobility Management for a Shared-Prefix Model Over IEEE WAVE IPv6 Networks	Myeongji Ko, Hyeonhui Jeon, Hyogon Kim, Sung-Gi Min		journals/access/KoJKM24
+박종혁	2026	j:tkde		The s-Hypercore: A Cohesive Subhypergraph Model Based on Decayed Engagement Strength	Minseok Kim, Dahee Kim, Taejoon Han 외 3명		journals/tkde/KimKHKWP26
+박종혁	2026	c:IEEEcloud		SplitPGV: Separating Neighbors from Element for Efficient HNSW Indexing	Beomjoon Shin, Jonghyeok Park		conf/IEEEcloud/ShinP26
+박지혁	2025	c:kbse		Debun: Detecting Bundled JavaScript Libraries on Web using Property-Order Graphs	Seojin Kim, Sungmin Park, Jihyeok Park	Seojin Kim	conf/kbse/KimPP25
+박지혁	2025	c:sigsoft	W	JSSpecVis: A JavaScript Language Specification Visualization Tool	Minseok Choe, Kyungho Song, Hyunjoon Kim, Jihyeok Park	Kyungho Song	conf/sigsoft/ChoeSKP25
+박지혁	2026	c:sas		Synthesizing Parsing Expression Grammars via Analysis-Based Pruning	Seongmin Ko, Jihyeok Park		conf/sas/KoP26
+박지혁	2024	j:cacm		JavaScript Language Design and Implementation in Tandem	Sukyoung Ryu, Jihyeok Park		journals/cacm/RyuP24
+박지혁	2024	j:pacmpl		PL4XGL: A Programming Language Approach to Explainable Graph Learning	Minseok Jeon, Jihyeok Park, Hakjoo Oh		journals/pacmpl/JeonPO24
+박채용	2026	j:toh		Representing Egocentric Directions with Torso-Applied Vibrotactile Stimuli	Junwoo Kim, Jaejun Park, Chaeyong Park 외 2명		journals/toh/KimPPPC26
+박채용	2026	j:tvcg		HaptiCraft: A Modular Multimodal Haptic Controller for Immersive Virtual Reality Interactions	Chaeyong Park, Jeongwoo Kim, Yuk-Gwon Song 외 2명		journals/tvcg/ParkKSKC26
+박채용	2026	c:chi		Effects of Haptic Feedback on Gaming Experiences: A Case Study Comparing Players and Spectators in FPS Games	Heeji Sohn, Chaeyong Park, Seungmoon Choi		conf/chi/SohnPC26
+박채용	2026	c:chi		HaRing: A Haptic Ring Interface for One-Handed Interaction with High-Dimensional Spatial Information	Suheon Nam, Juhyung Son, Seungmoon Choi, Chaeyong Park		conf/chi/NamSCP26
+박채용	2026	c:vr	W	Implicit and Explicit Visual Framing Effects on Illusory Relative Weight Perception in Virtual Reality	Mingyu Kim, Gerard Jounghyun Kim, Chaeyong Park		conf/vr/KimKP26a
+백승준	2026	c:wacv		Root Completion from Intraoral Scans of Tooth Crowns using Diffusion with Patch Perturbation	Yohan Jang, In-Seok Song, Seungjun Baek		conf/wacv/JangSB26
+백승준	2025	j:cluster		Apstgcn: adaptive parallel spatio-temporal graph convolution network for traffic forecasting	Xiaohan Yu, Zebin Hu, Seungjun Baek 외 2명		journals/cluster/YuHBSC25
+백승준	2025	j:wcl		Distance-Based Multicast Scheduling for mmWave Networks Leveraging Reflections	Chao Chen, Yayin Xue, Yue Li 외 4명		journals/wcl/ChenXLBYML25
+백승준	2025	c:naacl	F	Syntriever: How to Train Your Retriever with Synthetic Data from LLMs	Minsang Kim, Seung Jun Baek		conf/naacl/KimB25
+백승준	2024	j:tmc		Optimal Scheduling for Uncoded and Coded Multicast in Millimeter Wave Networks Leveraging Directionality and Reflections	In-Sop Cho, Chao Chen, Seungjun Baek		journals/tmc/ChoCB24
+서태원	2026	c:europar		Performance Characterization and Optimization of LLM Inference on Tenstorrent AI Accelerators	Jangho Lim, Dongin Shin, Uichan Kim 외 6명		conf/europar/LimSKCKSPKS26
+서태원	2026	c:ics		Three Birds, One Stone: Fast, Accurate-aware and Cost-Efficient Accelerator for Ternary LLM	Wonseok Jung, Junseok Kang, Sangwon Shin 외 6명		conf/ics/JungKSULPKPS26
+서태원	2026	c:ics		SumcheckPIM: An Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs	Sunchae Kim, Taewoon Kang, Sangwon Shin 외 3명		conf/ics/KimKSSYK26
+서태원	2025	j:access		Cross-Filter Structured Pruning for Efficient Sparse CNN Acceleration	Ngoc-Son Pham, Sangwon Shin, Lei Xu 외 2명		journals/access/PhamSXSS25
+서태원	2025	c:europar		SkipNZ: Non-zero Value Skipping for Efficient CNN Acceleration	Joonyup Kwon, Jinhyeok Choi, Ngoc-Son Pham 외 2명		conf/europar/KwonCPSS25
+서홍석	2026	c:cvpr		CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning	Junyoung Sung, Seungwoo Lyu, Minjun Kim 외 3명	Seungwoo Lyu	conf/cvpr/SungLKANS26
+서홍석	2026	c:eccv		Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision	Dohyun Kim, Seungwoo Lyu, Seungwook Kim, Paul Hongsuck Seo	Seungwoo Lyu	conf/eccv/KimLKS26
+서홍석	2026	j:pami		Spectral-Adaptive Modulation Networks for Visual Perception	Guhnoo Yun, Juhan Yoo, Kijung Kim 외 3명		journals/pami/YunYKLSK26
+서홍석	2026	c:acl	F	GOAT: A Training Framework for Goal-Oriented Agent with Tools	Hyunji Min, Sangwon Jung, Junyoung Sung 외 3명		conf/acl/MinJSLHS26
+서홍석	2025	c:aaai		Multi-Granularity Video Object Segmentation	Sangbeom Lim, Seongchan Kim, Seungjun An 외 3명		conf/aaai/LimKACSK25
+안가빈	2026	j:pacmse		Pig: Leveraging Large Language Models for Python Library Migrations	Miryeong Kang, Wonseok Oh, Gabin An, Hakjoo Oh		journals/pacmse/KangOAO26
+안가빈	2026	c:icse-seip	W	Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL	Sungmin Kang, Sumi Yun, Jingun Hong 외 2명		conf/icse-seip/KangYHYA26
+안가빈	2026	c:icst	W	The Hidden Costs of Evaluating Automated CI Repair at SAP HANA	Sumi Yun, Jingun Hong, Somin Kim 외 3명		conf/icst/YunHKCAY26
+안가빈	2025	c:icse-deeptest		Lachesis: Predicting LLM Inference Accuracy using Structural Properties of Reasoning Paths	Naryeong Kim, Sungmin Kang, Gabin An, Shin Yoo		conf/icse-deeptest/KimKAY25
+안가빈	2025	c:icst		Evaluating Machine Learning-Based Test Case Prioritization in the Real World: An Experiment with SAP HANA	Jeongki Son, Gabin An, Jingun Hong, Shin Yoo		conf/icst/SonAHY25
+오상은	2026	j:jnca		COMET: Supporting seamless multi-device interaction through app component distribution	Hyeonseok Yeom, Hyosu Kim, Steven Y. Ko 외 2명		journals/jnca/YeomKKKO26
+오상은	2026	c:dac		SCOUT: Thermal-Aware SRAM Allocation for Real-Time DNN Tasks on Edge TPU	Changhun Han, Chihun Choi, Namseok Lee 외 3명		conf/dac/HanCLLCO26
+오상은	2025	j:tmc		TaPIN: Reinforcing PIN Authentication on Smartphones With Tap Biometrics	Junhyub Lee, Insu Kim, Sangeun Oh, Hyosu Kim		journals/tmc/LeeKOK25
+오상은	2025	c:chi		MagPie: Extending a Smartphone's Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory	Insu Kim, Suhyeon Shin, Jaemin Choi 외 5명		conf/chi/KimSCKLOPK25
+오상은	2025	c:iccad		Mitigating Resource Contention for Responsive On-device Machine Learning Inferences	Minsung Kim, Jihoon Lee, Seongjin Chou 외 7명		conf/iccad/KimLCCKKKOCL25
+오학주	2026	j:pacmpl		Prunario: Testing Autonomous Driving Systems by Pruning Likely Redundant Scenarios	Minsu Kim, Sunbeom So, Hakjoo Oh		journals/pacmpl/KimSO26
+오학주	2026	j:pacmse		Pig: Leveraging Large Language Models for Python Library Migrations	Miryeong Kang, Wonseok Oh, Gabin An, Hakjoo Oh		journals/pacmse/KangOAO26
+오학주	2026	j:pacmse		Reducing Coverage-Equivalent Inputs in Grammar-Based Fuzzing by Avoiding Recurrent Rule Sequences	Jaehan Yoon, Yunji Seo, Hakjoo Oh, Sooyoung Cha		journals/pacmse/YoonSOC26
+오학주	2025	j:pacmpl		PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns	Donguk Kim, Minseok Jeon, Doha Hwang, Hakjoo Oh		journals/pacmpl/KimJHO25
+우승훈	2026	j:pacmse		SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching	Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo	Hajin Yun	journals/pacmse/YangLYW26
+우승훈	2026	j:pacmse		Uncovering Similar but Different Packages in PyPI and Potential Security Threats	Sunha Park, Soojin Han, Seunghoon Woo	Soojin Han	journals/pacmse/ParkHW26
+우승훈	2026	c:sac		Human vs AI: Insecure Use of Security-Sensitive Functions in AI-generated Code in Comparison to Human-written Code	Joonku Lee, Sieun Ju, Seunghoon Woo, Heejo Lee		conf/sac/LeeJWL26
+우승훈	2025	c:icse		Tiver: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components	Youngjae Choi, Seunghoon Woo		conf/icse/ChoiW25
+우승훈	2025	c:kbse		Cryptbara: Dependency-Guided Detection of Python Cryptographic API Misuses	Seogyeong Cho, Seungeun Yu, Seunghoon Woo		conf/kbse/ChoYW25
+유헌창	2026	j:fgcs		Vertical auto-scaling mechanism for elastic memory management of containerized applications in Kubernetes	Taeshin Kang, Minwoo Kang, Heonchang Yu		journals/fgcs/KangKY26
+유헌창	2026	j:fgcs		REX: Adaptive distributed training with statistically validated batch scaling and spline-guided Bayesian optimization on heterogeneous GPU clusters	Hyungjun Kim, Hwamin Lee, Heonchang Yu		journals/fgcs/KimLY26
+유헌창	2026	c:IEEEcloud		BYSTANDER: State-Aware End-to-End Latency Prediction for Heterogeneous LLM Inference Scheduling	Minjae Jung, Hyungjun Kim, Hokun Park 외 2명		conf/IEEEcloud/JungKPLY26
+유헌창	2026	c:IEEEcloud		AnchorDL: Dual-Locality-based Scheduling for Serverless Inference Workflows	Min Chang Kim, HyungJun Kim, Hokun Park 외 3명		conf/IEEEcloud/KimKPKLY26
+유헌창	2026	c:icdcs		Coordinating Traffic at Group Granularity for Tail Latency Control in Service Meshes	Hokun Park, HyungJun Kim, Hwamin Lee, Heonchang Yu		conf/icdcs/ParkKLY26
+육동석	2024	j:access		Pipeline Parallelism With Elastic Averaging	Bongwon Jang, In-Chul Yoo, Dongsuk Yook		journals/access/JangYY24
+윤수식	2026	j:pacmmod		LMSC: Local Sketch Modularity Optimisation for Size-Constrained Community Search in Networks	Dahee Kim, Taejoon Han, Kaiyu Feng 외 2명		journals/pacmmod/KimHFKY26
+윤수식	2026	j:tcss		An Analysis of City Image by Exploiting Social Media: Toward a Deeper Understanding of Multiple Characteristics and Their Temporal Changes Using Machine Learning	Hyeonchoel Jeong, Bumsu Cho, Susik Yoon 외 3명		journals/tcss/JeongCYCKK26
+윤수식	2026	c:acl	F	Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths	Sangam Lee, Ryang Heo, SeongKu Kang 외 3명		conf/acl/LeeHKYYL26
+윤수식	2026	c:kdd		CREAM: Continual Retrieval on Dynamic Streaming Corpora with Adaptive Soft Memory	HuiJeong Son, Hyeongu Kang, Sunho Kim 외 4명		conf/kdd/SonKKHKLY26
+윤수식	2026	c:kdd		Can Structural Cues Save LLMs? Evaluating Language Models in Massive Document Streams	Yukyung Lee, Yebin Lim, Woojun Jung 외 2명		conf/kdd/LeeLJCY26
+이상민	2026	j:mia		Unsupervised domain adaptation for medical image segmentation using adaptogen-perturbation	Hong Joo Lee, Yuan Bi, Sangmin Lee 외 5명		journals/mia/LeeBLPKKJN26
+이상민	2026	c:eccv		SubSplat: High-Resolution Pixel-Aligned 3DGS via Sub-pixel Gaussian Reparameterization	Jiun Lee, Jaekwang Kim, Sangmin Lee		conf/eccv/LeeKL26
+이상민	2025	c:aaai		Watch Video, Catch Keyword: Context-aware Keyword Attention for Moment Retrieval and Highlight Detection	Sung Jin Um, Dongjin Kim, Sangmin Lee, Jung Uk Kim		conf/aaai/UmK0K25
+이상민	2025	c:cvpr		Object-aware Sound Source Localization via Audio-Visual Scene Understanding	Sung Jin Um, Dongjin Kim, Sangmin Lee, Jung Uk Kim		conf/cvpr/UmK0K25
+이상민	2025	c:cvpr		Question-Aware Gaussian Experts for Audio-Visual Question Answering	Hongyeob Kim, Inyoung Jung, Dayoon Suh 외 3명		conf/cvpr/KimJSZLH25
+이정범	2026	c:cvpr		FlowFixer: Towards Detail-Preserving Subject-Driven Generation	Jinyoung Jun, Won-Dong Jang, Wenbin Ouyang 외 2명		conf/cvpr/JunJOGL26
+이정범	2026	c:wacv		Style-Friendly SNR Sampler for Style-Driven Generation	Jooyoung Choi, Chaehun Shin, Yeongtak Oh 외 3명		conf/wacv/ChoiSOKLY26
+이정범	2025	c:iccv		Know "No" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP	Junsung Park, Jungbeom Lee, Jongyoon Song 외 3명		conf/iccv/ParkLSYJY25
+이정범	2024	j:pami		Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization	Jungbeom Lee, Eunji Kim, Jisoo Mok, Sungroh Yoon		journals/pami/LeeKMY24
+이정범	2024	c:naacl		Toward Interactive Regional Understanding in Vision-Large Language Models	Jungbeom Lee, Sanghyuk Chun, Sangdoo Yun		conf/naacl/LeeCY24
+이주섭	2026	c:ddecs		Harmonic-Controlled Bandpass Filter with Upper Stopband Suppression for 6G Applications	Sanghoon Jeong, Juseop Lee		conf/ddecs/JeongL26
+이주섭	2025	j:access		K-Band Waveguide Resonator Bandpass Filter Structure With Adjustable Transmission Zeros for Producing Various Symmetric and Asymmetric Responses	Sanggu Lee, Jongheun Lee, Boyoung Lee 외 3명		journals/access/LeeLLLHL25
+이주섭	2024	j:access		Practical Circuit-Based Design Approach for Waveguide Lowpass Filter With Extremely Steep Skirt Response	Sanggu Lee, Jongheun Lee, Duckki Baek 외 2명		journals/access/LeeLBLL24
+이희조	2026	c:dsn		Q3Fuzz: Multi-Layered Stateful Fuzzing for the QUIC-HTTP/3 Protocol Stack	Isa Jafarov, Choongin Lee, Heejo Lee, Sven Dietrich		conf/dsn/JafarovLLD26
+이희조	2026	c:sac		CovBooster: Coverage Booster for Binary Code Clone Detection by Reduced Signatures	Jeongwoo Lee, Jeremy D. Seideman, Geonwoo Lee 외 2명		conf/sac/LeeSLDL26
+이희조	2026	c:sac		Human vs AI: Insecure Use of Security-Sensitive Functions in AI-generated Code in Comparison to Human-written Code	Joonku Lee, Sieun Ju, Seunghoon Woo, Heejo Lee		conf/sac/LeeJWL26
+이희조	2025	j:compsec		A large-scale analysis of the effectiveness of publicly reported security patches	Seunghoon Woo, Eunjin Choi, Heejo Lee		journals/compsec/WooCL25
+이희조	2025	c:dsn		ZCover: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation	Carlos Nkuba Kayembe, Jimin Kang, Seunghoon Woo, Heejo Lee		conf/dsn/KayembeKWL25
+인호	2026	j:access		GNNRec: A Graph-Based Neural Network Model for Efficient and Robust Product Recommendation	Mpyana Mwamba Merlec, Kinyanta Wa Kinyanta Maria, Landry Mbale Kasunzi Mbaherya, Hoh Peter In		journals/access/MerlecMMI26
+인호	2026	j:access		SC-DRA: Smart Contract-Based Data Rights Agreement Scheme for Personal Data Processing Under GDPR	Hyunwoo Kim, Mpyana Mwamba Merlec, Hoh Peter In		journals/access/KimMI26
+인호	2026	j:ase		SolQDebug: Debug solidity quickly for interactive immediacy in smart contract development	Inseong Jeon, Sundeuk Kim, Hyunwoo Kim, Hoh Peter In		journals/ase/JeonKKI26
+인호	2026	j:iotj		ZK-Sandbox: Zero-Knowledge Data Sandbox System for Enhancing End-to-End Security and Privacy of Verifiable Credentials	Seung Kwon Lee, Mpyana Mwamba Merlec, Nday Kabulo Sinai 외 2명		journals/iotj/LeeMSHI26
+인호	2026	j:iotj		PQ-AuthV: Post-Quantum Secure Authentication With Aggregated Signatures in IoT-Enabled Smart Vehicle Networks	Arun Sekar Rajasekaran, Ashok Kumar Das, Maria Azees 외 4명		journals/iotj/RajasekaranDAAMIP26
+임희석	2026	j:eswa		Evaluating over-empathizing in emotional support conversations: A user-centered framework	Suhyune Son, Seonmin Koo, Evelyn Hayoon Zi 외 2명		journals/eswa/SonKZJL26
+임희석	2026	j:kbs		SERA: Self-referential assessment framework for bidirectional generative commonsense reasoning	Jaehyung Seo, Hyeonseok Moon, Yoonna Jang, Heuiseok Lim		journals/kbs/SeoMJL26
+임희석	2026	c:acl	F	I Don't Need Solution. I Need Emotional Support: Empathetic LLMs based on Emotional Validation	Suhyune Son, Jungwoo Lim, Myunghoon Kang 외 4명		conf/acl/SonLKHHZL26
+임희석	2026	c:acl		No Reader Left Behind: Multi-Agent Summaries Everyone Can Understand	Jimin Jung, MyoungJin Kim, Jaehyung Seo, Heuiseok Lim		conf/acl/JungKSL26
+임희석	2026	c:acl		EASE: Entity-Aware Sub-table Generation for Real-world Multi-table QA	Myunghoon Kang, Dahyun Jung, Suhyune Son 외 6명		conf/acl/KangJSKCRKHL26
+장부루	2026	c:acl	F	Alignment Data Map for Efficient Preference Data Selection and Diagnosis	Seohyeong Lee, Eunwon Kim, Hwaran Lee, Buru Chang		conf/acl/LeeKLC26
+장부루	2026	c:acl		HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing	Euntae Kim, Soomin Han, Buru Chang		conf/acl/KimHC26
+장부루	2025	c:aaai		ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models	Yeji Park, Deokyeong Lee, Junsuk Choe, Buru Chang		conf/aaai/ParkLCC25
+장부루	2025	c:acl		SHARE: Shared Memory-Aware Open-Domain Long-Term Dialogue Dataset Constructed from Movie Script	Eunwon Kim, Chanho Park, Buru Chang		conf/acl/KimPC25
+장부루	2025	c:cvpr		Is 'Right' Right? Enhancing Object Orientation Understanding in Multimodal Large Language Models through Egocentric Instruction Tuning	Ji Hyeok Jung, Eun Tae Kim, Seo Yeon Kim 외 3명		conf/cvpr/JungKKLKC25
+전유석	2026	c:ndss		In-Context Probing for Membership Inference in Fine-Tuned Language Models	Zhexi Lu, Hongliang Chi, Nathalie Baracaldo 외 3명		conf/ndss/LuCBKJY26
+전유석	2025	c:ccs		Intent-aware Fuzzing for Android Hardened Application	Seongyun Jeong, Minseong Choi, Haehyun Cho 외 3명		conf/ccs/JeongCCCKJ25
+전유석	2025	c:icse		Lightweight Concolic Testing via Path-Condition Synthesis for Deep Learning Libraries	Sehoon Kim, Yonghyeon Kim, Dahyeon Park 외 3명		conf/icse/KimKPJYK25
+전유석	2025	c:ndss		type++: Prohibiting Type Confusion with Inline Type Information	Nicolas Badoux, Flavio Toffalini, Yuseok Jeon, Mathias Payer		conf/ndss/BadouxTJP25
+전유석	2025	c:prdc		Dependable Code Repair with LLMs: AI-Driven Vulnerability Detection and Automated Patching	Sungmin Han, Hyoungshick Kim, Hojoon Lee 외 6명		conf/prdc/HanKLMJBYAL25
+정성우	2026	j:cal		DAWN: Efficient Distribution of Attention Workload in PIM-Enabled Systems for LLM Inference	Jaehoon Chung, Jinho Han, Young-Ho Gong, Sung Woo Chung		journals/cal/ChungHGC26
+정성우	2025	c:islped		SHIFT ECC: A Value Converting HBM ECC Approach for Refresh Energy Efficient Integer Quantized DNN Inference	Jae Yoon Lee, Young Seo Lee, Young-Ho Gong 외 2명		conf/islped/LeeLGKC25
+정성우	2025	c:islped		Thermal Challenges and Opportunities for Off-the-shelf 3D-stacked CPUs	Jae Yoon Lee, Chae Young Sim, Seung Hun Choi, Sung Woo Chung		conf/islped/LeeSCC25
+정성우	2024	j:access		ZEC ECC: A Zero-Byte Eliminating Compression-Based ECC Scheme for DRAM Reliability	Ji Hun Kwon, Hyeong Kon Bae, Young Seo Lee 외 2명		journals/access/KwonBLGC24
+정성우	2024	j:tetc		Near-Memory Computing With Compressed Embedding Table for Personalized Recommendation	Jeongmin Lim, Young Geun Kim, Sung Woo Chung 외 2명		journals/tetc/LimKCKK24
+정연돈	2026	j:bspc		Privacy-preserving ECG data collection for arrhythmia classification	Hyubjin Lee, Minsoo Kim, Yon Dohn Chung		journals/bspc/LeeKC26
+정연돈	2026	j:isci		Mosaic: Differentially private representation of density-based clustering results	Namil Kim, Incheol Baek, Changbeom Shim, Yon Dohn Chung		journals/isci/KimBSC26
+정연돈	2026	c:dsn		Why are Anomalies Rare in RSS? Diagnosing Strict Serializability Violations in Spanner-RSS	Sejong Kim, Yon Dohn Chung		conf/dsn/KimC26
+정연돈	2026	c:eacl		K-LegalDeID: A Benchmark Dataset and KLUEBERT-CRF for De-identification in Korean Court Judgments	Wooseok Choi, Hyungbin Kim, Yon Dohn Chung		conf/eacl/ChoiKC26
+정연돈	2026	c:icde		ABC: Numerical Data Collection Under Local Differential Privacy Without Prior Knowledge	Incheol Baek, Hyungbin Kim, Yon Dohn Chung		conf/icde/BaekKC26
+정원기	2026	c:aaai		Virtual Multiplex Staining for Histological Images Using a Marker-Wise Conditioned Diffusion Model	Hyun-Jic Oh, Junsik Kim, Zhiyi Shi 외 5명		conf/aaai/OhKSWCSPJ26
+정원기	2026	c:miccai		LRMIL: Efficient Low-Resolution Multiple Instance Learning via High-Resolution Knowledge Distillation for Whole Slide Image Classification	Yonghan Shin, Won-Ki Jeong		conf/miccai/ShinJ26
+정원기	2026	c:miccai		LaGuadia: Language-Guided Adaptive Distillation from Pathology Foundation Models	Gangsu Kim, Won-Ki Jeong		conf/miccai/KimJ26
+정원기	2026	c:miccai		Zero-Shot CT Super-Resolution Using Diffusion-Based 2D Projection Priors and Signed 3D Gaussians	Jeonghyun Noh, Hyun-Jic Oh, Won-Ki Jeong		conf/miccai/NohOJ26
+정형진	2026	c:cvpr		ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding	Byeongjun Park, Byung-Hoon Kim, Hyungjin Chung, Jong Chul Ye		conf/cvpr/ParkKCY26
+정형진	2026	c:eccv		InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem	Yeobin Hong, Suhyeon Lee, Hyungjin Chung, Jong Chul Ye		conf/eccv/HongLCY26
+정형진	2026	c:eccv		ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition	Jooyeol Yun, Jintae Park, Hyesu Lim 외 3명		conf/eccv/YunPLHCC26
+정형진	2026	c:iclr		Stochastic Optimal Control for Continuous-Time fMRI Representation Learning	Joonhyeong Park, Byoungwoo Park, Chang-Bae Bang 외 4명		conf/iclr/ParkPBCCKL26
+정형진	2025	j:artmed		Label-independent framework for objective evaluation of cosmetic outcome in breast cancer	Sangjoon Park, Yong Bae Kim, Jee Suk Chang 외 4명		journals/artmed/ParkKCCCLB25
+주창희	2026	j:cn		Economic and strategic perspectives on CDN pricing: A comprehensive review	Chengjun Jin, Junhao Cai, Juhyun Park, Changhee Joo		journals/cn/JinCPJ26
+주창희	2026	j:nn		DAG-NAS: An explainable neural architecture search framework for reinforcement learning	Taegun An, Changhee Joo		journals/nn/AnJ26
+주창희	2026	j:tnse		Buffer Management for Timely Reconstruction: Lower Bounds and Near-Optimal Policies	Sunjung Kang, Vishrant Tripathi, Changhee Joo, Christopher G. Brinton		journals/tnse/KangTJB26
+주창희	2026	c:aaai		HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression	Junhao Cai, Taegun An, Chengjun Jin 외 3명		conf/aaai/CaiAJCPJ26
+주창희	2026	c:wiopt		Interference Prediction and Beam Alignment in 5G Indoor mmWave UDNs	Sihyun Choi, Sungbo Eo, Changhee Joo, Saewoong Bahk		conf/wiopt/ChoiEJB26
+한정현	2026	j:jvca		Parameter-Preserving Real-time BIM Rendering via Direct GPU Ray Tracing	Jaehyuk Lim, Donggyu Lee, Junghyun Han, Seung-wook Kim		journals/jvca/LimLHK26
+한정현	2026	c:wacv		EllipssianNet: Image-guided Sampling of 2D Gaussians for Gaussian Splatting	MyoungGon Kim, JeongHyeon Ahn, Seohyeon Park 외 4명		conf/wacv/KimAPKPHH26
+한정현	2025	j:jvca		Interaction With Virtual Objects Using Human Pose and Shape Estimation	Hong Son Nguyen, DaEun Cheong, Andrew Chalmers 외 3명		journals/jvca/NguyenCCKRH25
+한정현	2025	j:jvca		Dimension Expansion for Untangling Mass-Spring System	Seung-wook Kim, Huiseong Lee, Jaehyun Lee 외 2명		journals/jvca/KimLLUH25
+한정현	2025	j:jvis		A user study on air conditioner's airflow visualization in mobile AR	Hyunmo Kang, Joohwan Chae, MyoungGon Kim, Junghyun Han		journals/jvis/KangCKH25
+허준범	2026	j:csur		Certificate Revocation in the TLS Ecosystem: A Survey	Hyunsoo Kwon, Doowon Kim, Hodong Kim 외 2명		journals/csur/KwonKKHH26
+허준범	2026	j:jksucis		LCMA: lightweight cross-domain mutual authentication scheme for Internet of Vehicles	Xiyuan Ma, Junbeom Hur		journals/jksucis/MaH26
+허준범	2026	j:kbs		A domain-specific knowledge graph for reasoning over AI security threats and defenses	Samaneh Shamshiri, Danial Javaheri, Mahdi Fahmideh, Junbeom Hur		journals/kbs/ShamshiriJFH26
+허준범	2026	j:tifs		Decoupled and Privacy-Preserving Key Generation in ABE Under the Minimal Disclosure Principle	Zhiqiang Zhang, Youwen Zhu, Xiaodong Yang 외 4명		journals/tifs/ZhangZYDHWH26
+허준범	2026	c:asiaccs		Abortection: Robust TSX-Based Detection of Cache Side-Channel Attacks on Modern Intel CPUs with Non-Inclusive LLCs	Hyungjung Joo, Hodong Kim, Junbeom Hur		conf/asiaccs/JooKH26
+양경식	2026	c:emnlp		Enabling KV Caching of Shared Prefix for Diffusion Language Models	Younghun Go, Jaehoon Han, Changyong Shin 외 2명	Jaehoon Han	conf/emnlp/GoHSYY26
+양경식	2026	j:fgcs		Prediction-based GPU sharing for distributed training	Changyong Shin, Younghun Go, Yeonho Yoo 외 4명		journals/fgcs/ShinGYJHYY26
+양경식	2026	c:dac		Making Sense of Job Preemption for Distributed Deep Learning Acceleration	Younghun Go, Changyong Shin, Minchul Kang 외 3명		conf/dac/GoSKHYY26
+양경식	2026	c:miccai		Inversion from ECG Foundation Model	Junseok Lee, Seungwoo Jung, Gyeongsik Yang, Chuck Yoo		conf/miccai/LeeJYY26
+양경식	2025	j:pomacs		Revisiting Traffic Splitting for Software Switch in Datacenter	Yeonho Yoo, Gyeongsik Yang, Changyong Shin 외 4명		journals/pomacs/YooYSCCNY25
+Anh Tong	2026	j:csur		Towards Transparent Time Series Analysis: Exploring Methods and Enhancing Interpretability	Youngjin Park, Anh Tong, Sehyun Lee 외 3명		journals/csur/ParkTLSXC26
+Anh Tong	2026	c:ijcai		LoCo: Low-Rank Compositional Rotation Fine-Tuning	An Nguyen, Jaesik Choi, 안통		conf/ijcai/NguyenCT26
+Anh Tong	2025	c:aaai		CASUAL: Conditional Support Alignment for Domain Adaptation with Label Shift	Anh T. Nguyen, Lam Tran, Anh Tong 외 2명		conf/aaai/NguyenTTNT25
+Anh Tong	2025	c:iclr		Neural ODE Transformers: Analyzing Internal Dynamics and Adaptive Fine-tuning	Anh Tong, Thanh Nguyen-Tang, Dongeun Lee 외 5명		conf/iclr/TongN0NTHKC25
+이병준	2026	j:ml		Learning to Process Relational Information for Cloud Computing Task Scheduling	Seong-Hyun Hong, Myunsoo Kim, 이병준		journals/ml/HongKL26
+이병준	2026	j:ml		Neural MCTS with LLM Guidance for Effective Program Synthesis on Abstraction and Reasoning Corpus	Jinwoo Jeon, Seongwoong Shim, Sejin Kim 외 2명		journals/ml/JeonSKKL26
+이병준	2026	c:aaai		uCLIP: Parameter-Efficient Multilingual Extension of Vision-Language Models with Unpaired Data	Dahyun Chung, Donghyun Shin, Yujin Sung 외 3명		conf/aaai/ChungSSMJL26
+이병준	2026	c:acl		SGT: Securing Open-Source LLMs Against Malicious Fine-tuning via Safety Guidance Trigger	Sunguk Shin, Fangzhao Wu, Byung-Jun Lee 외 2명		conf/acl/ShinWLCP26
+이창희	2026	j:npjdm		Deep language model-based early recognition of out-of-hospital cardiac arrest from real-time emergency calls	Hong-Jae Choi, Minyoung Hwang, Sangyeon Cho 외 4명		journals/npjdm/ChoiHCKKBL26
+이창희	2026	c:cvpr		PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting	Danyal Maqbool, Changhee Lee, Zachary Huemann 외 11명		conf/cvpr/MaqboolLHCLPRWL26
+김찬우	2025	c:icassp		Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution	Yongjoon Lee, 김찬우		conf/icassp/LeeK25
+김찬우	2024	j:tmlr		Physics Informed Distillation for Diffusion Models	Joshua Tian Jin Tee, Kang Zhang, Hee Suk Yoon 외 3명		journals/tmlr/Tee0YG0Y24
+김찬우	2024	c:icassp		Data Driven Grapheme-to-Phoneme Representations for a Lexicon-Free Text-to-Speech	Abhinav Garg, Jiyeon Kim, Sushil Khyalia 외 2명		conf/icassp/GargKK0G24
+김찬우	2024	c:icassp		Latent Filling: Latent Space Data Augmentation for Zero-Shot Speech Synthesis	Jae-Sung Bae, Joun Yeop Lee, Ji-Hyun Lee 외 4명		conf/icassp/BaeLLMKC024
+Christian Wallraven	2026	j:mia		Establishing the robustness metric as a scalable proxy for clinical relevance in medical AI explainability	DaeHyun Cho, Sung-Hye You, Bo Kyu Kim 외 2명		journals/mia/ChoYKPW26
+Christian Wallraven	2026	j:toh		More Than a Material: Social Interpretation Shapes the Hedonic Evaluation of Human Hand Touch	Jaehyoung Bae, 발라벤		journals/toh/BaeW26
+Christian Wallraven	2026	c:aaai		Mind the Gap: Quantifying and Aligning Human-AI Visual Attention for Accident Anticipation	Hoe Sung Ryu, 발라벤		conf/aaai/RyuW26
+Christian Wallraven	2026	c:ijcai		Test-Time User Alignment via Bayesian Population Guidance in Subjective Tasks	Hoe Sung Ryu, June Christoph Kang, 발라벤		conf/ijcai/RyuKW26
+김동현	2026	j:ijcv		Delving into Pre-training for Domain Transfer: A Broad Study of Pre-training for Domain Generalization and Domain Adaptation	Jungmyung Wi, Young Kyun Jang, Dujin Lee 외 2명		journals/ijcv/WiJLNK26
+김동현	2026	j:eaai		Are we truly forgetting? A critical re-examination of machine unlearning evaluation protocols	Yongwoo Kim, Sungmin Cha, 김동현		journals/eaai/KimCK26
+김동현	2026	j:eaai		Training-free label space alignment for universal domain adaptation	Dujin Lee, Sojung An, Jungmyung Wi 외 2명		journals/eaai/LeeAWSK26
+김동현	2026	j:cviu		Generalized prompt-driven zero-shot domain adaptive segmentation with feature rectification and semantic modulation	Jinyi Li, Longyu Yang, Donghyun Kim 외 5명		journals/cviu/LiYKSSSZH26
+박경문	2026	c:acl		Open Your Model's Eyes: Video and Context-Aware Multimodal Backchannel Prediction	Min-Jae Kim, Jun-Yeong Moon, Mujeen Sung, 박경문		conf/acl/KimMSP26
+박경문	2026	j:mia		Unsupervised domain adaptation for medical image segmentation using adaptogen-perturbation	Hong Joo Lee, Yuan Bi, Sangmin Lee 외 5명		journals/mia/LeeBLPKKJN26
+박경문	2026	j:tmm		SSMPD: Semi-Supervised Learning for Multispectral Pedestrian Detection	Seungho Shin, Chan Lee, Gyeong-Moon Park, Jung Uk Kim		journals/tmm/ShinLPK26
+박경문	2026	j:ce		Diffusion-based AI system for second language reading: Development, text quality validation, and learner perception	Habin Lim, Euijune Lee, Si Eun Kwoun 외 4명		journals/ce/LimLKBPHL26
+석흥일	2026	j:tmi		Explainable Normative Modeling for Brain Disorder Identification in Resting-State fMRI	Yeajin Shon, Eunsong Kang, Da-Woon Heo, 석흥일		journals/tmi/ShonKHS26
+석흥일	2026	j:tnn		FIESTA: Fourier-Based Semantic Augmentation With Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation	Kwanseok Oh, Eunjin Jeon, Da-Woon Heo 외 2명		journals/tnn/OhJHSS26
+석흥일	2026	j:mia		Complex wavelet-based Transformer for neurodevelopmental disorder diagnosis via direct modeling of real and imaginary components	Ah-Yeong Jeong, Da-Woon Heo, 석흥일		journals/mia/JeongHS26
+석흥일	2026	j:pr		Transferring ultrahigh-field representations for intensity-guided brain segmentation of low-field magnetic resonance imaging	Kwanseok Oh, Jieun Lee, Da-Woon Heo 외 2명		journals/pr/OhLHSS26
+서현석	2026	c:iclr		Prior-aware and Context-guided Group Sampling for Active Probabilistic Subsampling	Beomgu Kang, 서현석		conf/iclr/KangS26
+서현석	2026	j:npjdm		AI Augmented Confocal Laser Endomicroscopy for Rapid Intraoperative Diagnosis of Brain Tumors	Yoon Hwan Byun, Hyunseok Seo, Jae-Kyung Won 외 14명		journals/npjdm/ByunSWLHNHKKKYPKDKPK26
+서현석	2026	j:eswa		Cyclic conditional diffusion models for CT-to-MR synthetic image segmentation with misaligned image pairs	Han Jang, Na Yeon Han, Jangho Kwon 외 3명		journals/eswa/JangHKSPC26
+정종헌	2026	j:tifs		LVMark: Robust Watermark for Latent Video Diffusion Models	Youngdong Jang, MinHyuk Jang, JaeHyeok Lee 외 4명		journals/tifs/JangJLYOJK26
+정종헌	2026	c:aaai		Margin-Aware Preference Optimization for Aligning Diffusion Models Without Reference	Jiwoo Hong, Sayak Paul, Noah Lee 외 3명		conf/aaai/HongPLRTJ26
+정종헌	2026	c:aaai		Learning from the Undesirable: Robust Adaptation of Language Models Without Forgetting	Yunhun Nam, Jaehyung Kim, 정종헌		conf/aaai/NamKJ26
+정종헌	2026	c:cvpr		WaTeRFlow: Watermark Temporal Robustness via Flow Consistency	Utae Jeong, Sumin In, Hyunju Ryu 외 5명		conf/cvpr/JeongIRCYJKK26
+성준경	2026	j:biodatamining		A peak-oriented diffusion model for high-fidelity electrocardiogram reconstruction from photoplethysmogram	Hyunmyung Cho, Sungmin Han, Joon-Kyung Seong, Inchan Youn		journals/biodatamining/ChoHSY26
+성준경	2025	j:ewc		Data-driven simulation of network-based tau spreading tailored to individual Alzheimer's patients	Sung-Woo Kim, Hanna Cho, Yeonjeong Lee 외 2명		journals/ewc/KimCLLS25
+성준경	2024	j:neuroimage		Disentangling brain atrophy heterogeneity in Alzheimer's disease: A deep self-supervised approach with interpretable latent space	Sohyun Kang, Sung-Woo Kim, 성준경		journals/neuroimage/KangKS24
+이상근	2026	c:acl		PICTURE: Enhancing Theory-of-Mind in Large Language Models by Revealing, Not Hiding, Characters' Lack of Knowledge	Eojin Jeon, 이상근		conf/acl/JeonL26
+이상근	2026	c:acl	F	SCRIPT: A Subcharacter Compositional Representation Injection Module for Korean Pre-Trained Language Models	SungHo Kim, Juhyeong Park, Eda Atalay, 이상근		conf/acl/KimPAL26
+이상근	2025	c:acl		Forward Knows Efficient Backward Path: Saliency-Guided Memory-Efficient Fine-tuning of Large Language Models	Yeachan Kim, 이상근		conf/acl/Kim025
+이상근	2025	j:eswa		Continual debiasing: A bias mitigation framework for natural language understanding systems	Mingyu Lee, Junho Kim, Jun-Hyung Park, 이상근		journals/eswa/LeeKPL25
+김상필	2026	c:aaai		Reconstruction Using the Invisible: Intuition from NIR and Metadata for Enhanced 3D Gaussian Splatting	Gyusam Chang, Tuan-Anh Vu, Vivek Alumootil 외 4명		conf/aaai/ChangVASPKJ26
+김상필	2026	j:tifs		LVMark: Robust Watermark for Latent Video Diffusion Models	Youngdong Jang, MinHyuk Jang, JaeHyeok Lee 외 4명		journals/tifs/JangJLYOJK26
+김상필	2026	j:aei		Single image-based Gaussian splatting for 3D reconstruction of movable articulated objects	Hwanhee Jung, Seunggwan Lee, Jeongyoon Yoon 외 2명		journals/aei/JungLYHK26
+김상필	2026	j:access		Egocentric Hand Activity Video Dataset and Bidirectional Motion-Priors for Hand Action Recognition	Jiyoung Seo, Dong In Lee, Pilhyeon Lee 외 4명		journals/access/SeoLLLGRK26
+박세준	2026	c:iclr		Deep Latent Variable Model based Vertical Federated Learning with Flexible Alignment and Labeling Scenarios	Kihun Hong, Sejun Park, Ganguk Hwang		conf/iclr/HongPH26
+박세준	2025	c:cav		Floating-Point Neural Networks are Provably Robust Universal Approximators	Geonho Hwang, Wonyeol Lee, Yeachan Park 외 2명		conf/cav/HwangLPPS25
+이성환	2026	j:eswa		Domain transfer learning for multi-class EEG decoding based on lateral feature connected diffusion model	Seo-Hyun Lee, Shin-Hye Lee, 이성환		journals/eswa/LeeLL26
+이성환	2026	j:eswa		Consciousness-ECG transformer for conscious state estimation system with real-time monitoring	Young-Seok Kweon, Gi-Hwan Shin, Ji-Yong Kim 외 2명		journals/eswa/KweonSKRL26
+이성환	2026	j:access		InterHier: Learning Interconnected Hierarchical Semantics for Open-Vocabulary Object Detection	Yeong-Jin Kim, Ho-Joong Kim, 이성환		journals/access/KimKL26
+이성환	2026	j:access		Negative Contrastive Chain-of-Thought Distillation for Transfer Reasoning Capability to Small Language Models	Jae-Wook Han, Hayoung Jo, Jung-Ho Hong, 이성환		journals/access/HanJHL26
+이승규	2026	j:aamas		Distributed concurrent triangulation for a group of low-cost robots with bearing-only sensing	Seoung Kyou Lee		journals/aamas/Lee26
+이승규	2025	j:isrob		Local path planning scheme for car-like robots' shortest turning motion using geometric analysis	Seoung Kyou Lee, Nakju Lett Doh		journals/isrob/LeeD25
+서승호	2026	c:cvpr		OpenMarcie: Dataset for Multimodal Action Recognition in Industrial Environments	Hymalai Bello, Lala Shakti Swarup Ray, Joanna Sorysz 외 2명		conf/cvpr/BelloRSSL26
+서승호	2026	j:eswa		COA-HAR: Exploring contrastive online test-time adaptation for wearable sensor-based human activity recognition	Vítor Fortes Rey, Pedro Martelleto Bressane Rezende, Bo Zhou 외 2명		journals/eswa/ReyRZSL26
+서승호	2026	j:eswa		CoSS: Co-optimizing sensor and sampling rate for data-efficient human activity recognition	Mengxi Liu, Zimin Zhao, Daniel Geißler 외 3명		journals/eswa/LiuZGZSL26
+서승호	2026	c:aughuman2		Effective Evaluation of Exoskeleton Using Exo-Agnostic Uncertainty-Aware Classification Model with Wearable Sensors	Taehyun Byun, Chanwoo Kim, Bokman Lim 외 2명		conf/aughuman2/ByunKLSC26
+김성웅	2026	c:cvpr		OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation	Yoonjin Oh, Yongjin Kim, Hyomin Kim 외 2명		conf/cvpr/OhKKCK26
+김성웅	2026	j:tist		SGPO: Self-Generated Preference Optimization Based on Self-Improver	Hyeonji Lee, Daejin Jo, Seohwan Yun, 김성웅		journals/tist/LeeJYK26
+김성웅	2026	c:urai		XNav-Pipe: Cross-Platform Robot Navigation Data Generation Pipeline	Sungwoong Kim, Minseo Kim, Siyeol Kim 외 2명		conf/urai/KimKKPY26
+김성웅	2025	c:emnlp		VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms	Seungwon Lim, Sungwoong Kim, Jihwan Yu 외 3명		conf/emnlp/LimKYLCY25
+감태의	2026	j:artmed		EEG-based epileptic seizure prediction with patient-tailored spectral-spatial-temporal feature learning	WooHyeok Choi, Junmo Kim, Hyeonyeong Nam 외 3명		journals/artmed/ChoiKNBSK26
+감태의	2026	j:eswa		A hierarchical reinforcement learning approach to personalized decision-making for brain connectivity segmentation	Chang-Hoon Ji, Ji-Hye Oh, Yu-Kyum Kang 외 5명		journals/eswa/JiOKKKHCK26
+감태의	2026	j:asc		Source-driven enhanced semantic style transfer for addressing BCI illiteracy in subject-independent EEG-based motor imagery classification	Ji-Wung Han, Dong-Hee Shin, Chang-Hoon Ji 외 7명		journals/asc/HanSJLKCOCSK26
+감태의	2026	j:mia		crossMoDA challenge: Evolution of cross-modality domain adaptation techniques for vestibular schwannoma and cochlea segmentation	Navodini Wijethilake, Reuben Dorent, Marina Ivory 외 38명		journals/mia/WijethilakeDIKC26
+정원주	2026	j:access		Multimodal Network With Accuracy-Based Inverse Loss Weighting and Multimodal Ensemble Classification for EEG-Based Sleep Stage Classification	Koohong Jung, Moogyeong Kim, 정원주		journals/access/JungKC26
+정원주	2025	j:access		Sleep Staging Using Compressed Vision Transformer With Novel Two-Step Attention Weighted Sum	Hyounggyu Kim, Moogyeong Kim, 정원주		journals/access/KimKC25a
+정원주	2024	j:titb		Multiband Convolutional Riemannian Network With Band-Wise Riemannian Triplet Loss for Motor Imagery Classification	Jinhyo Shin, 정원주		journals/titb/ShinC24
+정우환	2026	c:kdd		Trajectory-Aware Clinical Risk Prediction via Severity-Grounded Knowledge Graphs and Retrieval-Augmented Generation	Kyunghoon Jeon, Youmin Ko, Woohwan Jung, Hyunjoon Kim		conf/kdd/JeonKJK26
+정우환	2026	c:lrec		A Single Model Ensemble Framework for Neural Machine Translation Using Pivot Translation	Seokjin Oh, Keonwoong Noh, 정우환		conf/lrec/OhNJ26
+정우환	2025	j:pacmmod		Cardinality Estimation of LIKE Predicate Queries using Deep Learning	Suyong Kwon, Kyuseok Shim, 정우환		journals/pacmmod/KwonSJ25
+정우환	2025	c:acl	F	Hierarchical Retrieval with Evidence Curation for Open-Domain Financial Question Answering on Standardized Documents	Jaeyoung Choe, Jihoon Kim, 정우환		conf/acl/ChoeKJ25
+최성준	2026	c:icra		LEGO: Latent-space Exploration for Geometry-aware Optimization	Yoon 외 7명		conf/icra/YoonJPKKLLC26
+최성준	2026	c:icra		Learning Social Navigation from Positive and Negative Demonstrations	Kim 외 11명		conf/icra/KimYKJYLBCPOLC26
+최성준	2025	j:trob		Spatio-Temporal Motion Retargeting for Quadruped Robots	Yoon 외 6명		journals/trob/YoonKKCACC25
+최성준	2025	c:iros		Robust and Expressive Humanoid Motion Retargeting	Jeong 외 8명		conf/iros/JeongBKCOLDKC25
+최성준	2025	c:icra		Learning-Based Dynamic Robot-to-Human Handover	Kim 외 4명		conf/icra/KimKPLC25
+최성준#2	2026	c:eccv		Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration	Sangwoo Jo, Donggeun Ko, Jayeon Kang 외 3명		conf/eccv/JoKKKKC26
+강충구	2026	j:access		Camera-Assisted Beam Selection via Unified Learning in 6G Vehicle-to-Infrastruct…	Zahra Zarei 외 2명		journals/access/ZareiTK26
+강충구	2026	c:ccnc		Low-Complexity AFDM Signal Detection for High-Mobility and LEO Satellite Communi…	Can Zheng 외 1명		conf/ccnc/ZhengK26
+고영채	2026	j:tcom		Performance Analysis of SIMO-FSO Systems With Coupled Pointing Errors and Correl…	Jong-Min Kim 외 3명		journals/tcom/KimPKA26
+고영채	2026	j:taes		Geometry-Aware Joint Power Statistics and Outage Dynamics of Time-Correlated Sha…	Jungmin Suh 외 4명		journals/taes/SuhNJHK26
+곽진태	2026	c:miccai		COAST: Context-Aware Differential Learning for Gene Expression Prediction in Spa…	Keunho Byeon 외 3명		conf/miccai/ByeonPLK26
+곽진태	2026	j:mia		Welcome new doctor: Continual learning with expert consultation and autoregressi…	Doanh C. Bui 외 1명		journals/mia/BuiK26
+곽진태	2026	c:wacv		HiFi-Deblur: High-Frequency Intense Image Deblurring with Frequency-Decoupled U-…	Jeewoo Lim 외 2명		conf/wacv/LimYK26
+궁재하	2026	j:tcasI		A Hybrid Digital-Analog Compute-in-Memory Using Content-Addressable Memory With …	Sangwoo Jung 외 7명		journals/tcasI/JungLPLPSYK26
+궁재하	2026	j:tvlsi		Fused-STA: Automated Design Space Exploration of a Fused Systolic Tensor Array f…	Jooyeon Lee 외 2명		journals/tvlsi/LeeJK26
+김선욱	2026	c:dac		Keeping PIM Busy: Eliminating Execution Overheads for Full Throughput	Mun Seong Park 외 5명		conf/dac/ParkPKKKK26
+김선욱	2026	c:dac		Bringing Graphs Closer to Memory: Compiler-Driven Data Transfer Reduction in the…	Jisung Pack 외 6명		conf/dac/PackKPKPKK26
+김선욱	2025	c:dac		Supporting Register-based Addressing Modes for in-DRAM PIM ISAs	Seok Young Kim 외 4명		conf/dac/KimCKPK25
+김용신	2026	j:tvlsi		Double-Error Correction With Dual-Stage Hamming Code for On-Die ECCs in High-Spe…	Min Joon Kim 외 7명		journals/tvlsi/KimKJKYLKK26
+김용신	2025	j:tim		A Vernier TDC With a Time Multiplier Achieving FoM of 0.079 pJ/Conversion	Hyunjin Lee 외 3명		journals/tim/LeeLIK25
+김종국	2026	j:fgcs		GraMA: A gradient matrix-guided assignment method for solving qubit mapping prob…	XinYu Piao 외 2명		journals/fgcs/PiaoKK26
+김종국	2026	j:access		Two-Phase Neighbor Consensus Sharpness-Aware Minimization for Learning With Nois…	Junhyun Ahn 외 1명		journals/access/AhnK26
+김종옥	2026	c:wacv		Graph-Based Spectral Attention with Multi-Spectral Images for Illuminant Estimat…	Dong-Hoon Kang 외 2명		conf/wacv/KangBK26
+김종옥	2026	j:access		Overcoming the Domain Gap Between Multi-Band NIR and RGB for Colorization	Gyeong-Eun Youm 외 1명		journals/access/YoumK26
+김중헌	2026	j:access		Transformer-Based Offline Reinforcement Learning for Intelligent Torpedo Evasion	Hyojun Ahn 외 5명		journals/access/AhnLKCYK26
+김중헌	2026	j:cm		Sustainable 6G Non-Terrestrial Networks: Enabling Net-Zero Operation via Renewab…	Hyunsoo Lee 외 3명		journals/cm/LeePJK26
+김창수	2026	c:cvpr		Frequency-domain Manipulation for Face Obfuscation	Jintae Kim 외 2명		conf/cvpr/KimKK26
+김창수	2026	j:ijon		LUTFormer: Lookup table transformer for image enhancement	Jinwon Ko 외 3명		journals/ijon/KoKKK26
+김창수	2026	j:jvcir		SVT: Sequential video transformer for video inpainting with masked motion propag…	Seunggyun Woo 외 1명		journals/jvcir/WooK26
+김철우	2026	j:jssc		A 15-Gb/s PAM-3 Transceiver With Hybrid Equalization and Time-Domain Decoder for…	Hwaseok Shin 외 10명		journals/jssc/ShinCSKPKSSLKK26
+김철우	2026	j:jssc		A 7-bit 1.15-GS/s 2.6-bit/Cycle Asynchronous SAR ADC Using Comparator Decision S…	Sooho Park 외 6명		journals/jssc/ParkKCSLSK26
+김황남	2026	j:cee		Rolling-horizon genetic algorithm for adaptive path planning in hazardous enviro…	Sangmin Lee 외 3명		journals/cee/LeeJKK26
+김황남	2026	c:wcnc		Identifying Reliable Optimality Criteria for 3D Anchor Configuration Through FIM…	Byongho Lee 외 3명		conf/wcnc/LeeLJK26
+박종선	2026	j:jssc		ROZK: An Energy-Efficient DNN Accelerator Based on Reconfigurable NoC and Local …	Heetak Kim 외 3명		journals/jssc/KimHKP26
+박종선	2026	j:tvlsi		A Structured-Sparsity-Based Design Approach for Energy-Efficient Spiking Transfo…	Hyunseok Jung 외 2명		journals/tvlsi/JungLP26
+백상헌	2026	j:cm		MALOI: Multi-Task-Aware Low-Overhead In-Network Inference using Programmable Swi…	Heewon Kim 외 5명		journals/cm/KimBYKKP26
+백상헌	2026	j:tcc		INTpress: Compression-Based Quantized In-Band Network Telemetry for Low Bandwidt…	Chanbin Bae 외 5명		journals/tcc/BaeKHKLP26
+백상헌	2026	j:tmc		Conflict-Aware Distributed Coordination Framework for Self-Organizing Networks	Eunsok Lee 외 3명		journals/tmc/LeeHKP26
+석준희	2026	j:ijon		Improving monte carlo dropout uncertainty estimation with stable output layers	Suhan Son 외 1명		journals/ijon/SonS26
+석준희	2025	j:eaai		Adversarial environment design for crowd navigation based on deep reinforcement …	Jeongeun Kim 외 2명		journals/eaai/KimHS25
+신원재	2026	j:tvt		Space-Time Rate-Splitting Multiple Access for Multibeam LEO Satellite Networks	Jaehyup Seong 외 3명		journals/tvt/SeongLKS26
+신원재	2026	j:ojcs		Quantization-Aware Uplink Resource Allocation Rules for Low-Resolution Orthogona…	Chanula Luckshan 외 4명		journals/ojcs/LuckshanGIDS26
+안정섭	2026	c:osdi		Revisiting Pipeline Parallelism for LLM Serving	Soonjae Hwang 외 1명		conf/osdi/HwangA26
+안정섭	2026	j:tocs		An Efficient DNN Model Serving System using Layer-wise Caching and Direct-Host-A…	Jinwoo Jeong 외 1명		journals/tocs/JeongA26
+안정섭	2026	j:cal		Towards Segmentation-Based Address Translation for LLM Inference	Youngjoon Cheon 외 2명		journals/cal/CheonOA26
+안춘기	2026	j:automatica		Performance planning control for switched systems: An iterative control barrier …	Yiwen Qi 외 3명		journals/automatica/QiLWA26
+안춘기	2026	j:automatica		Bayesian design for transfer estimation between a pair of state-space models	Tianyu Zhang 외 4명		journals/automatica/ZhangZAHL26
+오윤호	2026	j:cal		EONSim: An NPU Simulator for On-Chip Memory and Embedding Vector Operations	Sangun Choi 외 3명		journals/cal/ChoiKPO26
+오윤호	2026	j:access		BiKD: Bidirectional Kernel Decomposition for Large-Scale GCNs on GPU	Inje Kim 외 6명		journals/access/KimLJCYOK26
+이인규	2026	j:tccn		Integrated Sensing and Covert Communication Systems in Near-Field Transmission	Zhengyu Zhu 외 6명		journals/tccn/ZhuYLMYLL26
+이인규	2026	j:phycomm		SNR-aware semantic image transmission with deep learning-based channel estimatio…	Mahmoud M. Salim 외 5명		journals/phycomm/SalimAMERL26
+이해범	2025	c:icml		Bayesian Neural Scaling Law Extrapolation with Prior-Data Fitted Networks	Dongwoo Lee 외 7명		conf/icml/LeeLALHHKL25
+이해범	2025	c:nips		Cost-Sensitive Freeze-thaw Bayesian Optimization for Efficient Hyperparameter Tu…	Dong Bok Lee 외 7명		conf/nips/LeeZKPALHL25
+이해범	2024	c:iclr		Delta-AI: Local objectives for amortized inference in sparse graphical models	Jean-Pierre R. Falet 외 7명		conf/iclr/FaletLM0SZLB24
+이형민	2026	j:jssc		A 96.5% Efficiency Hybrid Step-Up Converter With Low Input-Level Voltage Stress …	Minsu Kim 외 8명		journals/jssc/KimJPSANSWL26
+이형민	2026	j:jssc		A Hybrid Touch Sensing AFE With Common-CVQ (Currents, Voltages, and Charges) Sub…	Seung Hun Choi 외 6명		journals/jssc/ChoiAAKLCL26
+임묘택	2026	j:tase		Practical Mixed Palletizing Manipulator System: Incorporating Practical Reinforc…	Woo-Jin Ahn 외 5명		journals/tase/AhnCKRPL26
+임묘택	2026	j:isrob		FruitTrackDB: a multi-sensor dataset for intelligent navigation in real orchard	Sun-Ho Jang 외 8명		journals/isrob/JangCHKCYLAL26
+정승원	2026	c:eccv		MASS: Motion-Aligned Selective Scan for Refinement in Flow-Based Video Frame Int…	Jun-Sang Yoo 외 1명		conf/eccv/YooJ26
+정승원	2026	c:aaai		Universal Compressed Image Restoration via Codec-Aware Conditioning with Reinfor…	Changwoo Han 외 4명		conf/aaai/HanKKLJ26
+정승원	2026	j:tmi		An Anisotropic Cross-View Texture Transfer With Multi-Reference Non-Local Attent…	Kwang-Hyun Uhm 외 3명		journals/tmi/UhmCHJ26
+진경환	2026	c:cvpr		Semantic Alignment for Pose-Invariant Identity Preserving Diffusion	Jiwon Kim 외 4명		conf/cvpr/KimKPCJ26
+진경환	2026	c:eccv		Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation	Hyunmin Cho 외 2명		conf/eccv/ChoYJ26
+진경환	2026	c:eccv		Reference-to-Image (R2I) Aware Latent Diffusion Model for Image Super-Resolution	Byeonghun Lee 외 3명		conf/eccv/LeeCIJ26
+차영수	2026	j:ral		Quadrupedal Robot With Leg-and-Wheel Transformable Origami Mechanism	Gyeonghun Han 외 1명		journals/ral/HanC26
+차영수	2025	j:aisy		Ultralight Soft Wearable Haptic Interface with Shear-Normal-Vibration Feedback	Jiyong Min 외 3명		journals/aisy/MinJLC25
+최린	2025	c:ccnc		Scalable and Stable WiFi Localization (SSWLoc): Through on-Demand Map Extraction…	Minhyeok Choi 외 1명		conf/ccnc/ChoiC25
+최린	2025	c:prima		MW-MAS: A Multi-agent System for Multimodal Watermarking with Agent Orchestratio…	Lynn Choi 외 3명		conf/prima/ChoiPKP25
+허준	2025	j:qip		Architectures for lattice surgery-based surface code quantum computing under 3-d…	Jinyoung Ha 외 3명		journals/qip/HaKLH25
+허준	2025	j:jcn		Phase matching in Grover-QAOA for solving 3-SAT problems	Youngjin Seo 외 1명		journals/jcn/SeoH25
+현낙승	2026	j:ral		Lift-Augmentation Aware Backstepping Control for an Underactuated Bird-Scale Fla…	Shijun Zhou 외 2명		journals/ral/ZhouOH26
+현낙승	2026	j:ral		Learning One-Step Inverse for Performance Improvement of Nonlinear Control Syste…	Hamin Chang 외 2명		journals/ral/ChangLH26
+황원준	2026	j:pr		Knowledge tailoring: Bridging the teacher-student gap in semantic segmentation	Seokhwa Cheung 외 3명		journals/pr/CheungWKH26
+황인준	2025	j:titb		MIFlu: Large Language Model-Based Multimodal Influenza Forecasting Scheme	Jaeuk Moon 외 3명		journals/titb/MoonSKH25
+황인준	2025	j:ijon		Visual context-aware attribute-preserving face de-identification	Hyeonwoo Kim 외 3명		journals/ijon/KimSPH25
+주성관	2026	j:access		Robust Sizing of Demand Response Portfolios Using EVT-Based Peak Load Forecastin…	Dongkwan Kim 외 2명		journals/access/KimJW26
+주성관	2026	c:i2mtc		Next-Generation PMU: Waveform Measurement Unit and Its Applications for WAMS	Yeunggurl Yoon 외 18명		conf/i2mtc/YoonWKJSKJYLKKYCJJPKKN26
+김대겸	2026	c:eccv		TDSR-VLA: Transition-Aware Denoising Sequence Representations for Vision-Languag…	Dongwoo Kim 외 5명		conf/eccv/KimSLJCK26
+김대겸	2026	c:chi		MUST: Smartwatch-based Multimodal Framework for Predicting Driver State and Take…	Seokyong Sheem 외 6명		conf/chi/SheemCLCKKK26
+김대겸	2026	c:biorob		PrintExo: An Open-Source, Shoe-Agnostic, 3D-Printable Ankle Exoskeleton Platform	Sunin Baek 외 4명		conf/biorob/BaekLHCK26
+배준범	2026	j:jim		An augmented reality-based wearable system for handheld-free and intuitive robot…	Junsoo Kim 외 2명		journals/jim/KimLB26
+배준범	2025	j:ijsr		Analysis and Perspectives on the ANA Avatar XPRIZE Competition	Kris Hauser 외 27명		journals/ijsr/HauserWBBBBCDEFFHIKKLMN25
+정우진	2024	j:jfr		Uncertainty-aware LiDAR-based localization for outdoor mobile robots	Geonhyeok Park 외 1명		journals/jfr/ParkC24
+정우진	2024	j:ral		Learning Self-Supervised Traversability With Navigation Experiences of Mobile Ro…	Ikhyeon Cho 외 1명		journals/ral/ChoC24
+홍대희	2026	j:ral		Backlash-Like Hysteresis Estimation in Antagonistic Tendon-Sheath Mechanisms Usi…	Junho Hong 외 1명		journals/ral/HongH26
+홍대희	2025	j:ral		On-line Shape Estimation for Hysteresis Compensation in Tendon-Sheath Mechanisms…	Junho Hong 외 3명		journals/ral/HongHKW25
+홍승우	2026	j:scirobotics		Agile perceptive multiskill locomotion for quadrupedal robots in the wild	Jun-Gill Kang 외 5명		journals/scirobotics/KangPSKHP26
+홍승우	2026	j:trob		Residual MPC: Blending Reinforcement Learning With GPU-Parallelized Model Predic…	Se Hwan Jeon 외 3명		journals/trob/JeonLHK26
+홍승우	2026	j:ijrr		Design of LIGHTDOG: A high payload-to-weight, hose-less hydraulic quadrupedal ro…	Seunghoon Shin 외 4명		journals/ijrr/ShinHKOP26
+문두환	2026	j:jcde		Generative 3D appearance design: A survey of generation, segmentation and editin…	Jongsu Park 외 4명		journals/jcde/ParkMCMU26
+문두환	2026	j:cce		Hybrid approach for comprehensive recognition of line objects contained in high-…	Yoochan Moon 외 4명		journals/cce/MoonHKYM26
