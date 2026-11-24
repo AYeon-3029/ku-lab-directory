@@ -1,4 +1,4 @@
-import json, urllib.parse
+import json, urllib.parse, base64
 
 def load(p, school):
     d = json.load(open(p))
@@ -14,9 +14,9 @@ def load(p, school):
 
 # 학교 추가: 아래 목록에 한 줄 추가 (data가 None이면 '준비 중' 카드)
 SCHOOLS = [
-    dict(id='ku', name='고려대학교', short='고려대', c='#A6192E', soft='#FBEFF1', data='../data.json',
+    dict(id='ku', name='고려대학교', short='고려대', c='#A6192E', soft='#FBEFF1', data='../data.json', mark='ku_mark.png', mk='ku',
          dep='컴퓨터학과, 인공지능학과, 데이터과학과, 전기전자공학부, 기계공학부'),
-    dict(id='kaist', name='KAIST', short='KAIST', c='#0B4EA2', soft='#EDF3FB', data='../kaist/data.json',
+    dict(id='kaist', name='KAIST', short='KAIST', c='#0B4EA2', soft='#EDF3FB', data='../kaist/data.json', mark='kaist_mark.png', mk='kaist',
          dep='전산학부, 김재철AI대학원, AI대학 4개 학과'),
     dict(id='snu', name='서울대학교', short='서울대', data=None),
     dict(id='yonsei', name='연세대학교', short='연세대', data=None),
@@ -43,9 +43,10 @@ TOTAL = sum(sc['n'] for sc in ACTIVE)
 def school_card(sc):
     if not sc['data']:
         return f'<div class="sch wait"><span class="big">{sc["name"]}</span><span class="st">준비 중</span></div>'
-    return (f'<a class="sch on" href="/{sc["id"]}/" style="--c:{sc["c"]};--s:{sc["soft"]}">'
+    return (f'<a class="sch on" href="/{sc["id"]}/" style="--c:{sc["c"]};--s:{sc["soft"]}">' +
+            (f'<img class="mark" alt="" src="data:image/png;base64,{base64.b64encode(open(sc["mark"],"rb").read()).decode()}" data-k="{sc["mk"]}">' if sc.get('mark') else '') +
             f'<span class="big">{sc["name"]}</span><span class="dep">{sc["dep"]}</span>'
-            f'<span class="row"><span class="n"><b>{sc["n"]}</b>곳</span><span class="go">연구실 보기</span></span></a>')
+            f'<span class="row"><span class="n"><b>{sc["n"]}</b>곳</span></span></a>')
 SCH_HTML = ''.join(school_card(sc) for sc in SCHOOLS)
 SCMAP = {sc['id']: sc for sc in ACTIVE}
 def news_item(n):
@@ -115,7 +116,7 @@ h2{{font-size:20px;font-weight:800;letter-spacing:-.02em;margin:0 0 14px}}
 .sch .row{{margin-top:auto;padding-top:18px;display:flex;justify-content:space-between;align-items:flex-end;gap:8px}}
 .sch .n{{font-size:14px;opacity:.9}}.sch .n b{{font-size:26px;font-weight:800;margin-right:2px}}
 .sch .go{{font-size:13.5px;font-weight:700;background:rgba(255,255,255,.16);border-radius:9px;padding:8px 12px;white-space:nowrap}}
-.sch.on::after{{content:'';position:absolute;right:-50px;top:-50px;width:170px;height:170px;border-radius:50%;border:28px solid rgba(255,255,255,.07)}}
+.sch .mark{{position:absolute;opacity:.13;pointer-events:none;user-select:none;right:20px;bottom:18px}}.mark[data-k=ku]{{height:260px;right:-54px;top:-56px;bottom:auto;opacity:.15}}.mark[data-k=kaist]{{width:214px;right:14px;bottom:24px}}.sch>span{{position:relative}}
 .sch.wait{{border:1.5px dashed #D5D8DE;color:var(--ink3)}}
 .sch.wait .st{{margin-top:auto;font-size:13.5px;font-weight:600}}
 @media (hover:hover) and (pointer:fine){{.sch.on:hover{{transform:translateY(-3px)}}.sch.on:hover .go{{background:rgba(255,255,255,.26)}}}}
@@ -132,7 +133,7 @@ footer a{{text-decoration:underline}}
 @media (max-width:680px){{
   .wrap{{padding:0 16px}}.find{{padding-top:7vh}}.sub{{font-size:15px}}
   #q{{height:54px;font-size:16px}}
-  .block{{margin-top:52px}}.schools{{grid-template-columns:1fr 1fr;gap:10px}}.sch{{min-height:150px;padding:18px 16px 16px}}.sch .big{{font-size:19px}}.sch .dep{{display:none}}.sch .go{{display:none}}.news a{{grid-template-columns:auto 1fr;}}.news time{{grid-column:1/-1}}
+  .block{{margin-top:52px}}.schools{{grid-template-columns:1fr 1fr;gap:10px}}.sch{{min-height:150px;padding:18px 16px 16px}}.sch .big{{font-size:19px}}.sch .dep{{display:none}}.mark[data-k=ku]{{height:200px;right:-44px;top:-42px;bottom:auto}}.mark[data-k=kaist]{{width:150px;right:8px;bottom:22px}}.sch .go{{display:none}}.news a{{grid-template-columns:auto 1fr;}}.news time{{grid-column:1/-1}}
   .res a{{padding:13px 14px}}
 }}
 @media (prefers-reduced-motion:reduce){{.sch,#q{{transition:none}}}}
