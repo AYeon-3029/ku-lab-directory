@@ -1,0 +1,227 @@
+NetSP=2026|c:ndss||1,2026|c:uss||1,2025|j:popets||1,2025|c:ccs||1,2025|c:icse||1,2025|c:ictc||1,2025|c:uss||1,2024|j:pacmnet||1,2024|c:ccgrid||1,2024|c:eurosp|W|1,2024|c:mobicom||1
+NetSP~2026~c:ndss~~On the Security Risks of Memory Adaptation and Augmentation in Data-plane DoS Mitigation~Hocheol Nam, Daehyun Lim 외 3명~~conf/ndss/NamLZGK26
+NetSP~2026~c:uss~~iROV: Breaking the Silence of RPKI with Interactive Validation~Younsoo Kim, Seungjin Baek 외 3명~~conf/uss/KimBLCK26
+NetSP~2025~c:ccs~~On Frontrunning Risks in Batch-Order Fair Systems for Blockchains~Eunchan Park, Taeung Yoon 외 3명~~conf/ccs/ParkYNMK25
+NetSP~2025~c:icse~~Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations~Wonhoi Kim, Hocheol Nam 외 5명~~conf/icse/KimNTJLCK25
+NetSP~2025~c:uss~~Onions Got Puzzled: On the Challenges of Mitigating Denial-of-Service Problems in Tor Onion Services~Jinseo Lee, Hobin Kim, Min Suk Kang~~conf/uss/LeeKK25
+NetSP~2024~c:mobicom~~Enabling Physical Localization of Uncooperative Cellular Devices~Taekkyung Oh, Sangwook Bae 외 6명~~conf/mobicom/OhBALHKTK24
+CySec=2026|c:aaai||1,2025|j:kbs||1,2025|j:tdsc||1,2025|c:acsac||1,2025|c:ijcai||1,2025|c:rtss||1,2024|j:compsec||1,2024|j:jcloudc||1,2024|c:ccs||1,2024|c:sac||1
+CySec~2026~c:aaai~~Timestep-Compressed Attack on Spiking Neural Networks Through Timestep-Level Backpropagation~Donghwa Kang, Doohyun Kim 외 4명~~conf/aaai/KangKKLBK26
+CySec~2025~c:ijcai~~BankTweak: Adversarial Attack Against Multi-Object Trackers by Manipulating Feature Banks~Woojin Shin, Donghwa Kang 외 4명~~conf/ijcai/ShinKCK0B25
+CySec~2025~j:tdsc~~A Novel Efficient Crash Consistency Solution Enabling Rollback Recovery for Secure NVM in Low-Power Energy Har~Youngkwang Han, Zhenyu Hu 외 5명~~journals/tdsc/HanHCZAJK25
+CySec~2025~c:acsac~~PIM-ORAM: Towards Oblivious RAM Primitives in Commodity Processing-In-Memory~Byeongsu Woo, Kha Dinh Duy 외 3명~~conf/acsac/WooDHKL25
+CySec~2024~c:ccs~~Interstellar: Fully Partitioned and Efficient Security Monitoring Hardware Near a Processor Core for Protectin~Yongho Song, Byeongsu Woo 외 2명~~conf/ccs/SongWHK24
+WebEng=2026|j:jwe||2,2026|j:tkdd||1,2026|c:icst||1,2026|c:icwe||1,2026|c:icws||3,2026|c:sigsoft|W|1,2025|j:apin||1,2025|j:iot||1,2025|j:iotj||1,2025|j:jwe||2,2025|j:tsc||1,2025|c:apsec||1,2025|c:chi|W|1,2025|c:cikm||2,2025|c:icwe|W|1,2025|c:icwe||1,2024|c:apsec||1,2024|c:bigcomp||1,2024|c:icwe|W|1,2024|c:icws||1,2024|c:middleware|W|1
+WebEng~2026~j:tkdd~~Tabular Generative Model with Graph-Theoretical Methodologies toward Effective Financial Fraud Detection~Dae-Young Park, In-Young Ko~~journals/tkdd/ParkK26
+WebEng~2026~j:jwe~~Data-driven Adaptive ML-enabled Edge-cloud System Framework for Safe and Efficient Autonomous Systems~Eunho Cho, In-Young Ko~~journals/jwe/ChoK26
+WebEng~2025~c:cikm~~Forecasting at Full Spectrum: Holistic Multi-Granular Traffic Modeling under High-Throughput Inference Regimes~Zhaoyan Wang, Xiangchi Song, In-Young Ko~~conf/cikm/WangSK25
+WebEng~2025~c:cikm~~Federated Gradient Boosting for Financial Fraud Detection: An Empirical Study in the Banking Sector~Dae-Young Park, In-Young Ko 외 2명~~conf/cikm/ParkKLL25
+WebEng~2025~j:iotj~~MultiFedRL: Efficient Training of Service Agents for Heterogeneous Internet of Things Environments~KyeongDeok Baek, In-Young Ko~~journals/iotj/BaekK25
+CASYS-Kwon=2026|j:pacmpl||1,2026|j:tocs||1,2026|c:eurosys||3,2026|c:hpca||1,2026|c:osdi||1,2025|j:isr||1,2025|c:eurosys||1,2025|c:naacl|F|1,2025|c:sosp||2,2025|c:sp||1,2024|j:taco||1,2024|c:hicss||1,2024|c:osdi||1,2024|c:sosp||1,2024|c:uss||1
+CASYS-Kwon~2026~j:pacmpl~~Revisiting Partial Tracing for Safe, Efficient, and Concurrent Garbage Collection in Unmanaged Languages~Jeonghyeon Kim, Jongse Park 외 2명~~journals/pacmpl/KimPKK26
+CASYS-Kwon~2026~c:eurosys~~CofferOS: Hardening OS-level Virtualization with Rust~Minkyu Jung, Chanshin Kwak 외 6명~~conf/eurosys/JungKAPLKKK26
+CASYS-Kwon~2026~c:eurosys~~MTTM: Dynamic Fast Memory Partitioning with Bandwidth Optimization for Multi-tenant Cloud~Changjun Lee, Sangjin Choi, Youngjin Kwon~~conf/eurosys/LeeCK26
+CASYS-Kwon~2026~c:hpca~~PIM-Malloc: A Fast and Scalable Dynamic Memory Allocator for Processing-In-Memory (PIM) Architectures~Dongjae Lee, Bongjoon Hyun 외 2명~~conf/hpca/LeeHKR26
+CASYS-Kwon~2026~c:osdi~~Oxbow: A Coordinated Architecture for Multi-Component File Systems~Jongyul Kim, Jaehwan Lee 외 6명~~conf/osdi/KimLKLZAXK26
+LDIS=2024|j:pacmmod||2,2024|j:pvldb||1,2024|c:sigmod|W|1
+LDIS~2024~j:pacmmod~~ASM: Harmonizing Autoregressive Model, Sampling, and Multi-dimensional Statistics Merging for Cardinality Esti~Kyoungmin Kim, Sangoh Lee 외 2명~~journals/pacmmod/KimLKH24
+LDIS~2024~j:pvldb~~Themis: A GPU-accelerated Relational Query Execution Engine~Kijae Hong, Kyoungmin Kim 외 4명~~journals/pvldb/HongKLMBH24
+DEAL=2026|j:ijon||1,2026|j:tcss||1,2026|c:eccv||2,2026|c:emnlp||1,2026|c:iclr||1,2026|c:ivs||1,2025|j:access||1,2025|j:fgcs||1,2025|j:iot||1,2025|c:aaai||1,2025|c:cvpr||1,2025|c:dappcon||1,2025|c:icbbe||1,2025|c:iccv||1,2025|c:icml||1,2025|c:ictc||2,2025|c:rfid||1,2025|c:rfidta||2,2024|j:access||1,2024|j:titb||1,2024|c:blockchain2||1,2024|c:bmvc||1,2024|c:eccv||1,2024|c:ictc||2,2024|c:iot||1,2024|c:micad2||1
+DEAL~2026~c:eccv~~MedCAGD: Context-Aware Gated Decoder for Efficient Medical Image Segmentation~Saad Wazir, Patrick Dominique Vibild 외 3명~~conf/eccv/WazirVTKK26
+DEAL~2026~c:iclr~~Vision Language Models are Biased~An Vo, Khai-Nguyen Nguyen 외 4명~~conf/iclr/VoNTDNK26
+DEAL~2026~c:emnlp~~Deep and shallow biases in language models~An Vo, Vy Tuong Dang 외 5명~~conf/emnlp/VoDNVSNK26
+DEAL~2025~c:cvpr~~Rethinking Decoder Design: Improving Biomarker Segmentation Using Depth-to-Space Restoration and Residual Line~Saad Wazir, Daeyoung Kim~~conf/cvpr/Wazir025
+DEAL~2025~c:aaai~~Reference-Based Post-OCR Processing with LLM for Precise Diacritic Text in Historical Document Recognition~Thao Do, Dinh Phu Tran 외 2명~~conf/aaai/DoTVK25
+SWTV=2025|j:tosem||1
+SWTV~2025~j:tosem~~ZigZagFuzz: Interleaved Fuzzing of Program Options and Files~Ahcheong Lee, Youngseok Choi 외 4명~~journals/tosem/LeeCHKCK25
+InfoLab=2026|j:midm||1,2026|j:pacmmod||1,2026|c:kdd||1,2026|c:sigmod|W|1,2026|c:wacv||1,2025|j:access||1,2025|j:cluster||1,2025|j:nca||1,2025|j:pacmmod||1,2025|c:icde||1,2025|c:kdd||1,2024|j:eswa||1,2024|j:pvldb||1,2024|c:cikm||1,2024|c:icmhi||1,2024|c:ictc||1,2024|c:ppopp||1
+InfoLab~2026~j:pacmmod~~cuRPQ: A High-Performance GPU-Based Framework for Processing Regular and Conjunctive Regular Path Queries~Sungwoo Park, Seohyeon Kim, Min-Soo Kim~~journals/pacmmod/ParkKK26
+InfoLab~2026~c:kdd~~AFLiP: An Access-Recomputation Decoupling Framework for Efficient and Structure-Preserving GNN-based Link Pred~Jeongmin Bae, Min-Soo Kim~~conf/kdd/BaeK26
+InfoLab~2025~c:icde~~GFlux: A Fast GPU-Based Out-of-Memory Multi-Hop Query Processing Framework for Trillion-Edge Graphs~Seyeon Oh, Heeyong Yoon 외 2명~~conf/icde/OhYHK25
+InfoLab~2025~c:kdd~~FlexGNN: A High-Performance, Large-Scale Full-Graph GNN System with Best-Effort Training Plan Optimization~Jeongmin Bae, Donghyoung Han, Min-Soo Kim~~conf/kdd/0002H025
+InfoLab~2024~c:ppopp~~INFINEL: An efficient GPU-based processing method for unpredictable large output graph queries~Sungwoo Park, Seyeon Oh, Min-Soo Kim~~conf/ppopp/ParkOK24
+VCLab=2026|j:cgf||1,2026|j:sncs||1,2026|c:3dim||1,2026|c:cvpr||3,2026|c:visapp||2,2025|j:tog||2,2025|c:cvpr||1,2025|c:iccv||2,2025|c:siggrapha||1,2025|c:visigrapp||2,2024|j:ijcv||1,2024|j:tog||2,2024|c:cvpr||2
+VCLab~2026~c:cvpr~~Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors~Hakyeong Kim, Ruicheng Wang 외 3명~~conf/cvpr/KimWYYK26
+VCLab~2026~c:cvpr~~Splat-Based Metal Artifact Reduction in Cone-Beam CT via Compact Attenuation Modeling~Kiseok Choi, Jaemin Cho 외 2명~~conf/cvpr/ChoiCKK26a
+VCLab~2025~j:tog~~Frame-Free Representation of Polarized Light for Resolving Stokes Vector Singularities~Shinyoung Yi, Jiwoong Na 외 3명~~journals/tog/YiNHHK25
+VCLab~2025~j:tog~~Designing and Fabricating Color BRDFs with Differentiable Wave Optics~Yixin Zeng, Kiseok Choi 외 5명~~journals/tog/ZengCAKHWK25
+VCLab~2025~c:iccv~~Splat-Based 3D Scene Reconstruction with Extreme Motion-Blur~Hyeonjoong Jang, Dongyoung Choi 외 3명~~conf/iccv/JangCKKK25
+ECL=2026|c:cvpr||1,2025|j:tiv||2,2025|c:date||1,2024|j:tc||1,2024|j:tcad||1
+ECL~2025~c:date~~C2C: A Framework for Critical Token Classification in Transformer-Based Inference Systems~Myeongjae Jang, Jesung Kim 외 3명~~conf/date/JangKNKK25
+ECL~2024~j:tc~~Zero and Narrow-Width Value-Aware Compression for Quantized Convolutional Neural Networks~Myeongjae Jang, Jinkwon Kim 외 2명~~journals/tc/JangKNK24
+ECL~2024~j:tcad~~Highly VM-Scalable SSD in Cloud Storage Systems~Wonyoung Lee, Mincheol Kang, Soontae Kim~~journals/tcad/LeeKK24
+Simplexity=2026|j:ejc||1,2026|c:icalp||1,2025|j:algorithmica||1,2025|j:jacm||1,2025|j:jcss||1,2025|j:siamcomp||1,2025|j:talg||1,2025|c:approx||1,2025|c:lics||1,2025|c:podc||1,2025|c:stacs||1,2024|j:dmtcs||1,2024|j:igt||1,2024|j:siamcomp||1,2024|j:siamdm||1,2024|j:talg||1
+Simplexity~2026~c:icalp~~Fast Shortest Path in Graphs with Sparse Signed Tree Models and Applications~Édouard Bonnet, Colin Geniet 외 2명~~conf/icalp/BonnetGKM26
+Simplexity~2025~j:jacm~~Flow-augmentation I: Directed graphs~Eun Jung Kim, Stefan Kratsch 외 2명~~journals/jacm/KimKPW25
+Simplexity~2025~c:lics~~Recognisability Equals Definability for Finitely Representable Matroids of Bounded Path-Width~Rutger Campbell, Bruno Guillon 외 3명~~conf/lics/CampbellGKKO25
+Simplexity~2024~j:siamcomp~~Twin-Width III: Max Independent Set, Min Dominating Set, and Coloring~Édouard Bonnet, Colin Geniet 외 3명~~journals/siamcomp/BonnetGKTW24
+KIXLab=2026|j:tmlr||1,2026|j:tochi||1,2026|c:ACMdis||2,2026|c:aaai||1,2026|c:chi||6,2026|c:chi|W|1,2026|c:cvpr||1,2026|c:iui||1,2026|c:uist||2,2025|j:pacmhci||2,2025|c:chi|W|3,2025|c:chi||4,2025|c:emnlp||1,2025|c:iui||1,2025|c:lats||1,2025|c:nips||1,2025|c:uist|W|1,2025|c:uist||1,2024|j:pacmhci||4,2024|j:tvcg||1,2024|c:ACMdis||3,2024|c:chi||8,2024|c:chi|W|1,2024|c:edm||1,2024|c:emnlp||1,2024|c:fat||1,2024|c:iclr||1,2024|c:iui|W|2,2024|c:iui||4,2024|c:lak||1,2024|c:lats||2,2024|c:llm4eval||1,2024|c:naacl||1
+KIXLab~2026~c:chi~~ClearFairy: Capturing Creative Workflows through Decision Structuring, In-Situ Questioning, and Rationale Infe~Kihoon Son, DaEun Choi 외 4명~~conf/chi/SonCKKYK26
+KIXLab~2026~c:chi~~Evalet: Evaluating Large Language Models through Functional Fragmentation~Tae Soo Kim, Heechan Lee 외 3명~~conf/chi/KimLLSK26
+KIXLab~2026~c:aaai~~CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design~Daeheon Jeong, Seoyeon Byun 외 3명~~conf/aaai/JeongBSKK26
+KIXLab~2026~j:tochi~~Iffy-or-Not: Critically Evaluating Potential Misinformation Using Fallacy Detection and Socratic Questioning w~Gionnieve Lim, Juho Kim, Simon T. Perrault~~journals/tochi/LimKP26
+CVML-TK=2026|j:csur||1,2026|c:icra||1,2025|j:pr||1,2025|j:tnn||1,2025|c:cvpr||1,2025|c:iccv||1,2025|c:iros||1,2025|c:nips||2,2024|j:ijcv||1,2024|j:ral||1,2024|j:tvcg||1,2024|j:vr||1,2024|c:cvpr||4,2024|c:cvpr|W|1,2024|c:eccv||1,2024|c:icip||2,2024|c:nips||1
+CVML-TK~2026~c:icra~~Learning Adaptive Pseudo-Label Selection for Semi-Supervised 3D Object Detection~Taehun Kong, Tae-Kyun Kim~~conf/icra/KongK26
+CVML-TK~2025~c:cvpr~~REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning~Jihyun Lee, Weipeng Xu 외 8명~~conf/cvpr/LeeXRWSBWS0S25
+CVML-TK~2025~c:iccv~~Joint Learning of Pose Regression and Denoising Diffusion with Score Scaling Sampling for Category-Level 6D Po~Seunghyun Lee, Tae-Kyun Kim~~conf/iccv/LeeK25
+CVML-TK~2025~c:nips~~MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics~Changmin Lee, Jihyun Lee, Tae-Kyun Kim~~conf/nips/LeeLK25a
+DICE=2026|j:nms||1,2026|j:tvcg||1,2026|c:chi||1,2025|c:chi||1,2024|j:pacmhci||1,2024|j:tvcg||1,2024|c:chi|W|1,2024|c:chi||1,2024|c:qce||1,2024|c:sp||1,2024|c:visualization||1
+DICE~2026~j:tvcg~~Data Augmentation for Visualization Design Knowledge Bases~Hyeok Kim, Jeffrey Heer~~journals/tvcg/KimH26
+DICE~2026~c:chi~~Automatic Synthesis of Visualization Design Knowledge Bases~Hyeok Kim, Sehi L'Yi 외 2명~~conf/chi/KimLGH26
+DICE~2025~c:chi~~Toward Human-Quantum Computer Interaction: Interface Techniques for Usable Quantum Computing~Hyeok Kim, Mingyoung Jessica Jeng, Kaitlin N. Smith~~conf/chi/KimJS25
+DICE~2024~c:chi~~Erie: A Declarative Grammar for Data Sonification~Hyeok Kim, Yea-Seul Kim, Jessica Hullman~~conf/chi/KimKH24
+MLV=2026|j:ijcv||1,2026|j:isci||1,2026|c:aaai||3,2026|c:cvpr||3,2026|c:eccv||3,2026|c:iclr||2,2026|c:wacv||1,2025|j:pami||1,2025|c:aaai||2,2025|c:cvpr||1,2025|c:emnlp|F|1,2025|c:iccv||2,2025|c:iclr||1,2025|c:icml||3,2025|c:nips||4,2024|j:tifs||1,2024|c:cvpr||5,2024|c:eccv||2,2024|c:emnlp||1,2024|c:iclr||1,2024|c:icml||1,2024|c:nips||3
+MLV~2026~j:ijcv~~Parameter-Efficient Fine-Tuning via Meta-Regularizer~Jinyoung Park, Juyeon Ko 외 3명~~journals/ijcv/ParkKLCK26
+MLV~2026~c:cvpr~~MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models~Dohwan Ko, Jinyoung Park 외 4명~~conf/cvpr/KoPCLLK26
+MLV~2026~c:cvpr~~DocPrune: Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Prunin~Joonmyung Choi, Sanghyeok Lee 외 5명~~conf/cvpr/ChoiLKKKKK26
+MLV~2026~c:aaai~~TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing~Jongha Kim, Minseong Bae 외 3명~~conf/aaai/KimBLYK26
+MLV~2026~c:eccv~~F4 Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting~Injae Kim, Chaehyeon Kim 외 3명~~conf/eccv/KimKBJK26
+PLRG=2026|j:ieeesp||2,2026|j:pacmse||1,2025|j:cacm||1,2025|j:ese||1,2025|j:pacmpl||1,2025|c:kbse||4,2024|j:cacm||1,2024|j:pacmpl||3,2024|j:tse||2,2024|c:kbse||1
+PLRG~2026~j:pacmse~~Failing with Purpose: Dangling Coverage-Guided Negative Test Generation from a Mechanized P4 Type System~Jaehyun Lee, Seokhun Jeong, Sukyoung Ryu~~journals/pacmse/LeeJR26
+PLRG~2025~j:pacmpl~~Bridging the Gap between Real-World and Formal Binary Lifting through Filtered-Simulation~Jihee Park, Insu Yun, Sukyoung Ryu~~journals/pacmpl/ParkYR25
+PLRG~2025~c:kbse~~Forcrat: Automatic I/O API Translation from C to Rust via Origin and Capability Analysis~Jaemin Hong, Sukyoung Ryu~~conf/kbse/HongR25
+PLRG~2025~c:kbse~~WEST: Specification-Based Test Generation for WebAssembly~Dongjun Youn, Wonho Shin, Sukyoung Ryu~~conf/kbse/YounSR25
+AN=2026|j:pacmnet||1,2026|c:euromlsys||1,2026|c:www||1,2025|j:pacmnet||1,2025|c:eurosys||1,2024|c:conext||1
+AN~2026~c:www~~Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US~Seongchan Park, Jaehong Kim 외 4명~~conf/www/ParkKKBML26
+AN~2026~c:euromlsys~~SwiftNPU: Scalable Shape-Flexible Allocation for Inter-Core Connected NPUs~Gangmin Lee, Wonsup Yoon, Sue Moon~~conf/euromlsys/LeeYM26
+AN~2025~c:eurosys~~Adios to Busy-Waiting for Microsecond-scale Memory Disaggregation~Wonsup Yoon, Jisu Ok 외 2명~~conf/eurosys/YoonOMK25
+BigDyL=2026|j:tcad||1,2026|c:aaai||2,2026|c:acl||1,2026|c:iclr||3,2026|c:kdd||1,2025|j:aisy||1,2025|j:artmed||1,2025|j:datamine||1,2025|j:sigir||1,2025|c:aaai||1,2025|c:bigcomp||1,2025|c:bigdataconf||1,2025|c:iclr||3,2025|c:ijcai||1,2025|c:nips||2,2025|c:wsdm||1,2024|j:kais||1,2024|c:aaai||2,2024|c:cikm||2,2024|c:iclr||2,2024|c:icml||4,2024|c:ijcai||1,2024|c:kdd||1,2024|c:nips||1,2024|c:wsdm||1
+BigDyL~2026~c:iclr~~Graph Signal Processing Meets Mamba2: Adaptive Filter Bank via Delta Modulation~Yehjin Shin, Seojin Kim, Noseong Park~~conf/iclr/ShinKP26
+BigDyL~2026~c:iclr~~Point-wise Anomaly Detection via Fold-bifurcation ODE~Sheo Yon Jhin, Noseong Park~~conf/iclr/JhinP26
+BigDyL~2026~c:acl~~Can Spectral-Clipping Enable Better Learning While Forgetting Less for Low-Rank Adaptation?~Hyowon Wi, Noseong Park~~conf/acl/WiP26
+BigDyL~2026~c:aaai~~Are Graph Transformers Necessary? Efficient Long-Range Message Passing with Fractal Nodes in MPNNs~Jeongwhan Choi, Seungjun Park 외 3명~~conf/aaai/ChoiPPCP26
+BigDyL~2026~c:kdd~~One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets~Woosung Kang, Jiwon Jeong 외 3명~~conf/kdd/KangJSCP26
+RIRO=2026|j:isrob||1,2026|j:ral||1,2026|c:icra||2,2026|c:urai||1,2024|j:isrob||1,2024|j:ral||1,2024|c:aaai||1,2024|c:icra||2
+RIRO~2026~c:icra~~DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization~Nayoung Oh, JaeHyeong Jang 외 2명~~conf/icra/OhJJP26
+RIRO~2026~j:ral~~ILCL: Inverse Logic-Constraint Learning From Temporally Constrained Demonstrations~Minwoo Cho, Jaehwi Jang, Daehyung Park~~journals/ral/ChoJP26
+RIRO~2026~j:isrob~~C2f-space: coarse-to-fine space grounding for spatial instructions using vision-language models~Nayoung Oh, Dohyun Kim 외 3명~~journals/isrob/OhKBPP26
+RIRO~2024~c:aaai~~LINGO-Space: Language-Conditioned Incremental Grounding for Space~Dohyun Kim, Nayoung Oh 외 2명~~conf/aaai/KimOHP24
+CASYS-Park=2026|j:cal||2,2026|j:pacmpl||1,2026|c:asplos||1,2026|c:iiswc||4,2026|c:isca||1,2026|c:ispass||1,2026|c:osdi||1,2025|j:cal||2,2025|j:pvldb||1,2025|c:isca||1,2025|c:micro||2,2024|j:cal||1,2024|j:micro||1,2024|j:pvldb||1,2024|j:taco||2,2024|c:asplos||2,2024|c:cvpr|W|1,2024|c:iccd||1,2024|c:iiswc||1,2024|c:isca||1
+CASYS-Park~2026~c:asplos~~Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration~Changhun Oh, Seongryong Oh 외 4명~~conf/asplos/OhOHKSP26
+CASYS-Park~2026~c:isca~~Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics~Hanyang Xu, Seongryong Oh 외 7명~~conf/isca/XuOLRMPLPE26
+CASYS-Park~2026~c:osdi~~Cocoon: A System Architecture for Differentially Private Training with Correlated Noises~Donghwan Kim, Xin Gu 외 7명~~conf/osdi/KimGBLMSKPM26
+CASYS-Park~2025~c:isca~~Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization~Minsu Kim, Seongmin Hong 외 6명~~conf/isca/0004HKCL00P25
+CASYS-Park~2025~c:micro~~Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving~Wonung Kim, Yubin Lee 외 9명~~conf/micro/Kim0KHOJHP00P25
+NLPCL=2026|c:acl||2,2025|c:acl|F|2,2025|c:emnlp||1,2025|c:naacl|F|1,2025|c:naacl||1,2025|c:nips||1,2025|c:wacv||1,2024|c:emnlp|F|2,2024|c:fgr||1,2024|c:naacl||1,2024|c:sign-lang||1
+NLPCL~2026~c:acl~~Beyond Static Benchmarks: Synthesizing Harmful Content via Persona-based Simulation for Robust Evaluation~Huije Lee, Jisu Shin 외 3명~~conf/acl/LeeSSKP26
+NLPCL~2026~c:acl~~Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives~Changgeon Ko, Jisu Shin 외 4명~~conf/acl/KoSSLHP26
+NLPCL~2025~c:emnlp~~Database-Augmented Query Representation for Information Retrieval~Soyeong Jeong, Jinheon Baek 외 3명~~conf/emnlp/JeongBCHP25
+NLPCL~2025~c:nips~~A Multi-Task Benchmark for Abusive Language Detection in Low-Resource Settings~Fitsum Gaim, Hoyun Song 외 4명~~conf/nips/GaimSLKHP25
+NLPCL~2024~c:naacl~~Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity~Soyeong Jeong, Jinheon Baek 외 3명~~conf/naacl/JeongBCHP24
+CGV=2026|j:bspc||1,2026|j:ijhci||1,2026|c:isbi||1,2026|c:siggraph|W|1,2026|c:siggraph||1,2025|j:cviu||1,2025|j:neuroimage||1,2025|c:haptics||1,2025|c:iccv||1,2025|c:isbi||1,2025|c:nips||1,2025|c:siggraph|W|1,2025|c:wacv||1,2024|j:hij||1,2024|c:bibm||1,2024|c:icip||1,2024|c:visigrapp||1
+CGV~2026~c:siggraph~~Neural Particle Automata: Learning Self-Organizing Particle Dynamics~Ehsan Pajouheshgar, Hyunsoo Kim 외 3명~~conf/siggraph/PajouheshgarKSJ26
+CGV~2025~c:iccv~~Are Medical Image Generative Models Biologically Trustworthy?~Suhyun Ahn, Wonjung Park, Jinah Park~~conf/iccv/AhnPP25
+CGV~2025~c:nips~~BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories~Wonjung Park, Suhyun Ahn 외 3명~~conf/nips/ParkAHMP25
+CGV~2025~c:wacv~~Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images~Suhyun Ahn, Wonjung Park 외 2명~~conf/wacv/AhnPCP25
+SPIRAL=2026|j:jwe||3,2026|j:pacmse||1,2026|j:stvr||1,2025|j:jwe||1,2025|c:icwe|W|2,2025|c:kbse||1,2024|c:icwe|W|1,2024|c:qrs||2
+SPIRAL~2026~j:pacmse~~ReDef: Do Code Language Models Truly Understand Code Changes for Just-in-Time Software Defect Prediction?~Doha Nam, Taehyoun Kim 외 2명~~journals/pacmse/NamKRB26
+SPIRAL~2026~j:jwe~~LLM-driven Multi-agent Architecture for QoS-aware Server Recommendation in Mobile-Edge-Cloud Environments~Eunjeong Ju, Junghwa Lee 외 3명~~journals/jwe/JuLRKB26
+SPIRAL~2025~c:kbse~~LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection and Classification~Doha Nam, Jongmoon Baik~~conf/kbse/NamB25
+VisualAI=2026|j:tmlr||1,2026|c:3dim||1,2026|c:cvpr||2,2026|c:eccv||3,2026|c:iclr||2,2026|c:wacv||2,2025|j:tmlr||1,2025|c:cvpr||2,2025|c:iccv||1,2025|c:iclr||1,2025|c:nips||5,2025|c:siggraph||1,2024|c:3dim||1,2024|c:cvpr||3,2024|c:eccv||2,2024|c:nips||4,2024|c:siggraph||1,2024|c:siggrapha||1
+VisualAI~2026~c:cvpr~~Token Warping Helps MLLMs Look from Nearby Viewpoints~Phillip Y. Lee, Chanho Park 외 4명~~conf/cvpr/LeePPYKS26
+VisualAI~2026~c:cvpr~~MatLat: Material Latent Space for PBR Texture Generation~Kyeongmin Yeo, Yunhong Min 외 2명~~conf/cvpr/YeoMKS26
+VisualAI~2026~c:eccv~~NoiseTilt: Noise-Tilted Reverse Kernels for Diffusion Reward Alignment~Jisung Hwang, Yunhong Min 외 3명~~conf/eccv/HwangMKSS26
+VisualAI~2026~c:iclr~~BézierFlow: Learning Bézier Stochastic Interpolant Schedulers for Few-Step Generation~Yunhong Min, Juil Koo 외 2명~~conf/iclr/MinKYS26
+VisualAI~2026~c:eccv~~MorphGS: Morphology-Adaptive Articulated 3D Motion Transfer from Videos~Taeyeon Kim, Youngju Na 외 4명~~conf/eccv/KimNLLSY26
+WSP=2026|c:eccv||1,2026|c:iclr||2,2026|c:ndss||1,2026|c:sp||1,2026|c:www||2,2025|c:acsac||1,2025|c:asiaccs||2,2025|c:bmvc||1,2025|c:iclr||1,2025|c:uss||2,2024|j:compsec||1,2024|c:acsac||1
+WSP~2026~c:sp~~Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and Extensions~Suyoung Lee, Seongho Keum 외 5명~~conf/sp/LeeKLSHLS26
+WSP~2026~c:ndss~~Connecting the Dots: An Investigative Study on Linking Private User Data Across Messaging Apps~Junkyu Kang, Soyoung Lee 외 2명~~conf/ndss/KangLKS26
+WSP~2026~c:iclr~~SafeMoE: Safe Fine-Tuning for MoE LLMs by Aligning Harmful Input Routing~Jaehan Kim, Minkyoo Song 외 2명~~conf/iclr/KimSSS26
+WSP~2026~c:www~~Zelda: Feedback-driven Closed-box Fuzzing for Identifying Web Application Vulnerabilities~Soyoung Lee, Sunnyeo Park 외 2명~~conf/www/LeePKS26
+NCLab=2026|j:imwut||2,2026|j:pacmhci||1,2026|c:chi|W|1,2024|j:imwut||1,2024|j:pacmhci||1,2024|c:mobisys||1
+NCLab~2026~j:imwut~~Socially-appropriate Use of Noise-making Everyday Appliances in High-density Urban Housing~Youngjae Chang, Seungchul Lee 외 3명~~journals/imwut/ChangLLKS26
+NCLab~2026~j:imwut~~A Qualitative Exploration of Contextual Motivation Dynamics for Everyday Volunteering in Sustained Remote Coll~Taegyeong Lee, Seonghoon Kim 외 3명~~journals/imwut/LeeKBHS26
+NCLab~2024~j:imwut~~Understanding Instant Social Control of Shared Devices in Public Spaces: A Field Trial~Youngjae Chang, Sookyung Han 외 6명~~journals/imwut/ChangHLLKCMS24
+CST=2026|c:ACMdis||1,2026|c:chi||4,2025|j:pacmhci||3,2025|j:popets||1,2025|c:chi||3,2024|j:pacmhci||1
+CST~2026~c:chi~~Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations~Tzu-Sheng Kuo, Sophia Liu 외 5명~~conf/chi/KuoLCSZZH26
+CST~2026~c:chi~~Fostering Collective Discourse: A Distributed Role-Based Approach to Online News Commenting~Yoo Jin Hong, Yersultan Doszhan, Joseph Seering~~conf/chi/HongDS26
+CST~2025~j:pacmhci~~HateBuffer: Safeguarding Content Moderators' Mental Well-Being through Hate Speech Content Modification~Subin Park, Jeonghyun Kim 외 4명~~journals/pacmhci/ParkKCSLL25
+CPS=2026|j:tocs||1,2025|j:tsusc||1,2025|c:iccad||1,2025|c:mobicom||1,2024|j:tmc||1,2024|c:chi||1,2024|c:mobicom||1,2024|c:sosp||1,2024|c:uist||1
+CPS~2025~c:mobicom~~VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification~Jungjae Lee, Dongjae Lee 외 7명~~conf/mobicom/LeeLCIWHOLS25
+CPS~2025~c:iccad~~EarDVFS: Environment-Adaptable RL-based DVFS for Mobile Devices~Jaeheon Kwak, Sangeun Oh 외 2명~~conf/iccad/KwakOLS25
+CPS~2024~c:mobicom~~MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation~Sunjae Lee, Junyoung Choi 외 6명~~conf/mobicom/LeeCLWCKOS24
+CPS~2024~c:sosp~~OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering~Dae R. Jeong, Yewon Choi 외 3명~~conf/sosp/JeongCLSK24
+MLML=2026|c:aaai||1,2026|c:iclr||2,2025|c:iccv||1,2025|c:iclr||2,2025|c:icml||1,2025|c:nips||3,2024|c:iclr||4,2024|c:icml||3,2024|c:nips||1
+MLML~2026~c:iclr~~Loopholing Discrete Diffusion: Deterministic Bypass of the Sampling Wall~Mingyu Jo, Jaesik Yoon 외 3명~~conf/iclr/JoYDGA26
+MLML~2025~c:icml~~Monte Carlo Tree Diffusion for System 2 Planning~Jaesik Yoon, Hyeonseo Cho 외 3명~~conf/icml/YoonCBBA25
+MLML~2025~c:iclr~~Dreamweaver: Learning Compositional World Models from Pixels~Junyeob Baek, Yi-Fu Wu 외 2명~~conf/iclr/BaekWSA25
+MLML~2025~c:iclr~~MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory~Junyeong Park, Junmo Cho, Sungjin Ahn~~conf/iclr/ParkCA25
+AMI=2026|j:ijcv||2,2026|j:pami||1,2026|j:ral||2,2026|j:tmlr||2,2026|c:acl||1,2026|c:cvpr||6,2026|c:eccv||3,2026|c:iclr||1,2026|c:interspeech||1,2026|c:uist||1,2026|c:wacv||3,2025|j:access||1,2025|j:pami||1,2025|j:pr||1,2025|j:prl||1,2025|j:tmlr||2,2025|c:aaai||2,2025|c:bmvc||1,2025|c:cvpr||3,2025|c:iccv||4,2025|c:iclr||1,2025|c:mm||1,2025|c:nips||1,2024|j:access||2,2024|j:pr||1,2024|j:ral||2,2024|j:tmlr||1,2024|j:tnn||1,2024|j:vc||2,2024|c:aaai||1,2024|c:accv||1,2024|c:bmvc||1,2024|c:cvpr||1,2024|c:eccv||2,2024|c:iclr||2,2024|c:interspeech||2,2024|c:iwis||1,2024|c:naacl|F|1,2024|c:wacv||1
+AMI~2026~j:pami~~CLIP-Actor-X: Text-Driven 4D Human Avatar Generation via Cross-Modal Synthesis-Through-Optimization~Kim Youwang, Taehyun Byun 외 3명~~journals/pami/YouwangBJCO26
+AMI~2026~j:ijcv~~FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting~GeonU Kim, Kim Youwang 외 2명~~journals/ijcv/KimYHO26
+AMI~2026~c:cvpr~~PAVAS: Physics-Aware Video-to-Audio Synthesis~Oh Hyun-Bin, Yuhta Takida 외 3명~~conf/cvpr/Hyun-BinTUOM26
+AMI~2026~c:acl~~SMILE-Next: Teaching Large Language Models to Detect, Classify, and Reason about Laughter~JungMok Lee, Sung-Bin Kim 외 3명~~conf/acl/LeeKCHO26
+UILab=2026|c:acl||4,2026|c:acl|F|1,2026|c:chi||1,2026|c:cvpr||1,2026|c:eacl|F|1,2026|c:lrec||1,2026|c:uss||1,2025|c:acl|F|4,2025|c:acl||4,2025|c:emnlp|F|3,2025|c:iclr||1,2025|c:ijcnlp|F|1,2025|c:naacl||1,2025|c:nips||1,2025|c:semeval||1,2024|j:tacl||1,2024|c:acl|F|1,2024|c:coling||2,2024|c:eacl|W|1,2024|c:edm||2,2024|c:emnlp||2,2024|c:icml||1,2024|c:naacl||1,2024|c:nips||1
+UILab~2026~c:acl~~Are they lovers or friends? Evaluating LLMs' Social Reasoning in English and Korean Dialogues~Eunsu Kim, Junyeong Park 외 6명~~conf/acl/KimPOPSDOK26
+UILab~2026~c:acl~~OLA: Output Language Alignment in Code-Switched LLM Interactions~Juhyun Oh, Haneul Yoo 외 2명~~conf/acl/OhYHO26
+UILab~2026~c:cvpr~~World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models~Eunsu Kim, Junyeong Park 외 10명~~conf/cvpr/KimPAKPJKAPISO26
+UILab~2026~c:acl~~LoCar: Localization-Aware Evaluation of In-Vehicle Assistants through Fine-Grained Sociolinguistic Control~Seogyeong Jeong, Kiwoong Park 외 5명~~conf/acl/JeongPSKFKO26
+Wiederrecht=2026|j:combinatorica||1,2026|j:jcss||1,2026|c:icalp||4,2026|c:soda||2,2025|j:combinatorics||1,2025|j:dm||1,2025|j:siamdm||1,2025|c:focs||1,2025|c:stacs||1,2025|c:wg||1,2024|j:jacm||1,2024|j:jctb||1,2024|c:focs||1,2024|c:icalp||1,2024|c:stoc||2,2024|c:wg||1
+Wiederrecht~2026~c:soda~~Catching Rats in H-minor-free Graphs~Maximilian Gorsky, Giannos Stamoulis 외 2명~~conf/soda/GorskySTW26
+Wiederrecht~2025~c:focs~~Polynomial bounds for the Graph Minor Structure Theorem~Maximilian Gorsky, Michal T. Seweryn, Sebastian Wiederrecht~~conf/focs/GorskySW25
+Wiederrecht~2024~j:jacm~~Killing a Vortex~Dimitrios M. Thilikos, Sebastian Wiederrecht~~journals/jacm/ThilikosW24
+Wiederrecht~2024~c:stoc~~Packing Even Directed Circuits Quarter-Integrally~Maximilian Gorsky, Ken-ichi Kawarabayashi 외 2명~~conf/stoc/GorskyKKW24
+COINSE=2026|j:pacmse||1,2026|j:tosem||1,2026|c:icse-seip||1,2026|c:icst|W|2,2025|j:ese||2,2025|j:scp||1,2025|c:icse-deeptest||2,2025|c:icst||3,2025|c:llm4code||2,2025|c:saner||1,2025|c:sigsoft|W|2,2024|j:pacmse||1,2024|j:sigsoft||1,2024|j:tosem||1,2024|j:tse||1,2024|c:icsm||1,2024|c:icst||2,2024|c:ssbse||1
+COINSE~2026~j:pacmse~~Clotho: Measuring Task-Specific Pre-Generation Test Adequacy for LLM Inputs~Juyeon Yoon, Somin Kim 외 2명~~journals/pacmse/YoonKFY26
+COINSE~2026~j:tosem~~Challenges in Testing Large Language Model-Based Software: A Faceted Taxonomy~Felix Dobslaw, Robert Feldt 외 2명~~journals/tosem/DobslawFYY26
+COINSE~2024~j:pacmse~~A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization~Sungmin Kang, Gabin An, Shin Yoo~~journals/pacmse/KangAY24
+COINSE~2024~j:tse~~Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction~Sungmin Kang, Juyeon Yoon 외 2명~~journals/tse/KangYAY24
+SGLab=2026|j:ral||3,2026|c:aaai||1,2026|c:cvpr||3,2026|c:eccv||4,2026|c:iclr||2,2026|c:icra||3,2025|j:tmm||1,2025|c:bmvc||2,2025|c:iccv||1,2025|c:icip||2,2025|c:iclr||1,2025|c:icra||1,2025|c:iros||1,2025|c:pg|W|1,2024|j:cviu||1,2024|j:ral||2,2024|j:tcsv||1,2024|j:tog||1,2024|c:cvpr|W|1,2024|c:cvpr||2,2024|c:eccv||1,2024|c:icip||1,2024|c:iros||2,2024|c:ivs||1,2024|c:nips||1
+SGLab~2026~c:cvpr~~GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport~Youngju Na, Jaeseong Yun 외 4명~~conf/cvpr/NaYRKYY26
+SGLab~2026~c:cvpr~~Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering~Sebin Lee, Jumin Lee 외 4명~~conf/cvpr/LeeLKNIY26
+SGLab~2026~c:eccv~~RoME: Robust Mixture of Low-Rank Experts Against Multiple Adversarial Perturbations~Woo Jae Kim, Kyle Min 외 3명~~conf/eccv/KimMHJY26
+SGLab~2026~c:aaai~~Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing~Jaeyoon Kim, Yoonki Cho, Sung-Eui Yoon~~conf/aaai/KimCY26
+HCIL=2026|j:cluster||1,2026|j:imwut||1,2026|c:chi||3,2026|c:cvpr||1,2025|j:ijhci||2,2025|j:pacmhci||1,2025|c:chi|W|2,2025|c:chi||1,2025|c:uist|W|2,2025|c:uist||3,2024|j:ijhci||2,2024|c:chi|W|2,2024|c:chi||1,2024|c:uist||2,2024|c:uist|W|1,2024|c:vr||1
+HCIL~2026~c:chi~~ConCon: A Wrist-Worn Clutch-Coupled Force-Feedback Device for VR Controller~YoungIn Kim, Geehyuk Lee~~conf/chi/KimL26a
+HCIL~2026~c:chi~~HapPalm : Providing Rich Spatio-Temporal Vibrotactile Feedback on the Palm for Laptop Gaming~Yohan Yun, Jaehyun Kim, Geehyuk Lee~~conf/chi/YunKL26
+HCIL~2026~j:imwut~~CurvedTouch: Effects of Surface Curvature and Cursor Mapping Method for XR Touch Input on Curved Surface~Yubin Lee, Li-Wei Chan 외 2명~~journals/imwut/LeeCLY26
+HCIL~2026~c:chi~~Redirected Pinch: Efficient and Comfortable Bare-Hand Interaction for 2D Windows in VR~Wen Ying, Yeonsu Kim 외 4명~~conf/chi/YingKRHLH26
+ICLab=2026|j:imwut||3,2026|c:chi||5,2026|c:raid||1,2025|j:hij||1,2025|j:imwut||2,2025|j:pacmhci||2,2025|j:sigmobile||1,2025|c:chi|W|3,2025|c:chi||5,2024|j:csur||1,2024|j:imwut||3,2024|j:iotj||1,2024|j:pacmhci||1,2024|c:chi||6,2024|c:chi|W|1,2024|c:hic|W|3
+ICLab~2026~j:imwut~~When Feeling and Physiology Diverge: Understanding Dual-Indicator Stress Sensemaking and Micro-Interventions i~Jeonghyun Kim, Yugyeong Jung 외 4명~~journals/imwut/KimJLLHL26
+ICLab~2026~j:imwut~~OurData: Understanding Family Privacy in Sensor-Rich Homes~Hyunsoo Lee, Reza Ghaiumy Anaraky 외 2명~~journals/imwut/LeeANL26
+ICLab~2026~j:imwut~~CrossShift: Quantifying Interpersonal Differences in Mobile Sensing for Mental Health~Panyu Zhang, Minseo Park 외 7명~~journals/imwut/ZhangPIMANAGL26
+DMLab=2026|j:csur||1,2026|c:cvpr||1,2026|c:eccv||1,2026|c:emnlp||1,2025|j:datamine||1,2025|j:imwut||1,2025|j:ml||1,2025|j:tetci||1,2025|c:aaai||1,2025|c:emnlp|F|1,2025|c:iclr||2,2025|c:icwsm||1,2025|c:kdd||2,2025|c:nips||1,2025|c:www||1,2024|c:aaai||2,2024|c:cvpr||1,2024|c:icml||1,2024|c:kdd||1,2024|c:nips||1,2024|c:www||1
+DMLab~2026~c:cvpr~~See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synt~Jaehyun Park, Minyoung Ahn 외 4명~~conf/cvpr/ParkAKLLP26
+DMLab~2026~c:eccv~~CURE: Cumulative Knowledge Reuse for Efficient Device-Server Hybrid Inference in Vision-Language Models~Youngjun Lee, Doyoung Kim 외 3명~~conf/eccv/LeeKKSL26
+DMLab~2026~c:emnlp~~Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning~Hyunjin Kim, Youngeun Nam 외 3명~~conf/emnlp/KimNHCL26
+DMLab~2026~j:csur~~Universal Time-Series Representation Learning: A Survey~Patara Trirat, Yooju Shin 외 7명~~journals/csur/TriratSKNNBKKL26
+CryptLab=2026|c:eurosp||1,2025|c:ccs||1,2025|c:crypto||1,2025|c:eurocrypt||2,2024|j:dcc||2,2024|j:tosc||2,2024|c:asiacrypt||2
+CryptLab~2025~c:ccs~~Refined TFHE Leveled Homomorphic Evaluation and Its Application~Ruida Wang, Jincheol Ha 외 5명~~conf/ccs/WangHSLC0025
+CryptLab~2025~c:crypto~~Enhancing Provable Security and Efficiency of Permutation-Based DRBGs~Woohyuk Chung, Seongha Hwang 외 2명~~conf/crypto/ChungHKL25
+CryptLab~2025~c:eurocrypt~~Making GCM Great Again: Toward Full Security and Longer Nonces~Woohyuk Chung, Seongha Hwang 외 3명~~conf/eurocrypt/ChungHKLL25
+CryptLab~2024~c:asiacrypt~~Toward Full n-bit Security and Nonce Misuse Resistance of Block Cipher-Based MACs~Wonseok Choi, Jooyoung Lee, Yeongmin Lee~~conf/asiacrypt/ChoiLL24
+NMAIL=2026|c:icaiic||1,2026|c:iclr||2,2025|j:access||1,2025|c:iccv||1,2024|j:ral||1,2024|j:tamd||1,2024|j:tii||1,2024|j:tip||1,2024|j:tochi||1,2024|c:cvpr||1,2024|c:uist||1
+NMAIL~2026~c:iclr~~Mitigating Spurious Correlation via Distributionally Robust Learning with Hierarchical Ambiguity Sets~Sungho Jo, Seonghwi Kim, Minwoo Chae~~conf/iclr/JoKC26
+NMAIL~2025~c:iccv~~Probabilistic Inertial Poser (ProbIP): Uncertainty-Aware Human Motion Modeling from Sparse Inertial Sensors~Min Kim, Younho Jeon, Sungho Jo~~conf/iccv/KimJJ25
+NMAIL~2024~c:cvpr~~Learning to Produce Semi-Dense Correspondences for Visual Localization~Khang Truong Giang, Soohwan Song, Sungho Jo~~conf/cvpr/GiangSJ24
+NMAIL~2024~j:tochi~~Understanding the User Perception and Experience of Interactive Algorithmic Recourse Customization~Seunghun Koh, Byung Hyung Kim, Sungho Jo~~journals/tochi/KohKJ24
+Ziegler=2026|c:cie||1,2025|j:jacm||1,2025|c:casc||1,2025|c:fsttcs||1,2024|j:lmcs||1,2024|c:uc||1
+Ziegler~2025~j:jacm~~Quantitative Coding and Complexity Theory of Continuous Data: Part I: Motivation, Definition, Consequences~Donghyun Lim, Martin Ziegler~~journals/jacm/LimZ25
+Ziegler~2026~c:cie~~What is a Polynomial-Time Computable Square-Integrable Function?~Aras Bacho, Svetlana Selivanova, Martin Ziegler~~conf/cie/BachoSZ26
+Ziegler~2024~j:lmcs~~Semantics, Specification Logic, and Hoare Logic of Exact Real Computation~Sewon Park, Franz Brauße 외 8명~~journals/lmcs/ParkBCKKLMNPZ24
+DSLab=2026|j:csur||1,2026|j:pr||1,2026|c:aaai||3,2026|c:acl||2,2026|c:acl|F|1,2026|c:eccv||1,2026|c:fat||1,2026|c:iclr||2,2026|c:lrec||1,2026|c:persuasive||1,2026|c:uss||1,2025|j:sigir||1,2025|j:sigweb||1,2025|j:tkde||1,2025|j:tmlr||1,2025|c:aaai||2,2025|c:emnlp|F|1,2025|c:goodit||5,2025|c:icml||1,2025|c:ijcai||1,2025|c:jurse||1,2025|c:www||1,2024|j:ijcv||1,2024|j:natmi||1,2024|j:pacmhci||1,2024|j:tifs||1,2024|j:tist||1,2024|c:acl|F|1,2024|c:bigcomp||1,2024|c:coling||1,2024|c:icml||1,2024|c:ijcai||1
+DSLab~2026~c:acl~~How Training Data Shapes the Use of Parametric and In-Context Knowledge in Language Models~Minsung Kim, Dong-Kyum Kim 외 4명~~conf/acl/KimKKYJC26
+DSLab~2026~c:aaai~~Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment~Jea Kwon, Luiz Felipe Vecchietti 외 2명~~conf/aaai/KwonVPC26
+DSLab~2026~c:aaai~~Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts~Sumin Lee, Sungwon Park 외 3명~~conf/aaai/LeePYKC26
+DSLab~2026~c:uss~~SGT: Securing Open-Source LLMs Against Malicious Fine-tuning via Safety Guidance Trigger~Sunguk Shin, Fangzhao Wu 외 3명~~conf/acl/ShinWLCP26
+SoftSec=2025|c:asplos||1,2025|c:ccs||1,2025|c:esorics||1,2025|c:icse||1,2025|c:issta|W|1,2025|c:sp||1,2024|j:pacmse||1,2024|c:esorics|W|1,2024|c:issta||1,2024|c:svcc||1
+SoftSec~2025~c:asplos~~Towards Sound Reassembly of Modern x86-64 Binaries~Hyungseok Kim, Soomin Kim, Sang Kil Cha~~conf/asplos/00020C25
+SoftSec~2025~c:sp~~PyLingual: Toward Perfect Decompilation of Evolving High-Level Languages~Joshua Wiedemeier, Elliot Tarbet 외 5명~~conf/sp/WiedemeierTZK0C25
+SoftSec~2025~c:ccs~~Walking The Last Mile: Studying Decompiler Output Correction in Practice~Joshua Wiedemeier, Simon Klancher 외 5명~~conf/ccs/WiedemeierKFZPC25
+SoftSec~2024~j:pacmse~~Evaluating Directed Fuzzers: Are We Heading in the Right Direction?~Tae Eun Kim, Jaeseung Choi 외 3명~~journals/pacmse/Kim0IHC24
+GCLab=2024|j:access||1
+GCLab~2024~j:access~~A Conflict-Aware Channel Assignment in Multi-Radio Multi-Channel Wireless Mesh Networks~Donghoon Shin, Changreol Lee, Sunghee Choi~~journals/access/ShinLC24
+ISILab=2026|j:iotj||2,2026|j:tsmc||1,2025|j:iotj||2,2025|j:tim||1,2025|c:smc||2,2024|j:access||2,2024|j:sensors||1,2024|j:spl||1,2024|c:ieeesensors||1,2024|c:imeta||1,2024|c:ipin||1,2024|c:smc||1
+ISILab~2026~j:iotj~~ADP-QFed: Privacy-Preserving Quantized Federated Learning for Intelligent Edge Sensing IoT Systems~Omer Tariq, Muhammad Bilal Akram Dastagir, Dongsoo Han~~journals/iotj/TariqDH26
+ISILab~2025~j:iotj~~NanoMST: A Hardware-Aware Multiscale Transformer Network for TinyML-Based Real-Time Inertial Motion Tracking~Omer Tariq, Dongsoo Han~~journals/iotj/TariqH25
+ISILab~2025~j:iotj~~DeepILS: Toward Accurate Domain-Invariant AIoT-Enabled Inertial Localization System~Omer Tariq, Muhammad Bilal Akram Dastagir 외 2명~~journals/iotj/TariqDBH25
+QCrypto=2026|j:dcc||1,2026|c:dna||1,2026|c:sp||1,2026|c:tcc||1,2025|j:cic||1,2025|c:crypto||1,2025|c:dna||1,2025|c:eurocrypt||1,2025|c:tcc||1,2024|c:crypto||1
+QCrypto~2026~c:sp~~From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight~Minki Hhan, Ga Hee Hong 외 3명~~conf/sp/HhanHKLL26
+QCrypto~2025~c:crypto~~Quantum Lifting for Invertible Permutations and Ideal Ciphers~Alexandru Cojocaru, Minki Hhan 외 3명~~conf/crypto/CojocaruHLYY25
+QCrypto~2025~c:eurocrypt~~A New Approach to Generic Lower Bounds - Classical/Quantum MDL, Quantum Factoring, and More~Minki Hhan~~conf/eurocrypt/Hhan25
+QCrypto~2024~c:crypto~~Quantum Complexity for Discrete Logarithms and Related Problems~Minki Hhan, Takashi Yamakawa, Aaram Yun~~conf/crypto/HhanYY24
+CyPhy=2026|j:imwut||1,2026|c:mobisys|W|4,2026|c:mobisys||1,2026|c:ndss||1,2026|c:sp||2,2026|c:uist||1,2025|j:iot||1,2025|c:mobisys||1,2025|c:ndss||1,2025|c:uist||1,2024|j:sigmobile||1,2024|c:mobisys||4,2024|c:sensys||2,2024|c:uss||1,2024|c:wmcsa||2
+CyPhy~2026~c:sp~~WRATH: Turning Watermark Robustness Against Itself via a Watermark-Agnostic Black-Box Invalidation Attack~Nan Jiang, Juan Hu 외 3명~~conf/sp/JiangHSSH26
+CyPhy~2026~c:ndss~~Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side~Rui Xiao, Sibo Feng 외 3명~~conf/ndss/XiaoFRHH26
+CyPhy~2026~c:mobisys~~Hide-and-Sweep: Detecting Concealed Cameras via LED Illumination Sweeps~Jonghyuk Yun, Jaeyoung Moon 외 5명~~conf/mobisys/YunMPTKBH26
+CyPhy~2026~c:uist~~Fold2Unfold: Screen Privacy Protection against Shoulder Surfing using Inter-Screen Reflection on Foldable Smar~Kyoosik Lee, Jiha Kim 외 4명~~conf/uist/LeeKYYHH26

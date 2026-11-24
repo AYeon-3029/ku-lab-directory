@@ -1,0 +1,194 @@
+PSL=2026|j:pacmpl||1,2025|j:pacmpl||1,2025|j:pacmse||1,2025|j:tosem||1,2025|c:mobicom||1,2024|j:pacmse||1,2024|c:icse||1
+PSL~2026~j:pacmpl~~Expecto: Extracting Formal Specifications from Natural Language Description for Trustworthy Oracles~Dongjae Lee, Kihong Heo~~journals/pacmpl/LeeH26
+PSL~2025~j:pacmpl~~Optimization-Directed Compiler Fuzzing for Continuous Translation Validation~Jaeseong Kwon, Bongjun Jang 외 2명~~journals/pacmpl/KwonJLH25
+PSL~2025~j:pacmse~~UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions~Sujin Jang, Yeonhee Ryou 외 2명~~journals/pacmse/JangRLH25
+PSL~2025~j:tosem~~Improving Fault Localization with External Oracle by Using Counterfactual Execution~Jongchan Park, Tae Eun Kim 외 2명~~journals/tosem/ParkKKH25
+CASYS-Huh=2026|j:cal||3,2025|j:taco||1,2025|c:iccd||1,2025|c:ictc||1,2025|c:isca||1,2024|j:taco||2,2024|c:hpca||1,2024|c:iccd||1,2024|c:isca||1,2024|c:iwmm||1
+CASYS-Huh~2026~j:cal~~Enabling Computation and Communication Overlap in PIMs for On-Device LLM Inference~Siu Jeong, Suhwan Kim 외 2명~~journals/cal/JeongKEH26
+CASYS-Huh~2026~j:cal~~An Operand Divergence-Aware All-Bank PIM Architecture for Sparse Attention~Soojin Hwang, Sanghyeon Lee 외 2명~~journals/cal/HwangLLH26
+CASYS-Huh~2025~c:isca~~Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors~Sunho Lee, Seonjin Na 외 3명~~conf/isca/0003NCP025
+VLLab=2026|c:eccv||2,2026|c:iclr||3,2025|c:aaai||1,2025|c:iclr||1,2025|c:nips||5,2025|c:wacv||1,2024|c:eccv||2,2024|c:iclr||1,2024|c:nips||3
+VLLab~2026~c:eccv~~When Sinks Help or Hurt: Unified Framework for Attention Sink in Large Vision-Language Models~Jiho Choi, Jaemin Kim 외 3명~~conf/eccv/ChoiKKHP26
+VLLab~2026~c:eccv~~Training-Free Refinement of Flow Matching with Divergence-Based Sampling~Yeonwoo Cha, Jaehoon Yoo 외 4명~~conf/eccv/ChaYKPKH26
+VLLab~2026~c:iclr~~FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows~Yeonwoo Cha, Semin Kim 외 2명~~conf/iclr/ChaKKH26
+VLLab~2026~c:iclr~~Flock: A Knowledge Graph Foundation Model via Learning on Random Walks~Jinwoo Kim, Xingyue Huang 외 5명~~conf/iclr/KimHOMBHC26
+BDI=2026|c:kdd||2,2025|c:aaai||1,2025|c:emnlp|F|1,2025|c:icml||2,2024|c:icml||1,2024|c:naacl|F|1,2024|c:strl||1
+BDI~2026~c:kdd~~Learn When and Where to Connect: Adaptive Virtual Nodes for Dynamic Message Passing on Graphs~Jaejun Lee, Joyce Jiyoung Whang~~conf/kdd/LeeW26
+BDI~2025~c:aaai~~Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks~Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang~~conf/aaai/ChoiKW25
+BDI~2025~c:icml~~Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs~Jaejun Lee, Joyce Jiyoung Whang~~conf/icml/0001W25
+CDSN=2026|c:cvpr||1,2026|c:emnlp||1,2026|c:icdcs|W|1,2026|c:icra||1,2026|c:pkdd||1,2025|j:cee||1,2025|c:asunam||1,2025|c:cikm||1,2025|c:goodit||2,2025|c:icsoc||1,2025|c:mm||1,2025|c:percom||1,2025|c:wacv||1,2024|c:compsac||1,2024|c:eccv||1,2024|c:urai||1
+CDSN~2026~c:cvpr~~DETACH: Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged L~Junho Yoon, Jaemo Jeong 외 2명~~conf/cvpr/YoonJKL26
+CDSN~2026~c:emnlp~~Last But Not Least: Boundary Attention CalibratiON for Multimodal KV Cache Compression~Tianhao Chen, Yuheng Wu 외 4명~~conf/emnlp/ChenWYXHL26
+CDSN~2026~c:icra~~Background Fades, Foreground Leads: Curriculum-Guided Background Pruning for Efficient Foreground-Ce~Yuheng Wu, Xiangbo Gao 외 3명~~conf/icra/WuGTTL26
+CDSN~2025~c:cikm~~Self-supervised Dual-view Framework with Tailored Negative Sampling for New Activity Detection~Hyunju Kim, Dongman Lee~~conf/cikm/0001L25
+KEAI=2026|c:iclr||1,2025|j:access||1,2025|j:aiopen||1,2025|j:cviu||1,2025|c:bigcomp||9,2025|c:iccv||1,2024|j:dke||1,2024|c:acl|F|1,2024|c:bigcomp||8,2024|c:emnlp|F|2,2024|c:naacl||1
+KEAI~2026~c:iclr~~RefineBench: Evaluating Refinement Capability of Language Models via Checklists~Young-Jun Lee, Seungone Kim 외 7명~~conf/iclr/LeeKLMHKNWC26
+KEAI~2025~c:iccv~~MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large Vision and Language Models~Young-Jun Lee, Byung-Kwan Lee 외 10명~~conf/iccv/LeeLZHKKYRJHKC25
+KEAI~2024~c:naacl~~DialogCC: An Automated Pipeline for Creating High-Quality Multi-Modal Dialogue Dataset~Young-Jun Lee, Byungsoo Ko 외 3명~~conf/naacl/LeeKKHC24
+LANADA=2026|j:network||1,2026|j:tcom||1,2026|j:tmlr||1,2026|c:iclr||1,2025|j:tmc||1,2025|c:iclr||2,2025|c:sigcomm||1,2024|j:wcl||1,2024|c:nips||1
+LANADA~2026~c:iclr~~LS-Merge: Merging Language Models in Latent Space~Bedionita Soro, Aoxuan Silvia Zhang 외 4명~~conf/iclr/SoroZAJCH26
+LANADA~2026~j:tcom~~Joint Security-Energy-Latency Optimization for Code Offloading in LEO Satellite Networks~Jeongsoo Kim, Suhyeon Jeon 외 2명~~journals/tcom/KimJKC26
+LANADA~2025~j:tmc~~NeuroBalancer: Balancing System Frequencies With Punctual Laziness for Timely and Energy-Efficient D~Kyungmin Bin, Seyeon Kim 외 3명~~journals/tmc/BinKHCL25
+AIPR=2026|c:aaai||1,2026|c:iclr||1,2025|c:iclr||1,2025|c:naacl||1,2025|c:nips||1,2024|j:aim||1,2024|c:aaai||2,2024|c:acl||1,2024|c:emnlp||1,2024|c:iclr||1,2024|c:ijcai||1,2024|c:interspeech||1,2024|c:nips||2
+AIPR~2026~c:iclr~~Group-Normalized Implicit Value Optimization for Language Models~Yunseon Choi, Junyoung Jang 외 4명~~conf/iclr/ChoiJOJHK26
+AIPR~2026~c:aaai~~Optimizing Preferential Rate in Retail Lending with Causal Inference and Domain Adaptation~Jimyung Choi, Yujin Lee 외 5명~~conf/aaai/ChoiLOSKKK26
+AIPR~2025~c:iclr~~Monet: Mixture of Monosemantic Experts for Transformers~Jungwoo Park, Ahn Young Jin 외 2명~~conf/iclr/ParkJKK25
+AIPR~2025~c:naacl~~Goal-Conditioned DPO: Prioritizing Safety in Misaligned Instructions~Joo Bon Maeng, Seongmin Lee 외 2명~~conf/naacl/MaengLSK25
+IM2=2025|c:elinfocom||1,2025|c:icra||1,2024|j:ral||1,2024|j:sensors||2,2024|c:iclr||2,2024|c:icra||1,2024|c:ieeesensors||1
+IM2~2025~c:icra~~PRESTO: Fast Motion Planning Using Diffusion Models Based on Key-Configuration Environment Represent~Mingyo Seo, Yoonyoung Cho 외 4명~~conf/icra/SeoCSSZK25
+IM2~2024~c:iclr~~CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects~Yoonyoung Cho, Junhyek Han 외 2명~~conf/iclr/ChoHCK24
+IM2~2024~c:iclr~~An Intuitive Multi-Frequency Feature Representation for SO(3)-Equivariant Networks~Dongwon Son, Jaehyung Kim 외 2명~~conf/iclr/SonKSK24
+SehoonKim=2025|c:acl||1,2025|c:icml||2,2025|c:nips||1,2024|j:fdata||1,2024|j:micro||1,2024|c:acl|F|1,2024|c:emnlp|W|1,2024|c:icml||2,2024|c:nips||1
+SehoonKim~2025~c:acl~~Squeezed Attention: Accelerating Long Context Length LLM Inference~Coleman Richard Charles Hooper, Sehoon Kim 외 7명~~conf/acl/HooperKMMZPMKG25
+SehoonKim~2025~c:icml~~Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks~Lutfi Eren Erdogan, Nicholas Lee 외 6명~~conf/icml/ErdoganL0MFAKG25
+SehoonKim~2025~c:nips~~Multipole Attention for Efficient Long Context Reasoning~Coleman Hooper, Sebastian Zhao 외 6명~~conf/nips/HooperZMKMSKG25
+CVLAB=2026|c:aaai||2,2026|c:cvpr||11,2026|c:eccv||6,2026|c:iclr||5,2025|j:access||1,2025|j:eaai||1,2025|j:ijcv||2,2025|j:pr||1,2025|c:aaai||2,2025|c:cvpr||7,2025|c:iccv||2,2025|c:icml||1,2025|c:nips||6,2025|c:wacv||1,2024|j:ijcv||1,2024|j:pr||3,2024|c:aaai||2,2024|c:accv||1,2024|c:cvpr||4,2024|c:eccv||3,2024|c:iclr||3,2024|c:icml||1,2024|c:iros||1,2024|c:mlsys||1,2024|c:mm||1,2024|c:nips||2
+CVLAB~2026~c:cvpr~~Learning Compact 3D Representations from Feed-Forward Novel View Synthesis~Honggyu An, Jaewoo Jung 외 11명~~conf/cvpr/AnJKKJHFNKKHMK26
+CVLAB~2026~c:cvpr~~Emergent Outlier View Rejection in Visual Geometry Grounded Transformers~Jisang Han, Sunghwan Hong 외 6명~~conf/cvpr/HanHJJAWKF26
+CVLAB~2026~c:aaai~~Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry~Junyoung Seo, Jisang Han 외 10명~~conf/aaai/SeoHJJLNFSAHKM26
+CVLAB~2026~c:aaai~~CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-based Anomaly Synthe~JoungBin Lee, Hyunkoo Lee 외 8명~~conf/aaai/LeeLYKYHLCJK26
+GLOW=2026|c:eccv||1,2025|c:cvpr||1,2024|c:cvpr||1,2024|c:iclr||3,2024|c:nips||2,2024|c:siggraph||1
+GLOW~2026~c:eccv~~Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision~Dohyun Kim, Seungwoo Lyu 외 2명~~conf/eccv/KimLKS26
+GLOW~2025~c:cvpr~~Random Conditioning for Diffusion Model Compression with Distillation~Dohyun Kim, Sehwan Park 외 3명~~conf/cvpr/KimPHKS25
+GLOW~2024~c:cvpr~~Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models~Huan Ling, Seung Wook Kim 외 3명~~conf/cvpr/Ling00FK24
+HyunwooKim=2026|c:iclr||1,2026|c:satml||1,2025|c:emnlp||1,2025|c:naacl||1,2024|c:acl|F|1,2024|c:emnlp||2,2024|c:iclr||1
+HyunwooKim~2026~c:iclr~~SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs~Yuling Gu, Oyvind Tafjord 외 5명~~conf/iclr/GuTKMBCC26
+HyunwooKim~2025~c:emnlp~~Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions~David Acuna, Ximing Lu 외 5명~~conf/emnlp/AcunaLJKKFC25
+HyunwooKim~2024~c:emnlp~~Perceptions to Beliefs: Exploring Precursory Inferences for Theory of Mind in Large Language Models~Chani Jung, Dongkwan Kim 외 6명~~conf/emnlp/Jung0JKS0O024
+LKLab=2026|c:aaai||1,2026|c:acl||1,2026|c:eacl||1,2026|c:iclr||3,2026|c:interspeech||1,2025|c:aaai||1,2025|c:iclr||3,2025|c:naacl||3,2025|c:nips||1,2024|j:tacl||1,2024|c:aaai||1,2024|c:acl||3,2024|c:acl|F|1,2024|c:emnlp|F|1,2024|c:emnlp||5,2024|c:iclr||3,2024|c:naacl||4,2024|c:nips||2
+LKLab~2026~c:acl~~Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams~Jiyeon Kim, Hyunji Lee 외 7명~~conf/acl/KimLZPYBDCS26
+LKLab~2026~c:iclr~~Characterizing Pattern Matching and Its Limits on Compositional Task Structures~Hoyeon Chang, Jinho Park 외 8명~~conf/iclr/ChangPCYKHWLAS26
+LKLab~2026~c:iclr~~TSLM: Tree-Structured Language Modeling for Divergent Thinking~Doyoung Kim, Jaehyeok Doo, Minjoon Seo~~conf/iclr/KimDS26
+LKLab~2026~c:aaai~~State-Space Hierarchical Compression with Gated Attention and Learnable Sampling for Hour-Long Video~Geewook Kim, Minjoon Seo~~conf/aaai/KimS26
+DIVE=2026|j:ijdsa||1,2026|j:kais||1,2026|j:tkde||1,2026|j:tors||1,2026|c:aaai||1,2026|c:acl||1,2026|c:acl|F|1,2026|c:icde||1,2026|c:ijcai||1,2026|c:kdd||3,2026|c:pkdd||1,2026|c:sigir||2,2026|c:wsdm||1,2026|c:www||2,2025|j:bib||1,2025|j:csur||1,2025|j:datamine||1,2025|j:kais||2,2025|j:tist||1,2025|j:vldb||1,2025|c:aaai||2,2025|c:cikm||2,2025|c:edbt||1,2025|c:emnlp|F|1,2025|c:icde||2,2025|c:icdm||4,2025|c:icml||1,2025|c:kdd||3,2025|c:nips||3,2025|c:pakdd||2,2025|c:sigir||1,2025|c:www||2,2024|j:datamine||1,2024|j:tkdd||1,2024|j:vldb||1,2024|c:aaai||2,2024|c:cikm||2,2024|c:cvpr||1,2024|c:icdm||2,2024|c:icdm|W|1,2024|c:iclr||1,2024|c:icml||3,2024|c:kdd||4,2024|c:nips||1,2024|c:pkdd|W|1,2024|c:recsys||1,2024|c:www||2
+DIVE~2026~j:tkde~~Four-Set Hypergraphlets for Characterization of Directed Hypergraphs~Heechan Moon, Hyunju Kim 외 2명~~journals/tkde/MoonKKS26
+DIVE~2026~c:aaai~~Feature-Centric Unsupervised Node Representation Learning Without Homophily Assumption~Sunwoo Kim, Soo Yong Lee 외 4명~~conf/aaai/KimLKHYS26
+DIVE~2026~c:icde~~Effective Dataset Distillation for Spatio-Temporal Forecasting with BI-Dimensional Compression~Taehyung Kwon, Yeonje Choi 외 2명~~conf/icde/KwonCKS26
+DIVE~2026~c:acl~~Pre-Deployment Advertisement Ranking under Data Scarcity via Context-Aware Criteria Generation~Kyungho Kim, Yeonje Choi 외 9명~~conf/acl/KimCHCLSKKLKS26
+ALIN=2026|j:tmlr||2,2026|j:tosn||1,2026|c:cvpr||2,2026|c:eccv||1,2026|c:iclr||4,2025|j:tmc||1,2025|j:tmlr||3,2025|c:acl|F|1,2025|c:cvpr||4,2025|c:emnlp|F|3,2025|c:emnlp||2,2025|c:iccv||1,2025|c:iclr||6,2025|c:icml||4,2025|c:ijcai||1,2025|c:nips||5,2025|c:snams||1,2024|j:access||1,2024|j:tmlr||2,2024|c:cvpr||2,2024|c:eccv||3,2024|c:emnlp|F|1,2024|c:iclr||6,2024|c:icml||2,2024|c:nips||6
+ALIN~2026~c:cvpr~~Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation~Subin Kim, Sangwoo Mo 외 5명~~conf/cvpr/KimMRXLSH26
+ALIN~2026~c:cvpr~~Improving Motion in Image-to-Video Models via Adaptive Low-Pass Guidance~June Suk Choi, Kyungmin Lee 외 4명~~conf/cvpr/ChoiLYCSL26
+ALIN~2026~j:tmlr~~DS-STAR: Data Science Agent for Solving Diverse Tasks across Heterogeneous Formats and Open-Ended Qu~Jaehyun Nam, Jinsung Yoon 외 4명~~journals/tmlr/NamYCSSP26
+ALIN~2026~j:tmlr~~Efficient LLM Collaboration via Planning~Byeongchan Lee, Jonghoon Lee 외 5명~~journals/tmlr/LeeLKKPLS26
+CVML-Shim=2026|j:tmlr||1,2026|c:aaai||1,2026|c:acl||1,2026|c:cvpr||4,2026|c:eccv||5,2026|c:iclr||2,2026|c:wacv||1,2025|j:prl||1,2025|j:tmlr||1,2025|c:aaai||1,2025|c:acl||1,2025|c:cvpr||3,2025|c:emnlp|F|1,2025|c:icip||1,2025|c:iclr||2,2025|c:wacv||1,2024|j:access||1,2024|j:pami||1,2024|c:aaai||1,2024|c:eccv||3,2024|c:iros||1,2024|c:nips||1
+CVML-Shim~2026~c:acl~~PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation~Jiho Choi, Seojeong Park 외 2명~~conf/acl/ChoiPSS26
+CVML-Shim~2026~c:aaai~~Rethinking Direct Preference Optimization in Diffusion Models~Junyong Kang, Seohyun Lim 외 2명~~conf/aaai/KangLBS26
+CVML-Shim~2026~c:cvpr~~World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models~Eunsu Kim, Junyeong Park 외 10명~~conf/cvpr/KimPAKPJKAPISO26
+CVML-Shim~2026~j:tmlr~~Boosting Text Encoder for Personalized Text-to-Image Generation~NaHyeon Park, Kunhee Kim, Hyunjung Shim~~journals/tmlr/ParkKS26
+SungsooAhn=2026|j:fgcs||1,2026|j:npjdm||1,2026|c:iclr||3,2025|j:bspc||1,2025|j:jvlc||1,2025|j:npjdm||1,2025|j:tmlr||1,2025|c:acl|F|1,2025|c:acl||1,2025|c:bigcomp||1,2025|c:dms||1,2025|c:emnlp|F|2,2025|c:emnlp||1,2025|c:iclr||5,2025|c:kdd||1,2025|c:nips||4,2024|j:cmpb||1,2024|j:tmlr||2,2024|c:iclr||4,2024|c:icml||6,2024|c:ijcai||1,2024|c:nips||1,2024|c:wacv||1
+SungsooAhn~2026~c:iclr~~Learning Collective Variables from BioEmu with Time-Lagged Generation~Seonghyun Park, Kiyoung Seong 외 3명~~conf/iclr/ParkSYGA26
+SungsooAhn~2026~c:iclr~~Learning Flexible Forward Trajectories for Masked Molecular Diffusion~Hyunjin Seo, Taewon Kim 외 2명~~conf/iclr/SeoKYA26
+SungsooAhn~2026~c:iclr~~Latent Veracity Inference for Identifying Errors in Stepwise Reasoning~Minsu Kim, Jean-Pierre R. Falet 외 6명~~conf/iclr/KimFRCJAAB26
+MLI=2026|c:acl||1,2026|c:acl|F|2,2026|c:cvpr||2,2026|c:eacl||1,2026|c:iclr||5,2026|c:interspeech||1,2026|c:wacv||1,2025|j:pami||1,2025|c:aaai||1,2025|c:cvpr||2,2025|c:emnlp||3,2025|c:icassp||2,2025|c:iccv||1,2025|c:iclr||5,2025|c:icml||1,2025|c:isscc||1,2025|c:naacl||1,2024|j:access||2,2024|c:cvpr||1,2024|c:eccv||2,2024|c:emnlp|F|1,2024|c:iclr||2,2024|c:icml||1,2024|c:nips||1
+MLI~2026~c:cvpr~~Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation~Joonhyung Park, Hyeongwon Jang 외 2명~~conf/cvpr/ParkJKY26
+MLI~2026~c:acl~~Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge~Joonhyung Park, Jaeyun Song 외 2명~~conf/acl/ParkSPY26
+MLI~2026~c:iclr~~Faster Vision Transformers with Adaptive Patches~Rohan Choudhury, JungEun Kim 외 4명~~conf/iclr/ChoudhuryKPYJK26
+MLI~2026~c:cvpr~~Instruction-Guided Lesion Segmentation for Chest X-rays with Automatically Generated Large-Scale Dat~Geon Choi, Hangyul Yoon 외 5명~~conf/cvpr/ChoiYSPSYC26
+BISPL=2026|j:cmig||1,2026|j:mia||1,2026|j:spm||2,2026|c:cvpr||3,2026|c:eccv||5,2026|c:emnlp||1,2026|c:iclr||5,2026|c:isbi||3,2026|c:miccai||1,2026|c:wacv||1,2025|j:mia||1,2025|j:pami||1,2025|j:prl||1,2025|j:tim||1,2025|j:tmi||2,2025|c:aaai||1,2025|c:cvpr||5,2025|c:iccv||5,2025|c:iclr||7,2025|c:icml||2,2025|c:miccai||3,2025|c:nips||4,2025|c:wacv||1,2024|j:mia||2,2024|j:neuroimage||1,2024|j:nn||1,2024|j:tci||1,2024|j:titb||3,2024|c:aaai||1,2024|c:cvpr||4,2024|c:eccv||5,2024|c:icassp||1,2024|c:iclr||6,2024|c:icml||2
+BISPL~2026~j:mia~~Read like a radiologist: Efficient vision-language model for 3D medical imaging interpretation~Changsun Lee, Sangjoon Park 외 5명~~journals/mia/LeePSCPLY26
+BISPL~2026~c:cvpr~~ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding~Byeongjun Park, Byung-Hoon Kim 외 2명~~conf/cvpr/ParkKCY26
+BISPL~2026~c:cvpr~~PromptLoop: Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment~Suhyeon Lee, Jong Chul Ye~~conf/cvpr/LeeY26
+BISPL~2026~c:cvpr~~Reviving ConvNeXt for Efficient Convolutional Diffusion Models~Taesung Kwon, Lorenzo Bianchi 외 6명~~conf/cvpr/KwonBWWCYWA26
+STAI=2026|j:tmlr||1,2026|c:acl||2,2026|c:iclr||5,2025|j:ijon||1,2025|c:emnlp||1,2025|c:iclr||3,2025|c:icml||1,2025|c:naacl|F|1,2025|c:nips||4,2024|c:acl|F|1,2024|c:acl||1,2024|c:nips||1
+STAI~2026~c:acl~~MASEval: Extending Multi-Agent Evaluation from Models to Systems~Cornelius Emde, Alexander Rubinstein 외 5명~~conf/acl/EmdeRGHYOG26
+STAI~2026~c:acl~~Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models~Anmol Goel, Cornelius Emde 외 3명~~conf/acl/GoelEOYG26
+STAI~2026~c:iclr~~Dr.LLM: Dynamic Layer Routing in LLMs~Ahmed Heakl, Martin Gubri 외 3명~~conf/iclr/HeaklGKYO26
+STAI~2026~j:tmlr~~TestDG: Test-time Domain Generalization for Continual Test-time Adaptation~Sohyun Lee, Nayeong Kim 외 3명~~journals/tmlr/LeeKKOK26
+OSI=2026|j:access||1,2026|j:tacl||1,2026|j:tmlr||1,2026|c:acl|F|2,2026|c:acl||1,2026|c:iclr||2,2025|j:access||1,2025|j:tmlr||3,2025|c:acl|F|1,2025|c:iccv||1,2025|c:iclr||4,2025|c:icml||4,2025|c:naacl||1,2025|c:nips||5,2024|j:ml||1,2024|j:tmlr||2,2024|c:aaai||1,2024|c:aistats||1,2024|c:cvpr||1,2024|c:emnlp||3,2024|c:emnlp|F|1,2024|c:iclr||1,2024|c:icml||2,2024|c:ijcai||1,2024|c:naacl||1,2024|c:nips||5,2024|c:slt||1
+OSI~2026~j:tacl~~From Belief Entrenchment to Robust Reasoning in LLM Agents~Jihwan Oh, Minchan Jeong 외 2명~~journals/tacl/OhJKY26
+OSI~2026~c:acl~~MERIT Feedback Elicits Better Bargaining in LLM Negotiators~Jihwan Oh, Murad Aghazada 외 3명~~conf/acl/OhASYK26
+OSI~2026~c:iclr~~Process-Verified Reinforcement Learning for Theorem Proving via Lean~Minsu Kim, Se-Young Yun~~conf/iclr/KimY26
+OSI~2026~j:tmlr~~CUDA: Capturing Uncertainty and Diversity in Preference Feedback Augmentation~Sehyeok Kang, Jaewook Jeong, Se-Young Yun~~journals/tmlr/KangJY26
+OptiML=2026|c:iclr||4,2025|c:iclr||4,2025|c:icml||4,2025|c:nips||3,2024|c:iclr||1,2024|c:icml||1,2024|c:nips||4
+OptiML~2026~c:iclr~~Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime~Beomhan Baek, Minhak Song, Chulhee Yun~~conf/iclr/BaekSY26
+OptiML~2026~c:iclr~~Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?~Jihwan Kim, Dogyoon Song, Chulhee Yun~~conf/iclr/KimSY26
+OptiML~2026~c:iclr~~Minor First, Major Last: A Depth-Induced Implicit Bias of Sharpness-Aware Minimization~Chaewon Moon, Dongkuk Si, Chulhee Yun~~conf/iclr/MoonSY26
+OptiML~2026~c:iclr~~Implicit Bias and Loss of Plasticity in Matrix Completion: Depth Promotes Low-Rankness~Baekrok Shin, Chulhee Yun~~conf/iclr/ShinY26
+KiminLee=2026|c:aaai||2,2026|c:chi||1,2026|c:cvpr||2,2026|c:iclr||2,2026|c:icra||1,2025|c:aaai||1,2025|c:acl||2,2025|c:acl|F|1,2025|c:cvpr||1,2025|c:emnlp||1,2025|c:iclr||6,2025|c:sensys||1,2025|c:uss||1,2024|c:aies||1,2024|c:cvpr||1,2024|c:emnlp||1,2024|c:emnlp|F|1,2024|c:iclr||1,2024|c:nips||1
+KiminLee~2026~c:aaai~~Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation~Dongyoon Hahm, Taywon Min 외 2명~~conf/aaai/HahmMJL26
+KiminLee~2026~c:aaai~~MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control~Juyong Lee, Dongyoon Hahm 외 3명~~conf/aaai/LeeHCKL26
+KiminLee~2026~c:chi~~State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living~Juheon Choi, Juyong Lee 외 6명~~conf/chi/ChoiLKKMKLL26
+KiminLee~2026~c:cvpr~~Learning Multi-View Spatial Reasoning from Cross-View Relations~Suchae Jeong, Jaehwi Song 외 10명~~conf/cvpr/JeongSLKKLSKHJCL26
+SIML=2026|c:iclr||1,2025|j:tmlr||1,2025|c:acl|F|1,2025|c:iclr||6,2025|c:icml||2,2025|c:nips||6,2024|c:aaai||1,2024|c:eccv||1,2024|c:iclr||5,2024|c:icml||3,2024|c:isbi||1,2024|c:nips||4
+SIML~2026~c:iclr~~Stochastic Optimal Control for Continuous-Time fMRI Representation Learning~Joonhyeong Park, Byoungwoo Park 외 5명~~conf/iclr/ParkPBCCKL26
+SIML~2025~c:iclr~~Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo~Hyunsu Kim, Giung Nam 외 3명~~conf/iclr/KimNYYL25
+SIML~2025~c:iclr~~Dimension Agnostic Neural Processes~Hyungi Lee, Chaeyun Jang 외 2명~~conf/iclr/LeeJL025
+CLVR=2025|j:ijrr||1,2025|c:iclr||2,2024|c:corl||1,2024|c:icra||2,2024|c:rss||1
+CLVR~2025~j:ijrr~~FurnitureBench: Reproducible real-world benchmark for long-horizon complex manipulation~Minho Heo, Youngwoon Lee 외 2명~~journals/ijrr/HeoLLL25
+CLVR~2025~c:iclr~~Subtask-Aware Visual Reward Learning from Segmented Demonstrations~Changyeon Kim, Minho Heo 외 5명~~conf/iclr/KimHLLSLL25
+CLVR~2024~c:corl~~EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data~Jesse Zhang, Minho Heo 외 5명~~conf/corl/ZhangHLBL0F24
+DAVIAN=2026|c:3dim||1,2026|c:aaai||2,2026|c:acl||1,2026|c:acl|F|2,2026|c:cvpr||8,2026|c:eccv||4,2026|c:iclr||5,2026|c:icra||1,2026|c:ijcai||1,2026|c:interspeech||1,2026|c:kdd||1,2026|c:lrec||1,2025|j:mia||1,2025|c:aaai||2,2025|c:acl||4,2025|c:acl|F|1,2025|c:chi|W|1,2025|c:cvpr||3,2025|c:emnlp||2,2025|c:emnlp|F|1,2025|c:iccv||2,2025|c:iclr||3,2025|c:icml||1,2025|c:naacl||1,2025|c:nips||3,2025|c:uist||1,2025|c:wacv||2,2024|j:eswa||1,2024|c:aaai||3,2024|c:acl|F|2,2024|c:cvpr||2,2024|c:eccv||6,2024|c:emnlp|F|2,2024|c:icassp||1,2024|c:iclr||1,2024|c:icml||3,2024|c:mm||1,2024|c:nips||4,2024|c:sigir||1,2024|c:wacv||2
+DAVIAN~2026~c:cvpr~~AHS: Adaptive Head Synthesis via Synthetic Data Augmentations~Taewoong Kang, Hyojin Jang 외 5명~~conf/cvpr/KangJJMKJC26
+DAVIAN~2026~c:aaai~~SphereDiff: Tuning-free 360° Static and Dynamic Panorama Generation via Spherical Latent Representat~Minho Park, Taewoong Kang 외 3명~~conf/aaai/ParkKYHC26
+DAVIAN~2026~c:aaai~~Think Wise, Collaborate Effectively: A Rationale-Aware LLM-Based Recommender with Reinforcement Lear~Chung Park, Taesan Kim 외 8명~~conf/aaai/ParkKYHHPCCSC26
+DAVIAN~2026~c:acl~~Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models~Kyudan Jung, Jihwan Kim 외 4명~~conf/acl/JungKKKCP26
+EdLab=2026|j:titb||1,2026|c:acl|F|1,2026|c:cvpr||1,2026|c:iclr||2,2026|c:lrec||1,2025|j:artmed||1,2025|c:acl||1,2025|c:chil||2,2025|c:ijcnlp|F|1,2025|c:naacl||2,2025|c:nips||4,2024|j:titb||1,2024|c:acl|F|3,2024|c:acl-clinicalnlp||1,2024|c:chil||2,2024|c:cikm||1,2024|c:emnlp|F|1,2024|c:icassp||1,2024|c:iclr||1,2024|c:mlhc||1,2024|c:nips||2
+EdLab~2026~c:iclr~~From Conversation to Query Execution: Benchmarking User and Tool Interactions for EHR Database Agent~Gyubok Lee, Woosog Chay 외 6명~~conf/iclr/LeeCKKYJSC26
+EdLab~2026~c:iclr~~ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation~Jiho Kim, Junseong Choi 외 5명~~conf/iclr/KimCCKKJC26
+EdLab~2026~c:cvpr~~Instruction-Guided Lesion Segmentation for Chest X-rays with Automatically Generated Large-Scale Dat~Geon Choi, Hangyul Yoon 외 5명~~conf/cvpr/ChoiYSPSYC26
+EdLab~2025~c:acl~~A Large-Scale Real-World Evaluation of an LLM-Based Virtual Teaching Assistant~Sunjun Kweon, Sooyohn Nam 외 3명~~conf/acl/KweonNLH025
+SAIL=2026|j:csur||1,2026|c:acl|F|2,2026|c:eccv||3,2026|c:ijcai||1,2026|c:kdd||1,2025|j:access||1,2025|j:ijon||1,2025|j:mta||1,2025|c:aaai||2,2025|c:acl||1,2025|c:cikm||2,2025|c:cvpr||1,2025|c:emnlp|F|1,2025|c:iccv||1,2025|c:icdm||1,2025|c:iclr||2,2025|c:icml||1,2025|c:interspeech||1,2025|c:nips||1,2024|j:inffus||1,2024|c:aaai||2,2024|c:aistats||1,2024|c:bigcomp||1,2024|c:icprai||2,2024|c:ijcai||2
+SAIL~2026~c:eccv~~SPICE: Simple Polysemantic Feature Interpretation via Clustering-Based Explanation~Sehyun Lee, Dahee Kwon 외 2명~~conf/eccv/LeeKLC26
+SAIL~2026~c:eccv~~Diffusion Integrated Gradients: Controllable Path Generation for Flexible Feature Attribution~Soyeon Kim, Kyowoon Lee, Jaesik Choi~~conf/eccv/KimLC26
+SAIL~2026~j:csur~~Towards Transparent Time Series Analysis: Exploring Methods and Enhancing Interpretability~Youngjin Park, Anh Tong 외 4명~~journals/csur/ParkTLSXC26
+SAIL~2026~c:eccv~~Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis~Haksoo Lim, Myeongjin Lee 외 2명~~conf/eccv/LimLCC26
+INA=2026|c:asplos||1,2026|c:cvpr||1,2026|c:mobisys||1,2026|c:wacv||1,2025|j:micro||1,2025|j:ton||1,2025|c:ebpf||1,2025|c:hotnets||1,2025|c:mobisys||1,2025|c:nips||1,2025|c:sigcomm||1,2025|c:sosp||1,2025|c:wacv||1,2024|j:ton||1,2024|c:hotnets||1,2024|c:icml||1,2024|c:sigcomm||2
+INA~2026~c:asplos~~Trinity: Three-Dimensional Tensor Program Optimization via Tile-level Equality Saturation~Jaehyeong Park, Youngchan Kim 외 4명~~conf/asplos/ParkKAJKH26
+INA~2026~c:mobisys~~BlenDR: Bandwidth-efficient RGB-D Representation and Delivery for Live 3D Video Streaming~Jaehong Kim, Joon Ha Kim 외 2명~~conf/mobisys/KimKLH26
+INA~2026~c:cvpr~~Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference~Seyeon Lee, Juncheol Ye 외 2명~~conf/cvpr/LeeYKH26
+INA~2025~j:ton~~Low-Overhead Intra-Host Container Communication With Hardware Offloading~Qiang Su, Zhixiong Niu 외 6명~~journals/ton/SuN00XHX025
+SJHwang=2026|j:tmlr||2,2026|c:acl|F|1,2026|c:acl||1,2026|c:cvpr||2,2026|c:eacl|F|1,2026|c:eccv||2,2026|c:emnlp||1,2026|c:iclr||5,2025|j:pami||1,2025|c:acl|F|2,2025|c:acl||1,2025|c:cvpr||2,2025|c:emnlp||3,2025|c:iclr||5,2025|c:icml||2,2025|c:naacl||1,2025|c:nips||7,2024|j:compsec||1,2024|c:acl-clinicalnlp||1,2024|c:cvpr||1,2024|c:emnlp||1,2024|c:emnlp|F|1,2024|c:iclr||4,2024|c:icml||7,2024|c:naacl||2,2024|c:nips||4
+SJHwang~2026~c:acl~~UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities~Woongyeong Yeo, Kangsan Kim 외 3명~~conf/acl/YeoKJBH26
+SJHwang~2026~c:cvpr~~Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation~Taekyung Ki, Sangwon Jang 외 3명~~conf/cvpr/KiJJYH26
+SJHwang~2026~j:tmlr~~Rethinking Reward Models for Multi-Domain Test-Time Scaling~Dong Bok Lee, Seanie Lee 외 13명~~journals/tmlr/LeeLPKBKWJLBWFHBS26
+SJHwang~2026~j:tmlr~~Towards Autoregressive Neural Network Parameter Generation~Bedionita Soro, Bruno Andreis 외 2명~~journals/tmlr/SoroACH26
+IMPACT=2026|j:jssc||6,2026|j:tbcas||2,2026|c:cicc||1,2026|c:iscas||2,2026|c:isscc||1,2025|j:aisy||1,2025|j:jssc||1,2025|j:tbcas||3,2025|j:tcasII||1,2025|c:aicas||1,2025|c:cicc||1,2025|c:iscas||5,2025|c:islped||1,2025|c:isscc||4,2024|j:access||1,2024|j:jssc||3,2024|j:tbcas||1,2024|j:tcasI||1,2024|c:asscc||4,2024|c:cicc||1,2024|c:iscas||11,2024|c:isocc||3,2024|c:isscc||1,2024|c:vlsit||4
+IMPACT~2026~j:jssc~~A Spike Sorting SoC With Δ-Based Spike Detection and End-to-End Implementation of Autoencoder Featur~Vincent Lukito, Edward Jongyoon Choi 외 3명~~journals/jssc/LukitoCCHJ26
+IMPACT~2026~j:jssc~~A Bio-Impedance Readout IC With Phase-Locked Sampling for Real-Time Electrical Impedance Spectroscop~Seonghyun Park, Song-I Cheon 외 4명~~journals/jssc/ParkCCOHJ26
+IMPACT~2026~j:jssc~~Verifica: Near-Memory Symbolic Interval Computing Formal Neural Network Verification Accelerator~Edward Jongyoon Choi, Byeongseon Choi 외 3명~~journals/jssc/ChoiCCJK26
+IMPACT~2026~j:jssc~~Human Limb ExG Monitoring System Using Four-Node Body Channel Communication With Adaptive Gain Contr~Song-I Cheon, Dongyoon Lee 외 4명~~journals/jssc/CheonLCPHJ26
+DSIL=2026|j:access||1
+DSIL~2026~j:access~~A Signal Integrity Design and Analysis Framework for Panel-Level RDL Interposer-Based Chiplet Interc~Jonghyeon Lee, Jiwoon Moon 외 3명~~journals/access/LeeMJKK26
+COMSTO=2026|j:access||1,2026|j:tmlr||1,2026|c:aaai||1,2026|c:iclr||1,2025|c:iclr||1,2024|j:tmc||1,2024|j:tnn||1,2024|c:aaai||1,2024|c:icml||1
+COMSTO~2026~c:iclr~~Identifying Robust Neural Pathways: Few-Shot Adversarial Mask Tuning for Vision-Language Models~Wonjeong Choi, Sejong Ryu 외 3명~~conf/iclr/ChoiRLHM26
+COMSTO~2026~c:aaai~~ProLoG: Hybrid Prompt and LoRA Based Adaptation of Vision-Language Models for OOD Generalization~Jungwuk Park, Dong-Jun Han, Jaekyun Moon~~conf/aaai/ParkHM26
+COMSTO~2026~j:tmlr~~PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion~Humaira Kousar, Hasnain Irshad Bhatti, Jaekyun Moon~~journals/tmlr/KousarBM26
+COMSTO~2025~c:iclr~~Adaptive Energy Alignment for Accelerating Test-Time Adaptation~Wonjeong Choi, Do-Yeon Kim 외 5명~~conf/iclr/Choi0PLPHM25
+EmbeddedAI=2026|j:ijcv||1,2026|c:percom||1,2026|c:wacv||1,2025|c:aaai||1,2025|c:cikm||1,2025|c:nips||1,2025|c:osdi||1,2024|c:accv||1,2024|c:aistats||1,2024|c:kdd||1
+EmbeddedAI~2026~j:ijcv~~Designing Extremely Memory-Efficient CNNs for On-device Vision and Audio Tasks~Yoel Park, Jaewook Lee, Seulki Lee~~journals/ijcv/ParkLL26
+EmbeddedAI~2025~c:nips~~AliO: Output Alignment Matters in Long-Term Time Series Forecasting~Kwangryeol Park, Jaeho Kim, Seulki Lee~~conf/nips/ParkKL25
+EmbeddedAI~2025~c:aaai~~SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization~Kwangryeol Park, Seulki Lee~~conf/aaai/Park025
+EmbeddedAI~2025~c:cikm~~Smart ECU: Scalable On-Vehicle Deployment of Drivetrain Fault Classification Systems~Jaeho Kim, Kwangryeol Park 외 8명~~conf/cikm/KimPLOPOCLS025
+EPIC=2026|j:access||1,2026|j:tcasI||1,2026|j:tcasai||2,2026|c:date||1,2026|c:iscas||2,2026|c:isscc||2,2025|j:jssc||2,2025|j:tcasI||1,2025|j:tcasII||1,2025|j:titb||3,2025|j:tvt||1,2025|c:apccas||3,2025|c:aspdac||1,2025|c:hpca||1,2025|c:islped||1,2024|j:tcasI||3,2024|j:tcasII||1,2024|j:twc||1,2024|j:wcl||1,2024|c:asscc||1,2024|c:dac||1,2024|c:iscas||1,2024|c:isscc||1
+EPIC~2026~c:isscc~~UniC-Vision: A 14.4Gb/s 7.3pJ/b Universal Vision Transformer OFDM Channel Estimation Accelerator~Sangbu Yun, Chanhee Lee 외 4명~~conf/isscc/YunLKCZL26
+EPIC~2026~c:isscc~~LUT-SSM: A 99.3TFLOPS/W LUT-Based State-Space Model Accelerator Using Energy-Efficient Element-~Sunwoo Yoo, Dongyun Kam 외 4명~~conf/isscc/YooKPKLL26
+EPIC~2025~j:jssc~~Energy-Efficient Flexible RNS-CKKS Processor for FHE-Based Privacy-Preserving Computing~Hyeokjun Kwon, Hyunhoon Lee 외 2명~~journals/jssc/KwonLJL25
+EPIC~2025~j:jssc~~Area-Efficient Non-Binary LDPC Decoder With Column-Wise Trellis Min-Max Algorithm~Jeongwon Choe, Youngjoo Lee~~journals/jssc/ChoeL25
+SEED=2026|c:dac||2,2025|j:lssc||1,2025|c:iccad||1,2024|j:jssc||1,2024|j:tcasII||1,2024|c:asscc||2,2024|c:dac||1,2024|c:iccad||1,2024|c:iscas||2,2024|c:vlsit||1
+SEED~2026~c:dac~~UNCHARTED: A Universal Circuit Design Hierarchical Model based on Auto-Regressive Spatio-Temporal Gr~Xinyu Chen, Wanyeong Jung~~conf/dac/ChenJ26
+SEED~2026~c:dac~~B-Flex: Exploration of Broader Flip-Flop Design Space Based on FSM Exhaustive Search~Hyunsung Jeong, Kyounghun Kang 외 2명~~conf/dac/JeongKJL26
+SEED~2025~c:iccad~~TickTockStack: In-Datapath Current Imbalance Elimination Using Clocked Differential Logic~Michal Andrzej Gorywoda, Wanyeong Jung~~conf/iccad/GorywodaJ25
+SEED~2024~j:jssc~~A High-Resolution Pipelined-SAR ADC Using Cyclically Charged Floating Inverter Amplifier~Changjoo Park, Jeongmyeong Kim 외 5명~~journals/jssc/ParkKKYMLJ24
+SoundLab=2026|c:interspeech||3,2025|c:icassp||2,2025|c:nips||1,2024|j:taslp||2,2024|c:icassp||2,2024|c:interspeech||1,2024|c:iwaenc||1
+SoundLab~2026~c:interspeech~~MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation~Dohwan Kim, Jung-Woo Choi~~conf/interspeech/KimC26a
+SoundLab~2026~c:interspeech~~RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis~Yongjoon Lee, Jung-Woo Choi~~conf/interspeech/LeeC26
+SoundLab~2025~c:icassp~~Multichannel-to-Multichannel Target Sound Extraction Using Direction and Timestamp Clues~Dayun Choi, Jung-Woo Choi~~conf/icassp/ChoiC25
+Forecasting=2025|j:cbm||1
+SeunghwaLab=2026|j:cmpb||1,2026|j:eswa||1,2026|j:jim||1,2026|j:npjdm||1
+SeunghwaLab~2026~j:cmpb~~Morphology-, noise-, and resolution-robust ultrasound elasticity imaging with Fourier neural operato~Heekyu Kim, Hugon Lee 외 2명~~journals/cmpb/KimLPR26
+SeunghwaLab~2026~j:eswa~~DRL-based injection molding process parameter optimization for profit-aware adaptive process control~Joon-Young Kim, Jecheon Yu 외 2명~~journals/eswa/KimYKR26
+SeunghwaLab~2026~j:jim~~Optimizing chamber systems for deposition processes in the semiconductor industry with deep learning~Donggeun Park, Hanbin Cho 외 3명~~journals/jim/ParkCKJR26
+SBML=2025|j:cbm||1
+SBML~2025~j:cbm~~Predicting the physiological effects of multiple drugs using electronic health record~Junhyeok Jeon, Eujin Hong 외 3명~~journals/cbm/JeonHKLK25
+AAI=2026|j:jacic||1,2026|c:iclr||4,2025|j:jasss||1,2025|j:prl||1,2025|j:systems||1,2025|c:annsim||1,2025|c:iclr||3,2025|c:nips||3,2024|c:aaai||1,2024|c:acl||1,2024|c:iclr||5,2024|c:icml||2,2024|c:wsc||1
+AAI~2026~c:iclr~~Distillation of Large Language Models via Concrete Score Matching~Yeongmin Kim, Donghyeok Shin 외 3명~~conf/iclr/KimSKNM26
+AAI~2026~c:iclr~~Semantic-aware Wasserstein Policy Regularization for Large Language Model Alignment~Byeonghu Na, Hyungho Na 외 5명~~conf/iclr/NaNKJBKM26
+AAI~2026~c:iclr~~AC-Sampler: Accelerate and Correct Diffusion Sampling with Metropolis-Hastings Algorithm~Minsang Park, Gyuwon Sim 외 8명~~conf/iclr/ParkSNKLKSNKM26
+AAI~2026~c:iclr~~AMiD: Knowledge Distillation for LLMs with α-mixture Assistant Distribution~Donghyeok Shin, Yeongmin Kim 외 3명~~conf/iclr/ShinKJNM26
+IDOL=2026|j:aei||2,2026|j:aes||1,2026|j:candie||1,2026|j:kbs||1,2026|j:ress||4,2026|j:tr||1,2025|j:eswa||1,2025|j:ress||1,2024|j:aes||1,2024|j:kbs||1
+IDOL~2026~j:aes~~Domain-embedded deep learning frameworks for topology optimization: Enhancing structural performance~Geonwoo Lee, Mingyu Lee, Ikjin Lee~~journals/aes/LeeLL26
+IDOL~2026~j:aei~~A novel adaptive quality-based multi-fidelity surrogate framework for multiple low-fidelity data sou~Mingyu Lee, Juyoung Lee 외 3명~~journals/aei/LeeLCKL26
+IDOL~2026~j:aei~~A novel low-fidelity-guided design of experiments for multi-fidelity surrogate modeling~Mingyu Lee, Juyoung Lee 외 2명~~journals/aei/LeeLSL26
+IronTiger=2026|j:itm||1,2025|j:isr||1,2024|j:dss||1,2024|j:iam||1,2024|c:icis||1
+IronTiger~2026~j:itm~~Personalized vs. non-personalized engagement for at-risk new users in data-scarce contexts~Sumin Lim, Chul Ho Lee 외 2명~~journals/itm/LimLCK26
+IronTiger~2025~j:isr~~Two-Sided Impacts of Service Provider's Identity Disclosure in e-Customer Service Platforms~Sunghun Chung, JaeHwuen Jung 외 3명~~journals/isr/ChungJPLC25

@@ -1,0 +1,98 @@
+#id	ko	en	depts	labname	url	area
+NetSP	강민석	Min Suk Kang	CS	네트워크 보안 및 프라이버시 연구실	https://netsp.kaist.ac.kr/	Network and distributed system security
+CySec	강병훈	Brent Byunghoon Kang	CS	사이버 보안 시스템 연구실	https://cysec.kaist.ac.kr/	시스템 보안
+WebEng	고인영	In-Young Ko	CS	웹 공학 및 서비스 컴퓨팅 연구실	https://webeng.kaist.ac.kr/	소프트웨어공학, 웹공학, 서비스 컴퓨팅
+CASYS-Kwon	권영진	Youngjin Kwon	CS	컴퓨터구조 및 시스템 연구실	https://sites.google.com/view/yjkwon/home	운영체제, 시스템 보안
+LDIS	김경민	Kyoungmin Kim	CS	Lab of Data & AI-Intensive Systems	https://ldis.kaist.ac.kr	Database System
+DEAL	김대영	Daeyoung Kim	CS	AI² 연구실	https://www.deal.kaist.ac.kr/	사물인터넷, 데이터공학, 딥러닝
+SWTV	김문주	Moonzoo Kim	CS	소프트웨어 테스팅 및 검증 연구실	https://swtv.kaist.ac.kr/	소프트웨어 테스팅, 소프트웨어 디버깅, 소프트웨어 공학
+InfoLab	김민수	Min-Soo Kim	CS	인포랩	http://infolab.kaist.ac.kr/	데이터베이스, 데이터마이닝·기계학습, 메디컬·바이오인포매틱스
+VCLab	김민혁	Min H. Kim	CS	비주얼 컴퓨팅 연구실	http://vclab.kaist.ac.kr/	컴퓨터그래픽스, 컴퓨터비전, 머신러닝
+ECL	김순태	Soontae Kim	CS	임베디드 컴퓨팅 연구실	http://ecl.kaist.ac.kr	임베디드 컴퓨팅, 컴퓨터 구조, 저전력, 신뢰성, 시큐리티
+Simplexity	김은정	Eun Jung Kim	CS	알고리즘·복잡도 연구실	https://ssimplexity.github.io/	알고리즘 설계, 계산 복잡도, 구조적 그래프 이론
+KIXLab	김주호	Juho Kim	CS	인터랙션 연구실	https://www.kixlab.org/	HCI, 인간-AI 상호작용, 소셜 컴퓨팅, 크라우드소싱, 온라인 교육
+CVML-TK	김태균	Tae-Kyun Kim	CS	컴퓨터 비전 및 머신 러닝 랩	https://sites.google.com/view/tkkim/	컴퓨터비전, 기계학습
+DICE	김혁	Hyeok Kim	CS	Data, Interaction, Context, and Experience (DICE) Lab	https://hyeok.me	HCI, 데이터 시각화
+MLV	김현우	Hyunwoo J. Kim	CS	기계학습 및 비전 연구실	http://hyunwoojkim.com	인공지능, 컴퓨터 비전, 기계 학습
+PLRG	류석영	Sukyoung Ryu	CS	프로그래밍 언어 연구 그룹	https://plrg.kaist.ac.kr/	프로그래밍 언어, 프로그램 분석, 컴파일러
+AN	문수복	Sue Moon	CS	첨단 네트워킹 연구실	http://an.kaist.ac.kr/	네트워크 플랫폼, 온라인 소셜 네트워크
+BigDyL	박노성	Noseong Park	CS	빅데이터 분석 및 학습 연구실	https://sites.google.com/view/noseong	머신러닝
+RIRO	박대형	Daehyung Park	CS	강인 지능 및 로보틱스 연구실	https://rirolab.kaist.ac.kr/	로보틱스, 머신러닝, 인공지능
+CASYS-Park	박종세	Jongse Park	CS	컴퓨터구조 및 시스템 연구실	https://casys.kaist.ac.kr/	컴퓨터 시스템·구조, AI 시스템, HW-SW 코디자인
+NLPCL	박종철	Jong C. Park	CS	자연언어처리 및 계산언어학 연구실	http://nlpcl.kaist.ac.kr/	자연언어처리, 계산언어학, 바이오인포매틱스
+CGV	박진아	Jinah Park	CS	컴퓨터 그래픽스 및 가시화 연구실	http://cgv.kaist.ac.kr	컴퓨터그래픽스, 의료영상, 햅틱스, 데이터 시각화
+SPIRAL	백종문	Jongmoon Baik	CS	소프트웨어 프로세스 개선 및 신뢰성 검증 연구실	http://spiral.kaist.ac.kr/	소프트웨어공학
+VisualAI	성민혁	Minhyuk Sung	CS,AIC	KAIST Visual AI Group	https://visualai.kaist.ac.kr/	기계 학습, 컴퓨터 그래픽, 컴퓨터 비전, 기하 처리
+WSP	손수엘	Sooel Son	CS	웹 보안 및 개인정보 보호 연구실	https://sites.google.com/site/ssonkaist/	웹보안, 프라이버시, 프로그램 분석
+NCLab	송준화	Junehwa Song	CS	NC 연구실	http://nclab.kaist.ac.kr/	운영체제, 모바일, IoT 시스템, 소셜 컴퓨팅
+CST	시어링 조셉	Joseph Seering	CS	협동 사회 기술 연구실	http://joseph.seering.org/	HCI, 소셜 컴퓨팅
+CPS	신인식	Insik Shin	CS	사이버 물리 시스템 연구실	http://cps.kaist.ac.kr/	실시간 임베디드 시스템, 사이버-피지컬 시스템
+MLML	안성진	Sungjin Ahn	CS,AIC	머신러닝 & 마인드 랩	https://mlml.kaist.ac.kr/	기계학습, 강화학습, 로봇학습, 월드 모델
+AMI	오태현	Tae-Hyun Oh	CS	기계 지능 연구실	https://ami.kaist.ac.kr	컴퓨터 비전, 머신 러닝, 컴퓨터 그래픽스
+UILab	오혜연	Alice Oh	CS	Users and Information Lab	http://uilab.kr/	기계학습, 자연어처리, 전산사회과학
+Wiederrecht	위다레흐트 세버스티언	Sebastian Wiederrecht	CS	구조적 그래프 이론 연구실	https://www.wiederrecht.com/	그래프 이론, 매개변수 복잡도
+COINSE	유신	Shin Yoo	CS	계산지능형 소프트웨어 공학 연구실	https://coinse.github.io	소프트웨어공학, 소프트웨어 테스팅
+SGLab	윤성의	Sung-Eui Yoon	CS	스케일러블 그래픽스·비전·로보틱스 연구실	http://sglab.kaist.ac.kr/	컴퓨터그래픽스, 컴퓨터비전, 로보틱스
+HCIL	이기혁	Geehyuk Lee	CS	인간 컴퓨터 상호 작용 연구실	https://hcil.kaist.ac.kr/	HCI, 인터랙션 장치 및 테크닉
+ICLab	이의진	Uichin Lee	CS,AIC	인터랙티브 컴퓨팅 연구실	https://ic.kaist.ac.kr/	HCI, 유비쿼터스 컴퓨팅, 디지털 헬스
+DMLab	이재길	Jae-Gil Lee	CS	데이터 마이닝 연구실	https://dm.kaist.ac.kr/	빅데이터, 데이터마이닝, 딥러닝
+CryptLab	이주영	Jooyoung Lee	CS	암호론 연구실	https://sites.google.com/view/cryptlab/home	암호론, 조합론
+NMAIL	조성호	Sungho Jo	CS	뉴로-기계 증강지능 연구실	http://nmail.kaist.ac.kr/	증강지능, 생체신호기반 상호작용, 지능 로봇
+Ziegler	지글러 마틴	Martin Ziegler	CS	복잡도 및 실수 연산 연구실	http://ziegler.theoryofcomputation.asia	전산이론, 복잡도, 실수 연산
+DSLab	차미영	Meeyoung Cha	CS	데이터 사이언스 연구실	https://ds.ibs.re.kr/	데이터과학, 전산사회과학, 통계분석
+SoftSec	차상길	Sang Kil Cha	CS	소프트웨어 보안 연구실	https://softsec.kaist.ac.kr/	소프트웨어 보안, 프로그램 분석
+GCLab	최성희	Sunghee Choi	CS	기하 컴퓨팅 연구실	https://sites.google.com/view/kaist-gclab	계산기하학, 컴퓨터그래픽스
+ISILab	한동수	Dongsoo Han	CS	지능형 서비스 통합 연구실	https://sites.google.com/view/isilab	실내 GPS, 위치기반 서비스
+QCrypto	한민기	Minki Hhan	CS	양자암호 연구실	https://hhanmk.github.io/	양자 컴퓨팅, 암호, 계산 복잡도
+CyPhy	한준	Jun Han	CS	센싱 지능 및 사이버-물리 보안 연구실	https://www.junhan.org/	IoT·CPS 보안
+PSL	허기홍	Kihong Heo	CS	프로그래밍 시스템 연구실	https://kihongheo.kaist.ac.kr	프로그램 분석, 프로그래밍 언어, 소프트웨어 보안
+CASYS-Huh	허재혁	Jaehyuk Huh	CS	컴퓨터구조 및 시스템 연구실	https://jaehyuk-huh.github.io/	컴퓨터구조, 시스템 소프트웨어, 시스템 보안
+VLLab	홍승훈	Seunghoon Hong	CS,AIC	비전 및 학습 연구실	https://vllab.kaist.ac.kr/	기계학습, 컴퓨터비전
+BDI	황지영	Joyce Jiyoung Whang	CS,AIC	빅데이터 지능 연구실	https://bdi-lab.kaist.ac.kr/	인공지능, 데이터 마이닝, 기계학습
+CDSN	이동만	Dongman Lee	CS	협동 분산 시스템 및 네트워크 연구실	http://cds.kaist.ac.kr	에지컴퓨팅, 어반컴퓨팅, 유비쿼터스컴퓨팅
+KEAI	최호진	Ho-Jin Choi	CS	지식공학 및 인공지능 연구실	https://keai.kaist.ac.kr	인공지능, 소프트웨어공학
+LANADA	정송	Song Chong	GSAI	LANADA 연구실	https://lanada.kaist.ac.kr/	강화학습, 분산 학습
+AIPR	김기응	Kee-Eung Kim	GSAI	인공지능 및 확률추론 연구실	http://ailab.kaist.ac.kr/users/kekim	머신러닝, 인공지능, 강화학습
+IM2	김범준	Beomjoon Kim	GSAI	Intelligent Mobile Manipulation Lab	https://beomjoonkim.github.io	로보틱스, 머신러닝, 플래닝
+SehoonKim	김세훈	Sehoon Kim	GSAI	Efficient AI 연구실	https://sehoonkim.org	AI 시스템, 효율적 AI, 대형 언어모델
+CVLAB	김승룡	Seungryong Kim	GSAI	컴퓨터 비전 연구실	https://cvlab.kaist.ac.kr/	컴퓨터 비전, 머신러닝
+GLOW	김승욱	Seungwook Kim	GSAI	GLOW Lab	https://glow-lab-kaist.github.io/	생성 모델, 뉴럴 시뮬레이션
+HyunwooKim	김현우(AI)	Hyunwoo Kim	GSAI	언어·추론·사회지능 연구실	https://hyunw.kim	언어 모델, 추론, 인지, 사회 지능
+LKLab	서민준	Minjoon Seo	GSAI	Language & Knowledge Lab	https://lklab.kaist.ac.kr/	자연어처리, 지식베이스, 대규모 머신러닝
+DIVE	신기정	Kijung Shin	GSAI	데이터 마이닝 연구실(DIVE)	https://kijungs.github.io	데이터 마이닝, 그래프 알고리즘
+ALIN	신진우	Jinwoo Shin	GSAI	ALIN Lab	https://alinlab.kaist.ac.kr/	머신러닝
+CVML-Shim	심현정	Hyunjung Shim	GSAI	컴퓨터 비전·머신러닝 연구실	https://sites.google.com/view/cvml-kaist	컴퓨터 비전, 머신러닝
+SungsooAhn	안성수	Sungsoo Ahn	GSAI	분자 머신러닝 연구실	https://sites.google.com/view/sungsooahn0215	분자를 위한 머신러닝
+MLI	양은호	Eunho Yang	GSAI	Machine Learning & Intelligence Lab	https://mli.kaist.ac.kr	머신러닝, 인공지능
+BISPL	예종철	Jong Chul Ye	GSAI	바이오 영상 및 신호처리 연구실	https://bispl-website.github.io/	의료영상 AI, 컴퓨터 비전, 생성 모델
+STAI	오성준	Seong Joon Oh	GSAI	Scalable Trustworthy AI Lab	https://stai-lab.org	에이전트 AI, 신뢰할 수 있는 AI, AI 안전
+OSI	윤세영	Se-Young Yun	GSAI	최적화 및 통계 추론 연구실	https://osi.kaist.ac.kr/	머신러닝, 통계적 추론
+OptiML	윤철희	Chulhee Yun	GSAI	최적화·딥러닝 이론 연구실	https://chulheeyun.github.io	최적화, 머신러닝·딥러닝 이론
+KiminLee	이기민	Kimin Lee	GSAI	강화학습 연구실	https://sites.google.com/view/kiminlee	인공지능, 강화학습
+SIML	이주호	Juho Lee	GSAI	Statistical Inference & ML Lab	https://siml.kaist.ac.kr/	머신러닝, 베이지안 모델
+CLVR	임재환	Joseph J. Lim	GSAI	Cognitive Learning for Vision and Robotics Lab	https://www.clvrai.com	로봇 학습, 강화학습, 컴퓨터 비전
+DAVIAN	주재걸	Jaegul Choo	GSAI	DAVIAN 연구실	https://sites.google.com/site/jaegulchoo	컴퓨터 비전, 자연어처리, 시각적 분석
+EdLab	최윤재	Edward Choi	GSAI	Edward Choi Lab	http://mp2893.com	머신러닝, 헬스케어, 자연어처리
+SAIL	최재식	Jaesik Choi	GSAI	설명가능 인공지능 연구실	http://sailab.kaist.ac.kr	추론·예측, 설명가능 인공지능
+INA	한동수(EE)	Dongsu Han	GSAI	네트워크 및 AI 시스템 연구실	https://ina.kaist.ac.kr/	AI를 위한 시스템, 시스템을 위한 AI
+SJHwang	황성주	Sung Ju Hwang	GSAI	Machine Learning and AI Lab	https://www.mlai-kaist.com/	머신러닝, 인공지능
+IMPACT	제민규	Minkyu Je	AIS	IMPACT 연구실	https://impact.kaist.ac.kr/	집적회로, 바이오메디컬·AI 반도체
+DSIL	권지민	Jimin Kwon	AIS	DSIL	https://dsil.kaist.ac.kr/	AI 시스템을 위한 3D IC·첨단 패키징
+COMSTO	문재균	Jaekyun Moon	AIS	통신·저장 연구실	http://comstolab.kaist.ac.kr/	AI/ML, 분산 스토리지, 정보이론
+EmbeddedAI	이슬기	Seulki Lee	AIS	임베디드 AI 연구실	https://sites.google.com/view/embeddedai	온디바이스 AI, 임베디드 AI 시스템
+EPIC	이영주	Youngjoo Lee	AIS	EPIC Lab	https://sites.google.com/view/epiclab	AI 가속기, 고효율 디지털 회로·시스템
+SEED	정완영	Wanyeong Jung	AIS	SEED Lab	https://seed.kaist.ac.kr/	에너지 효율 회로, AI 하드웨어
+SoundLab	최정우	Jung-Woo Choi	AIS	음향·소리 지능 연구실	http://sound.kaist.ac.kr/	음향 신호처리, 오디오 AI
+MELab	김형준	Hyungjun Kim	FX	MELab	https://melab.kaist.ac.kr/	AI 미래 전략
+SKimLab	김승겸	Seunggyum Kim	FX	도시시스템 연구실	https://sites.google.com/view/skim-lab	AI 기반 도시시스템 분석·정책, 기후 적응, 부동산 분석
+DALI	김정남	Jungnam Kim	FX	DALI Lab	https://dali.kaist.ac.kr/	AI 안전·거버넌스, AI 편향 완화, 정보 생태계
+JonWoojung	전우정	Woojung Jon	FX	IP·핀테크 법 연구실	https://sites.google.com/view/jonwoojung	IP 금융, 특허·저작권, 블록체인, 핀테크, 리걸테크
+Forecasting	전주영	Jooyoung Jeon	FX	확률적 예측 연구실	http://forecasting.kaist.ac.kr/	확률적 미래 예측, 리스크 추정, 데이터 기반 의사결정
+SeunghwaLab	유승화	Seunghwa Ryu	AX	다중물리 모델링 연구실	https://sites.google.com/site/seunghwalab/	물리 기반 AI, 다중물리 모델링, AI 기반 설계
+KwonLab	권태혁	Tae-Hyuk Kwon	AX	지반·환경 공학 연구실	http://kwon.kaist.ac.kr/	지반공학, 데이터 기반 모델링
+SBML	김현욱	Hyun Uk Kim	AX	시스템 생물학·머신러닝 연구실	https://sbml.kaist.ac.kr/	시스템 생물학, 합성 생물학, 시스템 의학
+AAI	문일철	Il-Chul Moon	AX	응용 인공지능 연구실	https://aai.kaist.ac.kr/	생성 모델, 확률 모델
+SongLab	송지준	Ji-Joon Song	AX	분자 기계 연구실	https://www.song-kaist.org/	분자 기계, 유전자 조절, 신경퇴행성 질환
+IDOL	이익진	Ikjin Lee	AX	IDOL 연구실	http://idol.kaist.ac.kr/	데이터 기반 모델링, 설계 최적화, 데이터 융합
+IronTiger	이철호	Chul Ho Lee	AX	이철호 교수 연구실	http://sites.google.com/view/irontigerlee-kaist	AX
+FTPL	황준식	Junsik Hwang	AX	FTPL	https://ftpl.kaist.ac.kr/home	AX

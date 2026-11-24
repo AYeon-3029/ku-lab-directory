@@ -4,22 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20viewBox=%220%200%2040%2040%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Crect%20x=%222%22%20y=%223%22%20width=%2236%22%20height=%2234%22%20rx=%229%22%20fill=%22%23A6192E%22/%3E%3Cpath%20d=%22M10%2014L18%2021L10%2028%22%20stroke=%22%23fff%22%20stroke-width=%224%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20fill=%22none%22/%3E%3Crect%20x=%2220%22%20y=%2225%22%20width=%2211%22%20height=%224.5%22%20rx=%221.5%22%20fill=%22%23fff%22/%3E%3C/svg%3E">
-<title>KU Computer Science Directory — 고려대 컴퓨터 분야 연구실</title>
+<title>컴랩 · 고려대 — 고려대 컴퓨터 분야 연구실</title>
 <meta name="description" content="고려대학교 정보대학·공과대학 연구실을 연구 분야(대분류·중분류·세부), 학회 등급(T1/T2), 학부 인턴 지표로 정리한 디렉토리">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="KU Computer Science Directory">
-<meta property="og:url" content="https://ku-lab-directory.vercel.app/">
-<meta property="og:title" content="KU Computer Science Directory — 고려대 컴퓨터 분야 연구실">
+<meta property="og:site_name" content="컴랩">
+<meta property="og:url" content="https://ku-lab-directory.vercel.app/ku/">
+<meta property="og:title" content="컴랩 · 고려대 — 고려대 컴퓨터 분야 연구실">
 <meta property="og:description" content="고려대 컴퓨터학과·인공지능학과·데이터과학과·전기전자공학부·기계공학부 연구실 132곳을 연구 분야, 2024–26 논문 실적(T1/T2), 학부 인턴, 졸업생 진로로 한눈에 비교해 보세요.">
-<meta property="og:image" content="https://ku-lab-directory.vercel.app/og.png">
+<meta property="og:image" content="https://ku-lab-directory.vercel.app/ku/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="KU Computer Science Directory — 고려대 컴퓨터 분야 연구실 132곳">
+<meta property="og:image:alt" content="컴랩 · 고려대 — 고려대 컴퓨터 분야 연구실 132곳">
 <meta property="og:locale" content="ko_KR">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="KU Computer Science Directory">
+<meta name="twitter:title" content="컴랩 · 고려대">
 <meta name="twitter:description" content="고려대 컴퓨터학과·인공지능학과·데이터과학과·전기전자공학부·기계공학부 연구실 132곳을 연구 분야, 2024–26 논문 실적(T1/T2), 학부 인턴, 졸업생 진로로 한눈에 비교해 보세요.">
-<meta name="twitter:image" content="https://ku-lab-directory.vercel.app/og.png">
+<meta name="twitter:image" content="https://ku-lab-directory.vercel.app/ku/og.png">
 <meta name="theme-color" content="#A6192E">
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"></noscript>
@@ -43,7 +43,13 @@ button{font-family:inherit;cursor:pointer;color:inherit;background:none}
 
 header.top{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--line)}
 .top .wrap{display:flex;align-items:center;gap:14px;height:64px}
-.top a.home{display:flex;align-items:center;gap:12px;text-decoration:none}
+.top a.home{display:flex;align-items:center;gap:12px;text-decoration:none;min-width:0}
+.schools{margin-left:auto;display:flex;align-items:center;gap:4px;background:var(--bg-2);border:1px solid var(--line);border-radius:999px;padding:3px}
+.schools a{display:inline-flex;align-items:center;gap:5px;text-decoration:none;font-size:13px;font-weight:650;color:var(--ink-2);padding:6px 12px;border-radius:999px;white-space:nowrap;transition:background-color .18s ease,color .18s ease}
+.schools a.on{background:#fff;color:var(--crimson-ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.schools a.hm{color:var(--ink-3)}
+@media (hover:hover) and (pointer:fine){.schools a:not(.on):hover{color:var(--ink)}}
+@media (max-width:560px){.schools a.hm span{display:none}.schools a{padding:6px 10px;font-size:12.5px}.top .brand span{display:none}}
 .logo{width:38px;height:38px;flex:none;display:block;filter:drop-shadow(0 2px 4px rgba(166,25,46,.25))}
 .kv.kv2{grid-template-columns:1fr 1fr}
 .v.na{white-space:nowrap;color:var(--ink-3);font-weight:600;font-size:15px}
@@ -331,7 +337,7 @@ nav.tabs a:hover{background:var(--bg-2);color:var(--ink)}
 .big:hover{border-color:#cfd3da}
 .chip:hover{border-color:#cfd3da}
 .tile:hover{border-color:var(--crimson-line);background:var(--crimson-soft)}
-.tile.on:hover{background:var(--crimson-ink)}
+.tile.on:hover{background:var(--crimson)}
 a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);transform:translateY(-1px)}
 .crumb a:hover{color:var(--crimson)}
 .back:hover{border-color:#cfd3da}
@@ -339,19 +345,21 @@ a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);trans
 .paper .t a:hover{color:var(--crimson)}
 }
 @media (hover:none){a.card:active{border-color:#d5d8de;background:var(--bg-2)}.tile:active,.big:active,.chip:active,.back:active{border-color:var(--crimson-line)}}
+.tile:focus{outline:none}.tile:focus-visible{outline:2px solid var(--crimson-line);outline-offset:2px}
 </style>
 </head>
 <body>
-<div id="boot" role="status" aria-label="불러오는 중"><div class="bx"><svg viewBox="0 0 40 40" aria-hidden="true"><rect x="2" y="3" width="36" height="34" rx="9" fill="#A6192E"/><rect x="2" y="3" width="36" height="9" rx="9" fill="#8A1426"/><rect x="2" y="9" width="36" height="3" fill="#8A1426"/><circle cx="9" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="13.5" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="18" cy="8" r="1.5" fill="#FFD7DD"/><path d="M10 18L16 23.5L10 29" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="19" y="27" width="10" height="3" rx="1.2" fill="#fff"/></svg><div><b>KU Computer Science Directory</b><code><em>$</em> loading labs…</code></div></div><svg class="spin" viewBox="0 0 36 36" aria-hidden="true"><circle class="trk" cx="18" cy="18" r="15"/><circle class="arc" cx="18" cy="18" r="15" pathLength="100"/></svg></div>
+<div id="boot" role="status" aria-label="불러오는 중"><div class="bx"><svg viewBox="0 0 40 40" aria-hidden="true"><rect x="2" y="3" width="36" height="34" rx="9" fill="#A6192E"/><rect x="2" y="3" width="36" height="9" rx="9" fill="#8A1426"/><rect x="2" y="9" width="36" height="3" fill="#8A1426"/><circle cx="9" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="13.5" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="18" cy="8" r="1.5" fill="#FFD7DD"/><path d="M10 18L16 23.5L10 29" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="19" y="27" width="10" height="3" rx="1.2" fill="#fff"/></svg><div><b>컴랩 · 고려대</b><code><em>$</em> loading labs…</code></div></div><svg class="spin" viewBox="0 0 36 36" aria-hidden="true"><circle class="trk" cx="18" cy="18" r="15"/><circle class="arc" cx="18" cy="18" r="15" pathLength="100"/></svg></div>
 <header class="top">
   <div class="wrap">
-    <a class="home" href="#"><svg class="logo" viewBox="0 0 40 40" aria-hidden="true"><rect x="2" y="3" width="36" height="34" rx="9" fill="#A6192E"/><rect x="2" y="3" width="36" height="9" rx="9" fill="#8A1426"/><rect x="2" y="9" width="36" height="3" fill="#8A1426"/><circle cx="9" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="13.5" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="18" cy="8" r="1.5" fill="#FFD7DD"/><path d="M10 18L16 23.5L10 29" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect class="cur" x="19" y="27" width="10" height="3" rx="1.2" fill="#fff"/></svg><div class="brand"><b>KU Computer Science Directory</b><span>KOREA UNIVERSITY · LABS</span></div></a>
+    <a class="home" href="#"><svg class="logo" viewBox="0 0 40 40" aria-hidden="true"><rect x="2" y="3" width="36" height="34" rx="9" fill="#A6192E"/><rect x="2" y="3" width="36" height="9" rx="9" fill="#8A1426"/><rect x="2" y="9" width="36" height="3" fill="#8A1426"/><circle cx="9" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="13.5" cy="8" r="1.5" fill="#FFD7DD"/><circle cx="18" cy="8" r="1.5" fill="#FFD7DD"/><path d="M10 18L16 23.5L10 29" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect class="cur" x="19" y="27" width="10" height="3" rx="1.2" fill="#fff"/></svg><div class="brand"><b>컴랩</b><span>KOREA UNIVERSITY · LABS</span></div></a>
+    <nav class="schools" aria-label="학교 이동"><a class="hm" href="/" title="컴랩 홈"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg><span>컴랩 홈</span></a><a class="on" href="/ku/">고려대</a><a href="/kaist/">KAIST</a></nav>
   </div>
 </header>
 
 <main class="wrap" id="listView">
   <section class="hero">
-    <p class="eyebrow">Korea University · Computer Science Directory</p>
+    <p class="eyebrow">컴랩 · Korea University</p>
     <h1 id="heroTitle">고려대 컴퓨터학과 연구실 디렉토리</h1>
     <div class="depts" id="depts"></div>
     <div class="stats" id="stats"></div>
@@ -360,7 +368,7 @@ a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);trans
   <section class="block" id="browse">
     <form class="search" id="sform" role="search">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-      <input id="q" type="text" enterkeyhint="search" placeholder="예: World Model, 퍼징, LLM 서빙, 햅틱, 교수 이름" autocomplete="off">
+      <input id="q" type="text" enterkeyhint="search" placeholder="예: MINT Lab, 지능시스템망 연구실, 교수 이름, World Model, LLM 서빙" autocomplete="off">
       <button type="submit" class="go-btn">찾기</button>
     </form>
     <div id="topicHits"></div>
@@ -535,10 +543,24 @@ function card(l){
     <div class="go">연구실 자세히 보기 →</div>
   </a>`;
 }
+const NORM = s => String(s||'').toLowerCase().replace(/[\s\-_&·.,/()'’]+/g,'');
+const SUFFIX = /(laboratory|lab|group|연구실|랩)$/;
+function qparts(){ const n = NORM(state.q); const core = n.replace(SUFFIX,''); return {n, core: core.length >= 2 ? core : n}; }
+function nameRank(l){
+  if (!state.q) return 9;
+  const {n, core} = qparts(); const s = NORM(l.short), k = NORM(l.name), sc = s.replace(SUFFIX,''), kc = k.replace(SUFFIX,'');
+  if (s === n || sc === core || k === n || kc === core) return 0;
+  if (s.startsWith(core) || k.startsWith(core)) return 1;
+  const words = (l.short+' '+l.name).toLowerCase().split(/[^0-9a-z가-힣]+/).filter(Boolean);
+  if (/[가-힣]/.test(core) ? k.includes(core) : words.some(w => w.startsWith(core))) return 2;
+  if (l.pis.concat(l.pisEn).some(p => NORM(p).includes(n))) return 3;
+  return 9;
+}
 function matches(l){
   if (state.sel.size) { if (![...state.sel].some(f => hasFine(l, f))) return false; }
   else if (state.open.size && !l.tax.some(t => state.open.has(t.big))) return false;
   if (state.q) {
+    if (nameRank(l) < 9) return true;
     const hay = [l.short, l.name, l.focus, ...l.pis, ...l.pisEn, ...l.tax.flatMap(t => [BIG[t.big].name, MID[t.mid].name, ...t.fine, ...t.fine.map(enOf)]), ...(l.pubs ? l.pubs.recent.map(r => r.title) : []),
       ...(l.pubs ? l.pubs.venues.map(v => v[1]) : []), ...(l.keywords||[]).map(k => k[0])].join(' ').toLowerCase();
     if (!hay.replace(/[-_]/g,' ').includes(state.q.toLowerCase().replace(/[-_]/g,' ').replace(/\s+/g,' '))) return false;
@@ -554,7 +576,7 @@ const key = {
 };
 function render(){
   drawTax();
-  const list = labs.filter(matches).sort((a,b) => (b.pubs?b.pubs.T1:-1) - (a.pubs?a.pubs.T1:-1) || (b.pubs?b.pubs.total:-1) - (a.pubs?a.pubs.total:-1));
+  const list = labs.filter(matches).sort((a,b) => nameRank(a) - nameRank(b) || (b.pubs?b.pubs.T1:-1) - (a.pubs?a.pubs.T1:-1) || (b.pubs?b.pubs.total:-1) - (a.pubs?a.pubs.total:-1));
   const active = state.sel.size || state.open.size || state.q;
   $('#explore').classList.toggle('hidden', !!state.q);
   const what = (state.sel.size ? '' : [...state.open].map(g => `<button class="x" data-g="${g}">${esc(BIG[g].name)} ✕</button>`).join('')) + [...state.sel].map(f => `<button class="x" data-f="${esc(f)}">${esc(f)} ✕</button>`).join('') + (state.q ? `<span class="pill">“${esc(state.q)}”</span>` : '');
@@ -569,7 +591,7 @@ function render(){
   }
 }
 $('#sform').addEventListener('submit', e => { e.preventDefault(); state.q = $('#q').value.trim(); render(); $('#results').scrollIntoView({behavior:'smooth'}); });
-$('#q').addEventListener('input', e => { if (!e.isComposing) { state.q = e.target.value.trim(); render(); } });
+$('#q').addEventListener('input', e => { state.q = e.target.value.trim(); render(); });
 const vl = arr => arr.map(([n,ref]) => `<span class="${ref?'':'add'}">${esc(n)}</span>`).join('');
 $('#t1list').innerHTML = vl(D.tierRef.T1); $('#t2list').innerHTML = vl(D.tierRef.T2);
 
@@ -695,12 +717,12 @@ function route(){
     $('#listView').classList.add('hidden');
     const dv = $('#detailView'); dv.innerHTML = detail(bySlug[h.slice(4)]); dv.classList.remove('hidden'); dv.classList.remove('fadein'); void dv.offsetWidth; dv.classList.add('fadein');
     dv.querySelectorAll('.ptab').forEach(b => b.onclick = () => { dv.querySelectorAll('.ptab').forEach(x => x.classList.toggle('on', x===b)); dv.querySelectorAll('.pview').forEach(v => v.hidden = v.dataset.v !== b.dataset.v); });
-    document.title = `${bySlug[h.slice(4)].pis.join('·')} 교수 연구실 ${bySlug[h.slice(4)].short} | KU Computer Science Directory`;
+    document.title = `${bySlug[h.slice(4)].pis.join('·')} 교수 연구실 ${bySlug[h.slice(4)].short} | 컴랩 · 고려대`;
     window.scrollTo(0, 0);
     return;
   }
   const wasDetail = !$('#detailView').classList.contains('hidden'); $('#detailView').classList.add('hidden'); $('#listView').classList.remove('hidden'); if (wasDetail) { const lv = $('#listView'); lv.classList.remove('fadein'); void lv.offsetWidth; lv.classList.add('fadein'); }
-  document.title = 'KU Computer Science Directory — 고려대 컴퓨터 분야 연구실';
+  document.title = '컴랩 · 고려대 — 고려대 컴퓨터 분야 연구실';
   if (h.startsWith('area-')) {
     const [b, m, f] = h.slice(5).split('-');
     const ff = MID[m] && f != null ? MID[m].fine[+f] : null; state.q=''; $('#q').value='';

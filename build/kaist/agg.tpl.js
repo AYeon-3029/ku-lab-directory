@@ -1,0 +1,9 @@
+window.AGG=async(id,pids)=>{const T1=new Set(__T1__),T2=new Set(__T2__);const S=localStorage;
+const recs=[];for(const pid of pids){let x;for(let t=0;t<4;t++){try{const r=await fetch('/pid/'+pid+'.xml');if(r.ok){x=await r.text();break}}catch(e){}await new Promise(r=>setTimeout(r,2500))}if(!x)return id+' ERR '+pid;
+const d=new DOMParser().parseFromString(x,'text/xml');for(const r of d.querySelectorAll('dblpperson > r')){const e=r.firstElementChild;if(!e)continue;const y=+((e.querySelector('year')||{}).textContent);if(y<2024||y>2026)continue;if(e.getAttribute('publtype'))continue;const key=e.getAttribute('key');const p=key.split('/');if(p[1]=='corr'||p[1]=='iacr')continue;const kind=p[0]=='conf'?'c':p[0]=='journals'?'j':'';if(!kind)continue;const bt=((e.querySelector('booktitle')||e.querySelector('journal')||{}).textContent)||'';const flag=/Findings/.test(bt)?'F':/workshop|Workshops|Companion|Extended Abstracts|Adjunct|Demo|Poster|Doctoral/i.test(bt)?'W':'';const au=[...e.querySelectorAll('author')].map(a=>a.textContent.replace(/ \d{4}$/,''));recs.push({y,pre:kind+':'+p[1],flag,key,t:((e.querySelector('title')||{}).textContent||'').replace(/\s+/g,' '),au})}}
+const seen=new Set();const R=recs.filter(r=>!seen.has(r.key)&&seen.add(r.key));S['au_'+id]=JSON.stringify(R.map(r=>[r.key,r.au]));
+const agg={};for(const r of R){const k=r.y+'|'+r.pre+'|'+r.flag;agg[k]=(agg[k]||0)+1}
+const sub=r=>(r.pre[0]=='j'?'j':'')+r.pre.slice(2);const tier=r=>r.flag=='W'?3:T1.has(sub(r))?(r.flag=='F'?1:0):T2.has(sub(r))?1:2;
+const rec=R.slice().sort((a,b)=>tier(a)-tier(b)||b.y-a.y).slice(0,8).sort((a,b)=>b.y-a.y);
+const sh=au=>au.length<=3?au.join(', '):au.slice(0,2).join(', ')+' 외 '+(au.length-2)+'명';
+return id+'='+Object.entries(agg).map(([k,v])=>k+'|'+v).join(',')+'\n'+rec.map(r=>[id,r.y,r.pre,r.flag,r.t.replace(/\.$/,'').slice(0,140),sh(r.au),'',r.key].join('~')).join('\n')}
