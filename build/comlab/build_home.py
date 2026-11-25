@@ -116,7 +116,7 @@ h2{{font-size:20px;font-weight:800;letter-spacing:-.02em;margin:0 0 14px}}
 .sch .row{{margin-top:auto;padding-top:18px;display:flex;justify-content:space-between;align-items:flex-end;gap:8px}}
 .sch .n{{font-size:14px;opacity:.9}}.sch .n b{{font-size:26px;font-weight:800;margin-right:2px}}
 .sch .go{{font-size:13.5px;font-weight:700;background:rgba(255,255,255,.16);border-radius:9px;padding:8px 12px;white-space:nowrap}}
-.sch .mark{{position:absolute;opacity:.13;pointer-events:none;user-select:none;right:20px;bottom:18px}}.mark[data-k=ku]{{height:260px;right:-54px;top:-56px;bottom:auto;opacity:.15}}.mark[data-k=kaist]{{width:214px;right:14px;bottom:24px}}.sch>span{{position:relative}}
+.sch .mark{{position:absolute;opacity:.13;pointer-events:none;user-select:none;right:20px;bottom:18px}}.mark[data-k=ku]{{height:240px;right:-10px;top:-44px;bottom:auto;opacity:.15}}.mark[data-k=kaist]{{width:min(168px,calc(100% - 100px));right:16px;bottom:20px}}.sch>span{{position:relative}}
 .sch.wait{{border:1.5px dashed #D5D8DE;color:var(--ink3)}}
 .sch.wait .st{{margin-top:auto;font-size:13.5px;font-weight:600}}
 @media (hover:hover) and (pointer:fine){{.sch.on:hover{{transform:translateY(-3px)}}.sch.on:hover .go{{background:rgba(255,255,255,.26)}}}}
@@ -133,7 +133,7 @@ footer a{{text-decoration:underline}}
 @media (max-width:680px){{
   .wrap{{padding:0 16px}}.find{{padding-top:7vh}}.sub{{font-size:15px}}
   #q{{height:54px;font-size:16px}}
-  .block{{margin-top:52px}}.schools{{grid-template-columns:1fr 1fr;gap:10px}}.sch{{min-height:150px;padding:18px 16px 16px}}.sch .big{{font-size:19px}}.sch .dep{{display:none}}.mark[data-k=ku]{{height:200px;right:-44px;top:-42px;bottom:auto}}.mark[data-k=kaist]{{width:150px;right:8px;bottom:22px}}.sch .go{{display:none}}.news a{{grid-template-columns:auto 1fr;}}.news time{{grid-column:1/-1}}
+  .block{{margin-top:52px}}.schools{{grid-template-columns:1fr 1fr;gap:10px}}.sch{{min-height:150px;padding:18px 16px 16px}}.sch .big{{font-size:19px}}.sch .dep{{display:none}}.mark[data-k=ku]{{height:196px;right:-12px;top:-38px;bottom:auto}}.mark[data-k=kaist]{{width:min(112px,calc(100% - 80px));right:12px;bottom:18px}}.sch .go{{display:none}}.news a{{grid-template-columns:auto 1fr;}}.news time{{grid-column:1/-1}}
   .res a{{padding:13px 14px}}
 }}
 @media (prefers-reduced-motion:reduce){{.sch,#q{{transition:none}}}}
