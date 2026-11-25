@@ -350,23 +350,27 @@ a.card:hover{border-color:#d5d8de;box-shadow:0 6px 22px rgba(20,24,35,.06);trans
 .cl-burger{margin-left:auto;flex:none;width:42px;height:42px;border:0;background:none;border-radius:10px;cursor:pointer;display:grid;place-content:center;gap:5px;padding:0}
 .cl-burger span{display:block;width:20px;height:2px;border-radius:2px;background:#16181D}
 .cl-burger:hover{background:#F1F2F4}.cl-burger:focus-visible,.cl-x:focus-visible,.cl-drawer a:focus-visible{outline:2px solid #16181D;outline-offset:2px}
-.cl-scrim{position:fixed;inset:0;background:rgba(16,18,24,.36);opacity:0;visibility:hidden;transition:opacity .25s ease,visibility .25s;z-index:1000}
-.cl-drawer{position:fixed;top:0;right:0;bottom:0;width:min(300px,84vw);background:#fff;z-index:1001;transform:translateX(100%);visibility:hidden;
-  transition:transform .28s cubic-bezier(.2,.8,.2,1),visibility .28s;box-shadow:-12px 0 32px -12px rgba(16,18,24,.25);padding:0 14px 24px;overflow-y:auto;
+.cl-scrim{position:fixed;inset:0;background:rgba(16,18,24,.28);-webkit-backdrop-filter:blur(2.5px);backdrop-filter:blur(2.5px);opacity:0;visibility:hidden;transition:opacity .4s ease,visibility .4s;z-index:1000}
+.cl-drawer{position:fixed;top:10px;right:10px;bottom:10px;width:min(280px,calc(100vw - 64px));background:#fff;z-index:1001;border-radius:20px;
+  transform:translateX(calc(100% + 24px));opacity:.6;visibility:hidden;
+  transition:transform .45s cubic-bezier(.22,1,.36,1),opacity .35s ease,visibility .45s;box-shadow:0 20px 50px -12px rgba(16,18,24,.28);padding:0 12px 20px;overflow-y:auto;
   font-family:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;color:#16181D}
 html.cl-open .cl-scrim{opacity:1;visibility:visible}
-html.cl-open .cl-drawer{transform:none;visibility:visible}
+html.cl-open .cl-drawer{transform:none;opacity:1;visibility:visible}
 html.cl-open,html.cl-open body{overflow:hidden}
-.cl-dh{display:flex;align-items:center;justify-content:space-between;height:64px;padding:0 4px 0 10px}
-.cl-dh b{font-size:17px;font-weight:800}
-.cl-x{width:40px;height:40px;border:0;background:none;border-radius:10px;cursor:pointer;display:grid;place-content:center;color:#16181D}
+.cl-dh{display:flex;align-items:center;justify-content:space-between;height:60px;padding:0 2px 0 10px}
+.cl-dh b{font-size:16px;font-weight:800}
+.cl-x{width:38px;height:38px;border:0;background:none;border-radius:10px;cursor:pointer;display:grid;place-content:center;color:#16181D}
 .cl-x:hover{background:#F1F2F4}
 .cl-drawer ul{list-style:none;margin:0;padding:0}
-.cl-drawer a{display:flex;align-items:center;gap:10px;padding:12px 10px;border-radius:10px;font-size:16px;font-weight:650;color:#16181D;text-decoration:none}
+.cl-drawer a{display:flex;align-items:center;gap:10px;padding:11px 10px;border-radius:10px;font-size:15.5px;font-weight:600;color:#16181D;text-decoration:none;transition:background-color .15s}
 .cl-drawer a:hover{background:#F4F5F7}
 .cl-drawer a[aria-current]{background:#F1F2F4}
-.cl-drawer a i{width:10px;height:10px;border-radius:3px;flex:none}
-.cl-g{margin:18px 10px 6px;font-size:12.5px;font-weight:650;color:#8A909C}
+.cl-g{margin:16px 10px 4px;font-size:12px;font-weight:650;color:#8A909C}
+@media (max-width:560px){
+  .cl-drawer{top:8px;right:8px;bottom:auto;max-height:calc(100% - 16px);width:min(232px,calc(100vw - 72px));border-radius:18px;padding:0 8px 16px}
+  .cl-dh{height:54px}.cl-drawer a{font-size:15px;padding:10px 10px}.cl-g{margin-top:12px}
+}
 @media (prefers-reduced-motion:reduce){.cl-drawer,.cl-scrim{transition:none}}
 </style>
 </head>
