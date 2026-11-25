@@ -69,7 +69,7 @@ html = f'''<!DOCTYPE html>
 <meta property="og:type" content="website"><meta property="og:site_name" content="컴랩"><meta property="og:url" content="https://ku-lab-directory.vercel.app/">
 <meta property="og:title" content="컴랩 — 대학 컴퓨터·AI 연구실 찾기">
 <meta property="og:description" content="고려대 {kus[0]}곳, KAIST {kas[0]}곳. 연구 분야, 2024–26 논문 실적, 학부 인턴, 졸업생 진로로 연구실을 비교해 보세요.">
-<meta property="og:image" content="https://ku-lab-directory.vercel.app/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image" content="https://ku-lab-directory.vercel.app/og.png?v=2"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta property="og:locale" content="ko_KR"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#ffffff">
 <link rel="icon" href="{FAV}">
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
