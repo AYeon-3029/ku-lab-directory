@@ -27,7 +27,7 @@ NEWS = []
 # 문의: Formspree 폼 ID (https://formspree.io/f/<ID>). 비어 있으면 메일 앱으로 대신 보내요.
 FORMSPREE_ID = ''
 DEV = dict(name='김정훈', role='고려대학교 컴퓨터학과', email='rexmang1229@gmail.com',
-           github='https://github.com/AYeon-3029', linkedin='')
+           github='https://github.com/AYeon-3029', linkedin='https://www.linkedin.com/in/junghoon-kim-aa4a23450/')
 
 ALL = []
 for sc in SCHOOLS:
@@ -133,8 +133,21 @@ h2{{font-size:20px;font-weight:800;letter-spacing:-.02em;margin:0 0 14px}}
 .nt{{font-size:15px;line-height:1.5}}.nt b{{margin-right:8px}}
 .empty{{background:var(--bg2);border-radius:18px;padding:26px 24px;display:grid;gap:6px;font-size:14.5px;color:var(--ink2);line-height:1.6}}
 .empty b{{color:var(--ink);font-size:15.5px}}
-header .top{{margin-left:auto}}header .top a{{font-size:14px;font-weight:650;color:var(--ink2);padding:8px 12px;border-radius:8px}}header .top a:hover{{background:var(--bg2);color:var(--ink)}}
-html{{scroll-behavior:smooth}}#contact{{scroll-margin-top:20px}}
+header{{position:relative;z-index:20;background:#fff}}
+.brand{{display:flex;align-items:center;gap:10px}}
+.burger{{margin-left:auto;width:42px;height:42px;border:0;background:none;border-radius:10px;cursor:pointer;display:grid;place-content:center;gap:5px;padding:0}}
+.burger span{{display:block;width:20px;height:2px;border-radius:2px;background:var(--ink);transition:transform .2s,opacity .2s}}
+.burger:hover{{background:var(--bg2)}}.burger:focus-visible{{outline:2px solid var(--ink);outline-offset:2px}}
+.burger[aria-expanded=true] span:nth-child(1){{transform:translateY(7px) rotate(45deg)}}.burger[aria-expanded=true] span:nth-child(2){{opacity:0}}.burger[aria-expanded=true] span:nth-child(3){{transform:translateY(-7px) rotate(-45deg)}}
+.menu{{position:absolute;left:0;right:0;top:64px;background:#fff;border-bottom:1px solid var(--rule);box-shadow:0 12px 24px -16px rgba(22,24,29,.25)}}
+.menu .wrap{{display:block;height:auto}}
+.menu ul{{list-style:none;margin:0;padding:8px 0 14px;display:grid}}
+.menu a{{display:block;padding:12px 4px;font-size:16px;font-weight:650;border-radius:8px}}
+.menu a:hover{{background:var(--bg2);padding-left:10px}}.menu a[aria-current]{{color:var(--ink3)}}
+.menu .sep{{border-top:1px solid var(--rule);margin-top:6px;padding-top:6px}}
+.page{{max-width:640px;margin:0 auto;padding:7vh 0 0}}
+.page h1{{font-size:clamp(28px,4vw,38px);margin:0 0 10px}}
+.page .hint{{margin:0 0 26px}}
 .two{{display:grid;grid-template-columns:1.5fr 1fr;gap:40px;align-items:start}}
 .hint{{margin:-6px 0 16px;color:var(--ink2);font-size:14.5px;line-height:1.6}}
 #ask{{display:grid;grid-template-columns:1fr 1fr;gap:12px}}
@@ -163,9 +176,13 @@ footer a{{text-decoration:underline}}
   .res a{{padding:13px 14px}}
   .two{{grid-template-columns:1fr;gap:44px}}#ask{{grid-template-columns:1fr}}
 }}
-@media (prefers-reduced-motion:reduce){{.sch,#q{{transition:none}}}}
+@media (prefers-reduced-motion:reduce){{.sch,#q,.burger span{{transition:none}}}}
 </style></head><body>
-<header><div class="wrap">{LOGO}<b>컴랩</b><nav class="top"><a href="#contact">문의하기</a></nav></div></header>
+<header><div class="wrap"><a class="brand" href="/">{LOGO}<b>컴랩</b></a>
+<button class="burger" id="burger" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button></div>
+<nav class="menu" id="menu" aria-label="사이트 메뉴" hidden><div class="wrap"><ul>
+<li><a href="/" data-p="home">홈</a></li><li><a href="/ku/">고려대</a></li><li><a href="/kaist/">KAIST</a></li>
+<li class="sep"><a href="/contact/" data-p="contact">문의하기</a></li><li><a href="/about/" data-p="about">만든 사람</a></li></ul></div></nav></header>
 <main class="wrap">
   <section class="find">
     <h1>어떤 연구실을 찾고 있나요?</h1>
@@ -263,6 +280,47 @@ F.addEventListener('submit',async e=>{{
 }});
 </script>
 </body></html>'''
-open('index.html', 'w').write(html)
-open('artifact.html', 'w').write(html.replace('<link rel="preconnect" href="https://cdn.jsdelivr.net">\n', '').replace('<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media=\'all\'">\n', ''))
+
+import re
+MENU_JS = """<script>
+(function(){
+  var b=document.getElementById('burger'), m=document.getElementById('menu'), P=document.body.dataset.page;
+  m.querySelectorAll('a').forEach(function(a){ if(a.dataset.p===P) a.setAttribute('aria-current','page'); });
+  function set(o){ b.setAttribute('aria-expanded',o); b.setAttribute('aria-label',o?'메뉴 닫기':'메뉴 열기'); m.hidden=!o; }
+  b.addEventListener('click',function(e){ e.stopPropagation(); set(m.hidden); });
+  document.addEventListener('click',function(e){ if(!m.hidden && !m.contains(e.target)) set(false); });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape' && !m.hidden){ set(false); b.focus(); } });
+})();
+</script>"""
+c0 = html.index('  <section class="block two" id="contact">'); c1 = html.index('</main>')
+contact_sec = html[c0:c1]
+ask = contact_sec[contact_sec.index('<div class="ask"'):contact_sec.index('<div class="dev"')]
+dev = contact_sec[contact_sec.index('<div class="dev"'):contact_sec.rindex('</section>')]
+j0 = html.index("const FS='"); j1 = html.rindex('</script>')
+contact_js = html[j0:j1]
+base = html[:c0] + html[c1:j0] + html[j1:]          # main page
+base = base.replace('</body>', MENU_JS + '</body>')
+def sub_page(page, title, desc, body, js=''):
+    h = base
+    a = h.index('<main class="wrap">') + len('<main class="wrap">'); b = h.index('</main>')
+    h = h[:a] + '\n  <section class="page">' + body + '</section>\n' + h[b:]
+    s0 = h.index('<script>\nconst L='); s1 = h.index('</script>', s0) + len('</script>')
+    h = h[:s0] + ('<script>\n' + js + '</script>' if js else '') + h[s1:]
+    h = re.sub(r'<title>[^<]*</title>', f'<title>{title} — 컴랩</title>', h)
+    h = re.sub(r'<meta property="og:title" content="[^"]*">', f'<meta property="og:title" content="{title} — 컴랩">', h)
+    h = re.sub(r'<meta name="description" content="[^"]*">', f'<meta name="description" content="{desc}">', h)
+    h = h.replace('og:url" content="https://ku-lab-directory.vercel.app/"', f'og:url" content="https://ku-lab-directory.vercel.app/{page}/"')
+    return h.replace('<body>', f'<body data-page="{page}">')
+ask_body = ask.replace('<div class="ask" aria-labelledby="h-ask">','<div class="ask">').replace('<h2 id="h-ask">문의하기</h2>','<h1>문의하기</h1>')
+dev_body = dev.replace('<div class="dev" aria-labelledby="h-dev">','<div class="dev">').replace('<h2 id="h-dev">만든 사람</h2>','<h1>만든 사람</h1>')
+pages = {
+  'index.html': base.replace('<body>', '<body data-page="home">'),
+  'contact/index.html': sub_page('contact', '문의하기', '컴랩에 연구실 정보 수정, 학교 추가 요청, 오류 제보를 보내 주세요.', ask_body, contact_js),
+  'about/index.html': sub_page('about', '만든 사람', '컴랩을 만든 사람을 소개해요.', dev_body),
+}
+import os
+for p, h in pages.items():
+    os.makedirs(os.path.dirname(p) or '.', exist_ok=True)
+    open(p, 'w').write(h)
+    open(p.replace('index.html', 'artifact.html'), 'w').write(h.replace('<link rel="preconnect" href="https://cdn.jsdelivr.net">\n', '').replace('<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media=\'all\'">\n', ''))
 print(TOTAL, len(IDX))

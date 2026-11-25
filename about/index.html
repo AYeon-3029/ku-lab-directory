@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>만든 사람 — 컴랩</title>
+<meta name="description" content="컴랩을 만든 사람을 소개해요.">
+<meta property="og:type" content="website"><meta property="og:site_name" content="컴랩"><meta property="og:url" content="https://ku-lab-directory.vercel.app/about/">
+<meta property="og:title" content="만든 사람 — 컴랩">
+<meta property="og:description" content="고려대 132곳, KAIST 97곳. 연구 분야, 2024–26 논문 실적, 학부 인턴, 졸업생 진로로 연구실을 비교해 보세요.">
+<meta property="og:image" content="https://ku-lab-directory.vercel.app/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:locale" content="ko_KR"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#ffffff">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20viewBox=%220%200%2040%2040%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Crect%20x=%222%22%20y=%223%22%20width=%2236%22%20height=%2234%22%20rx=%229%22%20fill=%22%231D2029%22/%3E%3Cpath%20d=%22M10%2014L18%2021L10%2028%22%20stroke=%22%23fff%22%20stroke-width=%224%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20fill=%22none%22/%3E%3Crect%20x=%2220%22%20y=%2225%22%20width=%2211%22%20height=%224.5%22%20rx=%221.5%22%20fill=%22%23fff%22/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media='all'">
+<style>
+:root{--ink:#16181D;--ink2:#4A505C;--ink3:#8A909C;--rule:#E4E6EA;--bg2:#F4F5F7;--ku:#A6192E;--kus:#FBEFF1;--ka:#0B4EA2;--kas:#EDF3FB}
+*{box-sizing:border-box}html{-webkit-tap-highlight-color:transparent}
+body{margin:0;font-family:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;color:var(--ink);background:#fff;-webkit-font-smoothing:antialiased;min-height:100vh;display:flex;flex-direction:column}
+a{color:inherit;text-decoration:none}
+.wrap{width:100%;max-width:1040px;margin:0 auto;padding:0 24px}
+header .wrap{display:flex;align-items:center;gap:10px;height:64px}
+header svg{width:30px;height:30px}header b{font-size:18px;font-weight:800;letter-spacing:-.02em}
+main{flex:1}
+
+.find{max-width:720px;margin:0 auto;padding:12vh 0 0;text-align:center}
+h1{margin:0;font-size:clamp(30px,4.6vw,46px);line-height:1.2;letter-spacing:-.035em;font-weight:800}
+.sub{margin:14px 0 0;color:var(--ink2);font-size:16px;line-height:1.6}
+.box{position:relative;margin:34px 0 0;text-align:left}
+.box svg{position:absolute;left:20px;top:50%;transform:translateY(-50%);color:var(--ink3);pointer-events:none}
+#q{width:100%;height:60px;border:1.5px solid #D5D8DE;border-radius:16px;padding:0 20px 0 52px;font:inherit;font-size:17px;color:var(--ink);background:#fff;outline:none;transition:border-color .15s,box-shadow .15s}
+#q::placeholder{color:#A3A8B2}
+#q:focus{border-color:var(--ink);box-shadow:0 0 0 4px rgba(22,24,29,.07)}
+.chips{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin:16px 0 0}
+.chips button{font:inherit;font-size:14px;font-weight:600;color:var(--ink2);background:var(--bg2);border:0;border-radius:999px;padding:8px 14px;cursor:pointer}
+.chips button:hover{background:#E8EAEE;color:var(--ink)}
+.chips button:focus-visible,.res a:focus-visible,.door:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+
+.res{max-width:720px;margin:22px auto 0;text-align:left}
+.res .meta{font-size:13.5px;color:var(--ink3);margin:0 4px 8px;display:flex;justify-content:space-between}
+.res ul{list-style:none;margin:0;padding:0;border:1px solid var(--rule);border-radius:16px;overflow:hidden}
+.res li+li{border-top:1px solid var(--rule)}
+.res a{display:grid;grid-template-columns:auto 1fr;gap:2px 12px;padding:14px 18px;align-items:baseline}
+.res a:hover{background:#FAFAFB}
+.tag{grid-row:span 2;align-self:start;font-size:12px;font-weight:700;border-radius:6px;padding:3px 7px;margin-top:2px}
+.tag{color:var(--c);background:var(--s)}
+.nm{font-size:16px;font-weight:700}.nm small{font-size:13.5px;font-weight:500;color:var(--ink3);margin-left:6px}
+.ds{font-size:13.5px;color:var(--ink2);line-height:1.5}
+mark{background:#FFF1B8;color:inherit;border-radius:2px}
+.none{padding:28px;text-align:center;color:var(--ink2);font-size:14.5px;border:1px dashed #D5D8DE;border-radius:16px}
+.more{display:block;width:100%;margin-top:8px;font:inherit;font-size:14px;font-weight:600;color:var(--ink2);background:var(--bg2);border:0;border-radius:12px;padding:12px;cursor:pointer}
+
+.block{margin:72px 0 0}
+h2{font-size:20px;font-weight:800;letter-spacing:-.02em;margin:0 0 14px}
+.schools{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.sch{border-radius:18px;padding:22px 22px 18px;display:flex;flex-direction:column;min-height:176px;position:relative;overflow:hidden}
+.sch.on{background:var(--c);color:#fff;transition:transform .2s ease}
+.sch .big{font-size:24px;font-weight:850;letter-spacing:-.03em}
+.sch .dep{font-size:13px;opacity:.8;margin-top:6px;line-height:1.55}
+.sch .row{margin-top:auto;padding-top:18px;display:flex;justify-content:space-between;align-items:flex-end;gap:8px}
+.sch .n{font-size:14px;opacity:.9}.sch .n b{font-size:26px;font-weight:800;margin-right:2px}
+.sch .go{font-size:13.5px;font-weight:700;background:rgba(255,255,255,.16);border-radius:9px;padding:8px 12px;white-space:nowrap}
+.sch .mark{position:absolute;opacity:.13;pointer-events:none;user-select:none;right:20px;bottom:18px}.mark[data-k=ku]{height:240px;right:-10px;top:-44px;bottom:auto;opacity:.15}.mark[data-k=kaist]{width:min(168px,calc(100% - 100px));right:16px;bottom:20px}.sch>span{position:relative}
+.sch.wait{border:1.5px dashed #D5D8DE;color:var(--ink3)}
+.sch.wait .st{margin-top:auto;font-size:13.5px;font-weight:600}
+@media (hover:hover) and (pointer:fine){.sch.on:hover{transform:translateY(-3px)}.sch.on:hover .go{background:rgba(255,255,255,.26)}}
+.sch:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.news{list-style:none;margin:0;padding:0;border-top:1px solid var(--rule)}
+.news li{border-bottom:1px solid var(--rule)}
+.news a{display:grid;grid-template-columns:52px auto 1fr;gap:12px;align-items:baseline;padding:14px 4px}
+.news time{font-size:13px;color:var(--ink3);font-weight:600}.news .tag{font-size:12px;font-weight:700;border-radius:6px;padding:3px 7px}
+.nt{font-size:15px;line-height:1.5}.nt b{margin-right:8px}
+.empty{background:var(--bg2);border-radius:18px;padding:26px 24px;display:grid;gap:6px;font-size:14.5px;color:var(--ink2);line-height:1.6}
+.empty b{color:var(--ink);font-size:15.5px}
+header{position:relative;z-index:20;background:#fff}
+.brand{display:flex;align-items:center;gap:10px}
+.burger{margin-left:auto;width:42px;height:42px;border:0;background:none;border-radius:10px;cursor:pointer;display:grid;place-content:center;gap:5px;padding:0}
+.burger span{display:block;width:20px;height:2px;border-radius:2px;background:var(--ink);transition:transform .2s,opacity .2s}
+.burger:hover{background:var(--bg2)}.burger:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.burger[aria-expanded=true] span:nth-child(1){transform:translateY(7px) rotate(45deg)}.burger[aria-expanded=true] span:nth-child(2){opacity:0}.burger[aria-expanded=true] span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+.menu{position:absolute;left:0;right:0;top:64px;background:#fff;border-bottom:1px solid var(--rule);box-shadow:0 12px 24px -16px rgba(22,24,29,.25)}
+.menu .wrap{display:block;height:auto}
+.menu ul{list-style:none;margin:0;padding:8px 0 14px;display:grid}
+.menu a{display:block;padding:12px 4px;font-size:16px;font-weight:650;border-radius:8px}
+.menu a:hover{background:var(--bg2);padding-left:10px}.menu a[aria-current]{color:var(--ink3)}
+.menu .sep{border-top:1px solid var(--rule);margin-top:6px;padding-top:6px}
+.page{max-width:640px;margin:0 auto;padding:7vh 0 0}
+.page h1{font-size:clamp(28px,4vw,38px);margin:0 0 10px}
+.page .hint{margin:0 0 26px}
+.two{display:grid;grid-template-columns:1.5fr 1fr;gap:40px;align-items:start}
+.hint{margin:-6px 0 16px;color:var(--ink2);font-size:14.5px;line-height:1.6}
+#ask{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+#ask label{display:grid;gap:6px;font-size:13.5px;font-weight:650;color:var(--ink2)}#ask .full{grid-column:1/-1}
+#ask .opt{font-weight:500;color:var(--ink3)}
+#ask input,#ask select,#ask textarea{font:inherit;font-size:15px;font-weight:500;color:var(--ink);border:1.5px solid #D5D8DE;border-radius:12px;padding:11px 13px;background:#fff;outline:none;width:100%}
+#ask textarea{resize:vertical;min-height:120px;line-height:1.55}
+#ask input:focus,#ask select:focus,#ask textarea:focus{border-color:var(--ink)}
+#ask .hp{position:absolute;left:-9999px;width:1px;height:1px}
+.send{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.send button{font:inherit;font-size:15px;font-weight:700;color:#fff;background:var(--ink);border:0;border-radius:12px;padding:12px 20px;cursor:pointer}
+.send button:disabled{opacity:.5;cursor:default}.send button:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+#askmsg{font-size:14px;color:var(--ink2)}#askmsg.ok{color:#1A7F4B;font-weight:650}#askmsg.err{color:#B42318}
+.dev .card{background:var(--bg2);border-radius:18px;padding:24px;display:grid;gap:4px}
+.dev .dn{font-size:20px;font-weight:800}.dev .dr{font-size:14px;color:var(--ink2)}
+.dev p{margin:12px 0 4px;font-size:14px;line-height:1.65;color:var(--ink2)}
+.links{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.links a{display:inline-block;font-size:13.5px;font-weight:650;background:#fff;border:1px solid var(--rule);border-radius:999px;padding:7px 12px}
+.links a:hover{border-color:var(--ink3)}
+footer{margin-top:64px;border-top:1px solid var(--rule);padding:22px 0 40px;font-size:12.5px;color:var(--ink3);line-height:1.7}
+footer a{text-decoration:underline}
+@media (max-width:680px){
+  .wrap{padding:0 16px}.find{padding-top:7vh}.sub{font-size:15px}
+  #q{height:54px;font-size:16px}
+  .block{margin-top:52px}.schools{grid-template-columns:1fr 1fr;gap:10px}.sch{min-height:150px;padding:18px 16px 16px}.sch .big{font-size:19px}.sch .dep{display:none}.mark[data-k=ku]{height:196px;right:-12px;top:-38px;bottom:auto}.mark[data-k=kaist]{width:min(112px,calc(100% - 80px));right:12px;bottom:18px}.sch .go{display:none}.news a{grid-template-columns:auto 1fr;}.news time{grid-column:1/-1}
+  .res a{padding:13px 14px}
+  .two{grid-template-columns:1fr;gap:44px}#ask{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){.sch,#q,.burger span{transition:none}}
+</style></head><body data-page="about">
+<header><div class="wrap"><a class="brand" href="/"><svg viewBox="0 0 40 40" aria-hidden="true"><rect x="2" y="3" width="36" height="34" rx="9" fill="#1D2029"/><path d="M10 14L18 21L10 28" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="20" y="25" width="11" height="4.5" rx="1.5" fill="#fff"/></svg><b>컴랩</b></a>
+<button class="burger" id="burger" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button></div>
+<nav class="menu" id="menu" aria-label="사이트 메뉴" hidden><div class="wrap"><ul>
+<li><a href="/" data-p="home">홈</a></li><li><a href="/ku/">고려대</a></li><li><a href="/kaist/">KAIST</a></li>
+<li class="sep"><a href="/contact/" data-p="contact">문의하기</a></li><li><a href="/about/" data-p="about">만든 사람</a></li></ul></div></nav></header>
+<main class="wrap">
+  <section class="page"><div class="dev">
+      <h1>만든 사람</h1>
+      <div class="card">
+        <b class="dn">김정훈</b>
+        <span class="dr">고려대학교 컴퓨터학과</span>
+        <p>연구실을 고를 때 필요한 정보를 한곳에서 비교하고 싶어서 만들었어요. 학생 개인이 만든 사이트라 학교와는 관련이 없어요.</p>
+        <ul class="links">
+          <li><a href="mailto:rexmang1229@gmail.com">rexmang1229@gmail.com</a></li>
+          <li><a href="https://github.com/AYeon-3029" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/junghoon-kim-aa4a23450/" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+<footer><div class="wrap">출처는 각 대학·연구실 홈페이지와 <a href="https://dblp.org" target="_blank" rel="noopener">dblp</a>예요. 학회 등급은 분류일 뿐 연구실 순위가 아니에요.</div></footer>
+
+<script>
+(function(){
+  var b=document.getElementById('burger'), m=document.getElementById('menu'), P=document.body.dataset.page;
+  m.querySelectorAll('a').forEach(function(a){ if(a.dataset.p===P) a.setAttribute('aria-current','page'); });
+  function set(o){ b.setAttribute('aria-expanded',o); b.setAttribute('aria-label',o?'메뉴 닫기':'메뉴 열기'); m.hidden=!o; }
+  b.addEventListener('click',function(e){ e.stopPropagation(); set(m.hidden); });
+  document.addEventListener('click',function(e){ if(!m.hidden && !m.contains(e.target)) set(false); });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape' && !m.hidden){ set(false); b.focus(); } });
+})();
+</script></body></html>
