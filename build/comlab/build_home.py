@@ -25,7 +25,7 @@ SCHOOLS = [
 NEWS = []
 
 # 문의: Formspree 폼 ID (https://formspree.io/f/<ID>). 비어 있으면 메일 앱으로 대신 보내요.
-FORMSPREE_ID = ''
+FORMSPREE_ID = 'xwloadwo'
 DEV = dict(name='김정훈', role='고려대학교 컴퓨터학과', email='rexmang1229@gmail.com',
            github='https://github.com/AYeon-3029', linkedin='https://www.linkedin.com/in/junghoon-kim-aa4a23450/')
 
