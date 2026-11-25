@@ -16,6 +16,8 @@
 body{margin:0;font-family:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;color:var(--ink);background:#fff;-webkit-font-smoothing:antialiased;min-height:100vh;display:flex;flex-direction:column}
 a{color:inherit;text-decoration:none}
 .wrap{width:100%;max-width:1040px;margin:0 auto;padding:0 24px}
+header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.88);-webkit-backdrop-filter:saturate(1.4) blur(10px);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid transparent;transition:border-color .2s}
+header.sc{border-bottom-color:var(--rule)}
 header .wrap{display:flex;align-items:center;gap:10px;height:64px}
 header svg{width:30px;height:30px}header b{font-size:18px;font-weight:800;letter-spacing:-.02em}
 main{flex:1}
@@ -148,6 +150,7 @@ html.cl-open,html.cl-open body{overflow:hidden}
     </div>
     </section>
 </main>
+<script>(function(){var h=document.querySelector('header');function f(){h.classList.toggle('sc',scrollY>4);}addEventListener('scroll',f,{passive:true});f();})();</script>
 <footer><div class="wrap">출처는 각 대학·연구실 홈페이지와 <a href="https://dblp.org" target="_blank" rel="noopener">dblp</a>예요. 학회 등급은 분류일 뿐 연구실 순위가 아니에요.</div></footer>
 <script>
 const FS='xwloadwo', DEVMAIL='rexmang1229@gmail.com';
