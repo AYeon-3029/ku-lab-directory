@@ -133,18 +133,7 @@ h2{{font-size:20px;font-weight:800;letter-spacing:-.02em;margin:0 0 14px}}
 .nt{{font-size:15px;line-height:1.5}}.nt b{{margin-right:8px}}
 .empty{{background:var(--bg2);border-radius:18px;padding:26px 24px;display:grid;gap:6px;font-size:14.5px;color:var(--ink2);line-height:1.6}}
 .empty b{{color:var(--ink);font-size:15.5px}}
-header{{position:relative;z-index:20;background:#fff}}
 .brand{{display:flex;align-items:center;gap:10px}}
-.burger{{margin-left:auto;width:42px;height:42px;border:0;background:none;border-radius:10px;cursor:pointer;display:grid;place-content:center;gap:5px;padding:0}}
-.burger span{{display:block;width:20px;height:2px;border-radius:2px;background:var(--ink);transition:transform .2s,opacity .2s}}
-.burger:hover{{background:var(--bg2)}}.burger:focus-visible{{outline:2px solid var(--ink);outline-offset:2px}}
-.burger[aria-expanded=true] span:nth-child(1){{transform:translateY(7px) rotate(45deg)}}.burger[aria-expanded=true] span:nth-child(2){{opacity:0}}.burger[aria-expanded=true] span:nth-child(3){{transform:translateY(-7px) rotate(-45deg)}}
-.menu{{position:absolute;left:0;right:0;top:64px;background:#fff;border-bottom:1px solid var(--rule);box-shadow:0 12px 24px -16px rgba(22,24,29,.25)}}
-.menu .wrap{{display:block;height:auto}}
-.menu ul{{list-style:none;margin:0;padding:8px 0 14px;display:grid}}
-.menu a{{display:block;padding:12px 4px;font-size:16px;font-weight:650;border-radius:8px}}
-.menu a:hover{{background:var(--bg2);padding-left:10px}}.menu a[aria-current]{{color:var(--ink3)}}
-.menu .sep{{border-top:1px solid var(--rule);margin-top:6px;padding-top:6px}}
 .page{{max-width:640px;margin:0 auto;padding:7vh 0 0}}
 .page h1{{font-size:clamp(28px,4vw,38px);margin:0 0 10px}}
 .page .hint{{margin:0 0 26px}}
@@ -176,13 +165,10 @@ footer a{{text-decoration:underline}}
   .res a{{padding:13px 14px}}
   .two{{grid-template-columns:1fr;gap:44px}}#ask{{grid-template-columns:1fr}}
 }}
-@media (prefers-reduced-motion:reduce){{.sch,#q,.burger span{{transition:none}}}}
+@media (prefers-reduced-motion:reduce){{.sch,#q{{transition:none}}}}
 </style></head><body>
 <header><div class="wrap"><a class="brand" href="/">{LOGO}<b>컴랩</b></a>
-<button class="burger" id="burger" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button></div>
-<nav class="menu" id="menu" aria-label="사이트 메뉴" hidden><div class="wrap"><ul>
-<li><a href="/" data-p="home">홈</a></li><li><a href="/ku/">고려대</a></li><li><a href="/kaist/">KAIST</a></li>
-<li class="sep"><a href="/contact/" data-p="contact">문의하기</a></li><li><a href="/about/" data-p="about">만든 사람</a></li></ul></div></nav></header>
+<!--CL-BURGER--></div></header>
 <main class="wrap">
   <section class="find">
     <h1>어떤 연구실을 찾고 있나요?</h1>
@@ -282,16 +268,6 @@ F.addEventListener('submit',async e=>{{
 </body></html>'''
 
 import re
-MENU_JS = """<script>
-(function(){
-  var b=document.getElementById('burger'), m=document.getElementById('menu'), P=document.body.dataset.page;
-  m.querySelectorAll('a').forEach(function(a){ if(a.dataset.p===P) a.setAttribute('aria-current','page'); });
-  function set(o){ b.setAttribute('aria-expanded',o); b.setAttribute('aria-label',o?'메뉴 닫기':'메뉴 열기'); m.hidden=!o; }
-  b.addEventListener('click',function(e){ e.stopPropagation(); set(m.hidden); });
-  document.addEventListener('click',function(e){ if(!m.hidden && !m.contains(e.target)) set(false); });
-  document.addEventListener('keydown',function(e){ if(e.key==='Escape' && !m.hidden){ set(false); b.focus(); } });
-})();
-</script>"""
 c0 = html.index('  <section class="block two" id="contact">'); c1 = html.index('</main>')
 contact_sec = html[c0:c1]
 ask = contact_sec[contact_sec.index('<div class="ask"'):contact_sec.index('<div class="dev"')]
@@ -299,7 +275,6 @@ dev = contact_sec[contact_sec.index('<div class="dev"'):contact_sec.rindex('</se
 j0 = html.index("const FS='"); j1 = html.rindex('</script>')
 contact_js = html[j0:j1]
 base = html[:c0] + html[c1:j0] + html[j1:]          # main page
-base = base.replace('</body>', MENU_JS + '</body>')
 def sub_page(page, title, desc, body, js=''):
     h = base
     a = h.index('<main class="wrap">') + len('<main class="wrap">'); b = h.index('</main>')
@@ -319,7 +294,10 @@ pages = {
   'about/index.html': sub_page('about', '만든 사람', '컴랩을 만든 사람을 소개해요.', dev_body),
 }
 import os
+import drawer
+PG={'index.html':'home','contact/index.html':'contact','about/index.html':'about'}
 for p, h in pages.items():
+    h = drawer.apply(h, PG[p])
     os.makedirs(os.path.dirname(p) or '.', exist_ok=True)
     open(p, 'w').write(h)
     open(p.replace('index.html', 'artifact.html'), 'w').write(h.replace('<link rel="preconnect" href="https://cdn.jsdelivr.net">\n', '').replace('<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media=\'all\'">\n', ''))

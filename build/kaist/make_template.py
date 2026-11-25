@@ -20,7 +20,7 @@ t = re.sub(r'(<meta (?:property="og:description"|name="twitter:description") con
 t = re.sub(r'(<meta property="og:image:alt" content=")[^"]*"', lambda m: m.group(1) + '컴랩 · KAIST — 카이스트 컴퓨터·AI 연구실 __N__곳"', t)
 t = t.replace('https://ku-lab-directory.vercel.app/ku/og.png', 'https://ku-lab-directory.vercel.app/kaist/og.png')
 t = t.replace('<meta property="og:url" content="https://ku-lab-directory.vercel.app/ku/">', '<meta property="og:url" content="https://ku-lab-directory.vercel.app/kaist/">')
-sub('<a class="on" href="/ku/">고려대</a><a href="/kaist/">KAIST</a>', '<a href="/ku/">고려대</a><a class="on" href="/kaist/">KAIST</a>')
+sub('data-page="ku"', 'data-page="kaist"')
 sub('컴랩 · Korea University', '컴랩 · KAIST')
 sub('<h1 id="heroTitle">고려대 컴퓨터학과 연구실 디렉토리</h1>', '<h1 id="heroTitle">KAIST 컴퓨터·AI 연구실 디렉토리</h1>')
 sub("const depts = [['전체',true,''],['컴퓨터학과',false,''],['인공지능학과',false,''],['데이터과학과',false,''],['전기전자공학부',false,''],['기계공학부',false,'']];",
